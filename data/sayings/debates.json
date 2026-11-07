@@ -1,0 +1,1061 @@
+[
+ {
+  "id": "valladolid",
+  "title": "Valladolid debate",
+  "year": 1550.6,
+  "end": 1551.5,
+  "lat": 41.6523,
+  "lon": -4.7245,
+  "place": "Colegio de San Gregorio, Valladolid",
+  "sides": [
+   [
+    "Bartolomé de las Casas",
+    "Indigenous Americans are free by nature; convert without force"
+   ],
+   [
+    "Juan Ginés de Sepúlveda",
+    "Some natives may be enslaved or subdued by war"
+   ]
+  ],
+  "summary": "Spanish crown panel on the rights of Native Americans and the justice of conquest; no collective verdict was ever issued, and both sides claimed victory.",
+  "lines": [
+   [
+    "Sepúlveda",
+    "in order to uproot crimes that offend nature"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Valladolid_debate",
+  "wiki": "Valladolid debate"
+ },
+ {
+  "id": "huxley-wilberforce",
+  "title": "Oxford evolution debate (Huxley vs Wilberforce)",
+  "year": 1860.493,
+  "lat": 51.7592,
+  "lon": -1.2547,
+  "place": "Oxford University Museum",
+  "sides": [
+   [
+    "Samuel Wilberforce / FitzRoy",
+    "Opposed Darwin's Origin of Species"
+   ],
+   [
+    "T. H. Huxley / J. D. Hooker",
+    "Defended Darwin's theory"
+   ]
+  ],
+  "summary": "British Association meeting where the bishop and Darwin's defenders clashed; no verbatim record exists and the famous exchanges are reports.",
+  "lines": [
+   [
+    "Wilberforce (reported)",
+    "whether it was through his grandfather or his grandmother that he claimed his descent from a monkey"
+   ],
+   [
+    "Huxley (reported)",
+    "would not be ashamed to have a monkey for his ancestor"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/1860_Oxford_evolution_debate",
+  "wiki": "1860 Oxford evolution debate"
+ },
+ {
+  "id": "lincoln-douglas-ottawa",
+  "title": "Lincoln-Douglas debate at Ottawa",
+  "year": 1858.636,
+  "lat": 41.3456,
+  "lon": -88.8426,
+  "place": "Ottawa, Illinois",
+  "sides": [
+   [
+    "Abraham Lincoln",
+    "Opposed extending slavery into the territories"
+   ],
+   [
+    "Stephen A. Douglas",
+    "Popular sovereignty: settlers decide on slavery"
+   ]
+  ],
+  "summary": "One of seven 1858 Illinois Senate-race debates on slavery in the territories and popular sovereignty.",
+  "lines": [
+   [
+    "Lincoln",
+    "public sentiment is everything. With public sentiment, nothing can fail; without it, nothing can succeed"
+   ],
+   [
+    "Douglas",
+    "I believe this government cannot endure permanently half slave and half free (quoting Lincoln)"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Lincoln%E2%80%93Douglas_debates",
+  "wiki": "Lincoln–Douglas debates"
+ },
+ {
+  "id": "lincoln-douglas-freeport",
+  "title": "Lincoln-Douglas debate at Freeport",
+  "year": 1858.652,
+  "lat": 42.2967,
+  "lon": -89.6218,
+  "place": "Freeport, Illinois",
+  "sides": [
+   [
+    "Abraham Lincoln",
+    "Opposed extending slavery into the territories"
+   ],
+   [
+    "Stephen A. Douglas",
+    "Popular sovereignty: settlers decide on slavery"
+   ]
+  ],
+  "summary": "One of seven 1858 Illinois Senate-race debates on slavery in the territories and popular sovereignty.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/Lincoln%E2%80%93Douglas_debates",
+  "wiki": "Lincoln–Douglas debates"
+ },
+ {
+  "id": "lincoln-douglas-jonesboro",
+  "title": "Lincoln-Douglas debate at Jonesboro",
+  "year": 1858.704,
+  "lat": 37.4508,
+  "lon": -89.2679,
+  "place": "Jonesboro, Illinois",
+  "sides": [
+   [
+    "Abraham Lincoln",
+    "Opposed extending slavery into the territories"
+   ],
+   [
+    "Stephen A. Douglas",
+    "Popular sovereignty: settlers decide on slavery"
+   ]
+  ],
+  "summary": "One of seven 1858 Illinois Senate-race debates on slavery in the territories and popular sovereignty.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/Lincoln%E2%80%93Douglas_debates",
+  "wiki": "Lincoln–Douglas debates"
+ },
+ {
+  "id": "lincoln-douglas-charleston",
+  "title": "Lincoln-Douglas debate at Charleston",
+  "year": 1858.712,
+  "lat": 39.4961,
+  "lon": -88.1762,
+  "place": "Charleston, Illinois",
+  "sides": [
+   [
+    "Abraham Lincoln",
+    "Opposed extending slavery into the territories"
+   ],
+   [
+    "Stephen A. Douglas",
+    "Popular sovereignty: settlers decide on slavery"
+   ]
+  ],
+  "summary": "One of seven 1858 Illinois Senate-race debates on slavery in the territories and popular sovereignty.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/Lincoln%E2%80%93Douglas_debates",
+  "wiki": "Lincoln–Douglas debates"
+ },
+ {
+  "id": "lincoln-douglas-galesburg",
+  "title": "Lincoln-Douglas debate at Galesburg",
+  "year": 1858.764,
+  "lat": 40.9478,
+  "lon": -90.3712,
+  "place": "Galesburg, Illinois",
+  "sides": [
+   [
+    "Abraham Lincoln",
+    "Opposed extending slavery into the territories"
+   ],
+   [
+    "Stephen A. Douglas",
+    "Popular sovereignty: settlers decide on slavery"
+   ]
+  ],
+  "summary": "One of seven 1858 Illinois Senate-race debates on slavery in the territories and popular sovereignty.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/Lincoln%E2%80%93Douglas_debates",
+  "wiki": "Lincoln–Douglas debates"
+ },
+ {
+  "id": "lincoln-douglas-quincy",
+  "title": "Lincoln-Douglas debate at Quincy",
+  "year": 1858.781,
+  "lat": 39.9356,
+  "lon": -91.4099,
+  "place": "Quincy, Illinois",
+  "sides": [
+   [
+    "Abraham Lincoln",
+    "Opposed extending slavery into the territories"
+   ],
+   [
+    "Stephen A. Douglas",
+    "Popular sovereignty: settlers decide on slavery"
+   ]
+  ],
+  "summary": "One of seven 1858 Illinois Senate-race debates on slavery in the territories and popular sovereignty.",
+  "lines": [
+   [
+    "Lincoln (on the Freeport Doctrine)",
+    "as thin as the homeopathic soup that was made by boiling the shadow of a pigeon that had starved to death"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Lincoln%E2%80%93Douglas_debates",
+  "wiki": "Lincoln–Douglas debates"
+ },
+ {
+  "id": "lincoln-douglas-alton",
+  "title": "Lincoln-Douglas debate at Alton",
+  "year": 1858.786,
+  "lat": 38.8906,
+  "lon": -90.1843,
+  "place": "Alton, Illinois",
+  "sides": [
+   [
+    "Abraham Lincoln",
+    "Opposed extending slavery into the territories"
+   ],
+   [
+    "Stephen A. Douglas",
+    "Popular sovereignty: settlers decide on slavery"
+   ]
+  ],
+  "summary": "One of seven 1858 Illinois Senate-race debates on slavery in the territories and popular sovereignty.",
+  "lines": [
+   [
+    "Lincoln",
+    "It is the eternal struggle between these two principles - right and wrong - throughout the world"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Lincoln%E2%80%93Douglas_debates",
+  "wiki": "Lincoln–Douglas debates"
+ },
+ {
+  "id": "barcelona-1263",
+  "title": "Disputation of Barcelona",
+  "year": 1263.548,
+  "end": 1263.559,
+  "lat": 41.3851,
+  "lon": 2.1734,
+  "place": "Royal palace, Barcelona",
+  "sides": [
+   [
+    "Pablo Christiani",
+    "Talmud shows the Messiah has come, and he is Jesus"
+   ],
+   [
+    "Nachmanides",
+    "The Messiah is human and has not yet come"
+   ]
+  ],
+  "summary": "Before James I of Aragon, a Dominican convert and the great Jewish scholar debated the Messiah and true faith; the king rewarded Nachmanides yet he was later forced to leave Aragon.",
+  "lines": [
+   [
+    "Nachmanides",
+    "Why did they not convert and turn to the faith of Jesus, as Friar Paul did?"
+   ],
+   [
+    "James I",
+    "an unjust cause so nobly defended"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Disputation_of_Barcelona",
+  "wiki": "Disputation of Barcelona"
+ },
+ {
+  "id": "leipzig-1519",
+  "title": "Leipzig Debate",
+  "year": 1519.46,
+  "end": 1519.55,
+  "lat": 51.3397,
+  "lon": 12.3731,
+  "place": "Pleissenburg Castle, Leipzig",
+  "sides": [
+   [
+    "Johannes Eck",
+    "Defended papal authority and Catholic teaching"
+   ],
+   [
+    "Luther and Karlstadt",
+    "Challenged papal authority, indulgences, purgatory"
+   ]
+  ],
+  "summary": "Eck debated Karlstadt on free will and then Luther on papal authority; it drove Luther to open break with Rome and threats of excommunication.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/Leipzig_Debate",
+  "wiki": "Leipzig Debate"
+ },
+ {
+  "id": "nicaea-325",
+  "title": "First Council of Nicaea",
+  "year": 325.4,
+  "end": 325.55,
+  "lat": 40.4297,
+  "lon": 29.7208,
+  "place": "Nicaea (Iznik)",
+  "sides": [
+   [
+    "Arius",
+    "The Son was created and subordinate to the Father"
+   ],
+   [
+    "Alexander and Athanasius",
+    "The Son is eternally begotten, of one substance with the Father"
+   ]
+  ],
+  "summary": "Emperor Constantine's council condemned Arianism and issued a creed; Arius refused it and was exiled.",
+  "lines": [
+   [
+    "Creed",
+    "of one substance with the Father"
+   ],
+   [
+    "Anathema",
+    "there was once when he was not"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/First_Council_of_Nicaea",
+  "wiki": "First Council of Nicaea"
+ },
+ {
+  "id": "socrates-trial",
+  "title": "Trial of Socrates",
+  "year": -398.4,
+  "lat": 37.9715,
+  "lon": 23.7257,
+  "place": "Athens",
+  "sides": [
+   [
+    "Meletus, Anytus, Lycon",
+    "Socrates is guilty of impiety and corrupting the youth"
+   ],
+   [
+    "Socrates",
+    "Denied the charges and defended his philosophical mission"
+   ]
+  ],
+  "summary": "A jury of about 501 voted 280 to 221 to convict Socrates, who was condemned to death by hemlock.",
+  "lines": [
+   [
+    "Plato's Socrates",
+    "The unexamined life is not worth living"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Trial_of_Socrates",
+  "wiki": "Trial of Socrates"
+ },
+ {
+  "id": "ghazali-ibn-rushd",
+  "title": "Incoherence of the Philosophers vs Incoherence of the Incoherence",
+  "year": 1095,
+  "end": 1180,
+  "lat": 33.3152,
+  "lon": 44.3661,
+  "place": "Baghdad / Cordoba (written)",
+  "sides": [
+   [
+    "Al-Ghazali",
+    "Avicenna's school erred on seventeen points, three of them irreligious"
+   ],
+   [
+    "Averroes (Ibn Rushd)",
+    "Defended the philosophers against al-Ghazali's attack"
+   ]
+  ],
+  "summary": "A written debate across a century: al-Ghazali's 1095 attack on philosophy was answered by Averroes in a dialogue quoting him point by point.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/The_Incoherence_of_the_Philosophers",
+  "wiki": "The Incoherence of the Philosophers"
+ },
+ {
+  "id": "karakorum-1254",
+  "title": "Religious debate at Karakorum",
+  "year": 1254.4,
+  "lat": 47.1989,
+  "lon": 102.8244,
+  "place": "Karakorum, Mongol Empire",
+  "sides": [
+   [
+    "Christians (Rubruck, Nestorians)",
+    "One God revealed through Christ"
+   ],
+   [
+    "Buddhists and Muslims",
+    "Their own traditions; Möngke tolerated all faiths"
+   ]
+  ],
+  "summary": "William of Rubruck attended debates among rival religions that the Mongols organized; Möngke said God gave men different ways as He gave the hand different fingers.",
+  "lines": [
+   [
+    "Möngke Khan",
+    "Just as God gave different fingers to the hand so has He given different ways to men"
+   ],
+   [
+    "Möngke Khan",
+    "We Mongols believe in one God, by Whom we live and die"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/M%C3%B6ngke_Khan",
+  "wiki": "Möngke Khan"
+ },
+ {
+  "id": "great-debate-1920",
+  "title": "The Great Debate (astronomy)",
+  "year": 1920.315,
+  "lat": 38.8913,
+  "lon": -77.0261,
+  "place": "US National Museum, Washington, D.C.",
+  "sides": [
+   [
+    "Harlow Shapley",
+    "Milky Way is the whole universe; ~300,000 light-years wide"
+   ],
+   [
+    "Heber Curtis",
+    "Spiral nebulae are separate galaxies; Milky Way ~30,000 ly"
+   ]
+  ],
+  "summary": "Shapley and Curtis argued the scale of the universe; Hubble's later work on Andromeda showed Curtis was right on the main point.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/Great_Debate_(astronomy)",
+  "wiki": "Great Debate (astronomy)"
+ },
+ {
+  "id": "bohr-einstein",
+  "title": "Bohr-Einstein debates",
+  "year": 1927.8,
+  "end": 1935.4,
+  "lat": 50.8467,
+  "lon": 4.3547,
+  "place": "Solvay Conferences, Brussels",
+  "sides": [
+   [
+    "Albert Einstein",
+    "Quantum mechanics is incomplete; locality must hold"
+   ],
+   [
+    "Niels Bohr",
+    "Complementarity and uncertainty are fundamental"
+   ]
+  ],
+  "summary": "Einstein posed thought experiments (1927, light-box 1930, EPR 1935) and Bohr answered each, in a decade-long argument over quantum theory.",
+  "lines": [
+   [
+    "Einstein",
+    "I, at any rate, am convinced that He is not playing at dice"
+   ],
+   [
+    "Bohr",
+    "I don't understand precisely the point that Einstein is trying to make"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Bohr%E2%80%93Einstein_debates",
+  "wiki": "Bohr–Einstein debates"
+ },
+ {
+  "id": "kitchen-debate",
+  "title": "Kitchen Debate",
+  "year": 1959.559,
+  "lat": 55.7939,
+  "lon": 37.6746,
+  "place": "Sokolniki Park, Moscow",
+  "sides": [
+   [
+    "Richard Nixon",
+    "Capitalism and consumer abundance serve the people"
+   ],
+   [
+    "Nikita Khrushchev",
+    "Communism will surpass the US; American gadgets are impractical"
+   ]
+  ],
+  "summary": "Impromptu exchange in a model American kitchen at the American National Exhibition, broadcast across both countries.",
+  "lines": [
+   [
+    "Khrushchev",
+    "Don't you have a machine that puts food into the mouth and pushes it down?"
+   ],
+   [
+    "Nixon",
+    "What we want to do is make life more easy for our housewives"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Kitchen_Debate",
+  "wiki": "Kitchen Debate"
+ },
+ {
+  "id": "putney-1647",
+  "title": "Putney Debates",
+  "year": 1647.822,
+  "end": 1647.852,
+  "lat": 51.4607,
+  "lon": -0.2254,
+  "place": "St Mary's Church, Putney",
+  "sides": [
+   [
+    "Grandees (Cromwell, Ireton)",
+    "Keep the monarchy; vote only for property-owners"
+   ],
+   [
+    "Levellers (Rainsborough, Wildman)",
+    "One man, one vote; freedom of conscience"
+   ]
+  ],
+  "summary": "New Model Army officers and radicals argued over the constitution after the first civil war.",
+  "lines": [
+   [
+    "Rainsborough",
+    "the poorest hee that is in England hath a life to live, as the greatest hee"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Putney_Debates",
+  "wiki": "Putney Debates"
+ },
+ {
+  "id": "webster-hayne",
+  "title": "Webster-Hayne debate",
+  "year": 1830.049,
+  "end": 1830.071,
+  "lat": 38.8899,
+  "lon": -77.0091,
+  "place": "US Senate, Washington",
+  "sides": [
+   [
+    "Daniel Webster",
+    "The Union is supreme; nullification is untenable"
+   ],
+   [
+    "Robert Y. Hayne",
+    "States may nullify federal laws such as the tariff"
+   ]
+  ],
+  "summary": "Senate clash over tariffs and the nature of the Union, sparked by a land-survey resolution.",
+  "lines": [
+   [
+    "Webster",
+    "Liberty and union, now and forever, one and inseparable"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Webster%E2%80%93Hayne_debate",
+  "wiki": "Webster–Hayne debate"
+ },
+ {
+  "id": "jerusalem-council",
+  "title": "Council of Jerusalem",
+  "year": 50,
+  "lat": 31.7683,
+  "lon": 35.2137,
+  "place": "Jerusalem",
+  "sides": [
+   [
+    "Paul and Barnabas",
+    "Gentile converts need not be circumcised or keep the Mosaic Law"
+   ],
+   [
+    "Torah-observant believers",
+    "Gentiles must be circumcised and keep Moses' law"
+   ]
+  ],
+  "summary": "Peter backed Paul and James proposed a compromise: the Apostolic Decree asked only abstention from idol-food, blood and sexual immorality.",
+  "lines": [
+   [
+    "Acts 15:28",
+    "adding no further burden to you, except these necessary things"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Council_of_Jerusalem",
+  "wiki": "Council of Jerusalem"
+ },
+ {
+  "id": "chalcedon-451",
+  "title": "Council of Chalcedon",
+  "year": 451.767,
+  "end": 451.833,
+  "lat": 40.9818,
+  "lon": 29.0267,
+  "place": "Chalcedon (Kadikoy)",
+  "sides": [
+   [
+    "Chalcedonians (Pope Leo's Tome)",
+    "One person in two natures, divine and human"
+   ],
+   [
+    "Dioscorus and Oriental Orthodox",
+    "Natures united without mixing or alteration"
+   ]
+  ],
+  "summary": "About 520 bishops defined the person of Christ; the rejection led to a lasting schism with the Oriental Orthodox churches.",
+  "lines": [
+   [
+    "Definition",
+    "perfect both in deity and in humanness"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Council_of_Chalcedon",
+  "wiki": "Council of Chalcedon"
+ },
+ {
+  "id": "worms-1521",
+  "title": "Diet of Worms",
+  "year": 1521.29,
+  "end": 1521.293,
+  "lat": 49.6331,
+  "lon": 8.3598,
+  "place": "Worms",
+  "sides": [
+   [
+    "Johann von Eck for Charles V",
+    "Luther must retract his books"
+   ],
+   [
+    "Martin Luther",
+    "Will retract only what Scripture or reason refutes"
+   ]
+  ],
+  "summary": "Luther refused to recant before the Emperor and was declared an outlaw; Wikiquote notes 'Here I stand' is not in the transcripts.",
+  "lines": [
+   [
+    "Luther",
+    "I cannot and will not recant anything"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Diet_of_Worms",
+  "wiki": "Diet of Worms"
+ },
+ {
+  "id": "marburg-1529",
+  "title": "Marburg Colloquy",
+  "year": 1529.748,
+  "end": 1529.756,
+  "lat": 50.8091,
+  "lon": 8.7706,
+  "place": "Marburg Castle",
+  "sides": [
+   [
+    "Martin Luther",
+    "Christ's body is present in bread and wine"
+   ],
+   [
+    "Huldrych Zwingli",
+    "The bread is a sign; Christ is at the Father's right hand"
+   ]
+  ],
+  "summary": "They agreed on 14 of 15 articles but not on the Eucharist, so Protestants stayed divided.",
+  "lines": [
+   [
+    "Zwingli's motto",
+    "Credere est edere (To believe is to eat)"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Marburg_Colloquy",
+  "wiki": "Marburg Colloquy"
+ },
+ {
+  "id": "melos-416",
+  "title": "Melian dialogue",
+  "year": -415.5,
+  "lat": 36.7397,
+  "lon": 24.4258,
+  "place": "Melos",
+  "sides": [
+   [
+    "Athenian envoys",
+    "Might decides; Melos should submit"
+   ],
+   [
+    "Melians",
+    "Neutral, appealed to justice and to Sparta"
+   ]
+  ],
+  "summary": "Thucydides' dramatized negotiation before Athens besieged neutral Melos.",
+  "lines": [
+   [
+    "Athenians (Crawley)",
+    "the strong do what they can and the weak suffer what they must"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Melian_dialogue",
+  "wiki": "Melian dialogue"
+ },
+ {
+  "id": "samye-792",
+  "title": "Samye debate (Council of Lhasa)",
+  "year": 792,
+  "end": 794,
+  "lat": 29.3,
+  "lon": 91.5,
+  "place": "Samye monastery, Tibet",
+  "sides": [
+   [
+    "Kamalashila",
+    "Gradual path to enlightenment through analysis and merit"
+   ],
+   [
+    "Moheyan",
+    "Sudden, immediate enlightenment (Chan)"
+   ]
+  ],
+  "summary": "Debate before King Trisong Detsen; Tibetan sources say Kamalashila won and Tibet followed the Indian tradition; Chinese sources dispute this.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/Council_of_Samye",
+  "wiki": "Samye debate"
+ },
+ {
+  "id": "whitby-664",
+  "title": "Synod of Whitby",
+  "year": 664,
+  "lat": 54.4883,
+  "lon": -0.6073,
+  "place": "Whitby Abbey",
+  "sides": [
+   [
+    "Wilfrid",
+    "Follow Rome's Easter calculation"
+   ],
+   [
+    "Bishop Colmán",
+    "Keep the Ionan Easter of Columba"
+   ]
+  ],
+  "summary": "King Oswiu ruled for Rome, reasoning from Peter's keys; Northumbria joined the Roman Easter.",
+  "lines": [
+   [
+    "Wilfrid (Bede)",
+    "Peter and Paul lived, taught, suffered, and are buried at Rome"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Synod_of_Whitby",
+  "wiki": "Synod of Whitby"
+ },
+ {
+  "id": "tortosa-1413",
+  "title": "Disputation of Tortosa",
+  "year": 1413.101,
+  "end": 1414.95,
+  "lat": 40.8124,
+  "lon": 0.5212,
+  "place": "Tortosa",
+  "sides": [
+   [
+    "Gerónimo de Santa Fe",
+    "Talmud proves the Messiah came; demanded it be burned"
+   ],
+   [
+    "Profiat Duran, Yosef Albo and others",
+    "Defended Judaism under coercive conditions"
+   ]
+  ],
+  "summary": "Sixty-nine sessions before Antipope Benedict XIII; Aragon's Jewish community suffered mass conversions and loss of morale.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/Disputation_of_Tortosa",
+  "wiki": "Disputation of Tortosa"
+ },
+ {
+  "id": "paris-1240",
+  "title": "Disputation of Paris (Talmud trial)",
+  "year": 1240.444,
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "place": "Court of Louis IX, Paris",
+  "sides": [
+   [
+    "Nicholas Donin",
+    "Talmud contains blasphemies and calls to harm gentiles"
+   ],
+   [
+    "Yechiel of Paris",
+    "Talmud's 'Yeshu' is not Jesus; passages are hyperbole"
+   ]
+  ],
+  "summary": "Led to the burning of 24 wagonloads of Hebrew manuscripts in 1242.",
+  "lines": [
+   [
+    "Yechiel",
+    "not every Louis born in France is king"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Disputation_of_Paris",
+  "wiki": "Disputation of Paris"
+ },
+ {
+  "id": "ibadat-khana",
+  "title": "Ibadat Khana interfaith debates",
+  "year": 1575,
+  "lat": 27.0945,
+  "lon": 77.6679,
+  "place": "Fatehpur Sikri",
+  "sides": [
+   [
+    "Muslim ulama",
+    "Orthodox Islam"
+   ],
+   [
+    "Hindu, Jain, Jesuit, Zoroastrian scholars",
+    "Their own faiths, courted by Akbar"
+   ]
+  ],
+  "summary": "Akbar's Thursday evening discussions in his house of worship; he later created the Din-i-Ilahi.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/Ibadat_Khana",
+  "wiki": "Ibadat Khana"
+ },
+ {
+  "id": "cuvier-geoffroy",
+  "title": "Cuvier-Geoffroy debate",
+  "year": 1830.123,
+  "end": 1830.258,
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "place": "French Academy of Sciences, Paris",
+  "sides": [
+   [
+    "Georges Cuvier",
+    "Structure follows function; fixed species"
+   ],
+   [
+    "Étienne Geoffroy Saint-Hilaire",
+    "Unity of composition across animals"
+   ]
+  ],
+  "summary": "Two-month Academy clash; Cuvier won in his time, Geoffroy's unity idea later influenced evolutionary thought.",
+  "lines": [
+   [
+    "Geoffroy",
+    "Can the organization of vertebrated animals be referred to one uniform type?"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Cuvier%E2%80%93Geoffroy_debate",
+  "wiki": "Cuvier–Geoffroy debate"
+ },
+ {
+  "id": "leibniz-clarke",
+  "title": "Leibniz-Clarke correspondence",
+  "year": 1715,
+  "end": 1716,
+  "lat": 51.5,
+  "lon": -0.12,
+  "place": "London / Hanover (letters)",
+  "sides": [
+   [
+    "Leibniz",
+    "Relational space; Newtonianism harms natural theology"
+   ],
+   [
+    "Samuel Clarke (for Newton)",
+    "Absolute space; defended Newton"
+   ]
+  ],
+  "summary": "Letters routed through Caroline of Ansbach about space, free will and the best of all possible worlds; ended with Leibniz's death.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/Leibniz%E2%80%93Clarke_correspondence",
+  "wiki": "Leibniz–Clarke correspondence"
+ },
+ {
+  "id": "zhuangzi-hui-shi",
+  "title": "Zhuangzi and Hui Shi on the joy of fish",
+  "year": -300,
+  "lat": 32.9,
+  "lon": 117.4,
+  "place": "Hao River dam",
+  "sides": [
+   [
+    "Zhuangzi",
+    "I know the fish are happy"
+   ],
+   [
+    "Hui Shi",
+    "You are not a fish; how can you know?"
+   ]
+  ],
+  "summary": "Famous Zhuangzi exchange (ch. 17) on knowing another's experience.",
+  "lines": [
+   [
+    "Hui Shi",
+    "You're not a fish - how do you know what fish enjoy?"
+   ],
+   [
+    "Zhuangzi",
+    "I know it by standing here beside the Hao"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Hui_Shi",
+  "wiki": "Hui Shi"
+ },
+ {
+  "id": "white-horse",
+  "title": "White Horse Dialogue",
+  "year": -280,
+  "lat": 39.9,
+  "lon": 116.4,
+  "place": "State of Zhao",
+  "sides": [
+   [
+    "Sophist (Gongsun Long)",
+    "White horses are not horses"
+   ],
+   [
+    "Objector",
+    "A white horse is a horse"
+   ]
+  ],
+  "summary": "Logical paradox from the Warring States: 'is not' as non-membership rather than identity.",
+  "lines": [
+   [
+    "Sophist",
+    "White horses are not horses"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Gongsun_Long",
+  "wiki": "Gongsun Long"
+ },
+ {
+  "id": "milinda",
+  "title": "Questions of King Milinda",
+  "year": -150,
+  "lat": 32.4,
+  "lon": 74.5,
+  "place": "Sagala (Sialkot)",
+  "sides": [
+   [
+    "King Menander (Milinda)",
+    "Questioned Buddhist doctrines"
+   ],
+   [
+    "Nagasena",
+    "Answered as a Buddhist monk"
+   ]
+  ],
+  "summary": "Indo-Greek king and monk in the Pali dialogue; Menander is said to have embraced Buddhism.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/Milinda_Panha",
+  "wiki": "Milinda Panha"
+ },
+ {
+  "id": "shankara-mandana",
+  "title": "Shankara and Mandana Mishra",
+  "year": 750,
+  "lat": 25.4358,
+  "lon": 81.8463,
+  "place": "Prayag (traditional)",
+  "sides": [
+   [
+    "Adi Shankara",
+    "Advaita Vedanta"
+   ],
+   [
+    "Mandana Mishra",
+    "Mimamsa ritual tradition"
+   ]
+  ],
+  "summary": "Tradition holds Mandana became Shankara's disciple after a public debate; the Wikipedia article treats this as tradition.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/Adi_Shankara",
+  "wiki": "Adi Shankara"
+ },
+ {
+  "id": "nicaea2-787",
+  "title": "Second Council of Nicaea",
+  "year": 787.729,
+  "end": 787.781,
+  "lat": 40.4297,
+  "lon": 29.7208,
+  "place": "Nicaea (Iznik)",
+  "sides": [
+   [
+    "Iconoclasts",
+    "Veneration of images is idolatry"
+   ],
+   [
+    "Iconodules",
+    "Honor to an image passes to its prototype"
+   ]
+  ],
+  "summary": "Restored icon veneration, reversed by a later iconoclast phase and finally in 843.",
+  "lines": [
+   [
+    "Council",
+    "the honor accorded to the image passes over to its prototype"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Second_Council_of_Nicaea",
+  "wiki": "Second Council of Nicaea"
+ },
+ {
+  "id": "ephesus-431",
+  "title": "Council of Ephesus",
+  "year": 431.471,
+  "end": 431.578,
+  "lat": 37.9497,
+  "lon": 27.3639,
+  "place": "Church of Mary, Ephesus",
+  "sides": [
+   [
+    "Cyril of Alexandria",
+    "Mary is Theotokos, God-bearer"
+   ],
+   [
+    "Nestorius",
+    "Mary is Christotokos; stress the two natures"
+   ]
+  ],
+  "summary": "The council condemned Nestorius, leading to the Nestorian schism.",
+  "lines": [
+   [
+    "Cyril",
+    "Anyone who dares to deny the Holy Virgin the title Theotokos is anathema"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Council_of_Ephesus",
+  "wiki": "Council of Ephesus"
+ },
+ {
+  "id": "kublai-1258",
+  "title": "Buddhist-Taoist debate of 1258",
+  "year": 1258.1,
+  "lat": 42.36,
+  "lon": 116.18,
+  "place": "Kaiping (Shangdu) area (location not stated in source)",
+  "sides": [
+   [
+    "Taoist leaders",
+    "Texts defended against Buddhist charges"
+   ],
+   [
+    "Buddhist leaders",
+    "Taoist texts were forgeries"
+   ]
+  ],
+  "summary": "Kublai refuted the Taoists, converted 237 temples and destroyed copies of their texts.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/Kublai_Khan",
+  "wiki": "Kublai Khan"
+ },
+ {
+  "id": "hillel-one-foot",
+  "title": "Hillel and the convert",
+  "year": -10,
+  "lat": 31.7683,
+  "lon": 35.2137,
+  "place": "Jerusalem",
+  "sides": [
+   [
+    "Shammai",
+    "Dismissed the request to teach the Torah on one foot"
+   ],
+   [
+    "Hillel",
+    "Gave the Golden Rule as the whole Torah"
+   ]
+  ],
+  "summary": "Talmud Shabbat 31a: a would-be convert's challenge, answered by Hillel.",
+  "lines": [
+   [
+    "Hillel",
+    "What is hateful to you, do not do to your fellow: this is the whole Torah"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Hillel_the_Elder",
+  "wiki": "Hillel the Elder"
+ }
+]

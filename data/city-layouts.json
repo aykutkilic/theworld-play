@@ -1,0 +1,6267 @@
+[
+ {
+  "city": "rome",
+  "eras": [
+   {
+    "from": -390,
+    "to": -27,
+    "name": "Republican Rome",
+    "walls": [
+     {
+      "name": "Servian Wall (simplified, from memory; not fetched)",
+      "built": -378,
+      "gone": 275,
+      "path": [
+       [
+        41.904,
+        12.489
+       ],
+       [
+        41.904,
+        12.4955
+       ],
+       [
+        41.901,
+        12.4999
+       ],
+       [
+        41.896,
+        12.5
+       ],
+       [
+        41.887,
+        12.501
+       ],
+       [
+        41.883,
+        12.4925
+       ],
+       [
+        41.8785,
+        12.484
+       ],
+       [
+        41.884,
+        12.4785
+       ],
+       [
+        41.889,
+        12.479
+       ],
+       [
+        41.8935,
+        12.4795
+       ],
+       [
+        41.8975,
+        12.4845
+       ]
+      ]
+     }
+    ],
+    "gates": [],
+    "streets": [
+     {
+      "name": "Via Appia",
+      "path": [
+       [
+        41.8603,
+        12.5085
+       ],
+       [
+        41.855,
+        12.513
+       ],
+       [
+        41.84,
+        12.525
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Via Sacra",
+      "path": [
+       [
+        41.8902,
+        12.4922
+       ],
+       [
+        41.8896,
+        12.4875
+       ],
+       [
+        41.8925,
+        12.4844
+       ]
+      ],
+      "width": "avenue"
+     }
+    ],
+    "grid": [],
+    "water": [
+     {
+      "name": "Tiber",
+      "kind": "river",
+      "path": [
+       [
+        41.9335,
+        12.465
+       ],
+       [
+        41.919,
+        12.469
+       ],
+       [
+        41.907,
+        12.472
+       ],
+       [
+        41.9031,
+        12.469
+       ],
+       [
+        41.8935,
+        12.47
+       ],
+       [
+        41.8903,
+        12.4777
+       ],
+       [
+        41.883,
+        12.479
+       ],
+       [
+        41.876,
+        12.476
+       ],
+       [
+        41.87,
+        12.47
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Forum Romanum / Subura",
+      "lat": 41.892,
+      "lon": 12.49,
+      "radiusM": 500,
+      "character": "dense tenements, markets, temples"
+     },
+     {
+      "name": "Campus Martius",
+      "lat": 41.899,
+      "lon": 12.474,
+      "radiusM": 700,
+      "character": "open field, few buildings"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Roman Forum",
+      "lat": 41.8925,
+      "lon": 12.4853,
+      "built": -500,
+      "gone": null
+     },
+     {
+      "name": "Circus Maximus",
+      "lat": 41.8861,
+      "lon": 12.4851,
+      "built": -300,
+      "gone": null,
+      "bearingDeg": 122,
+      "lengthM": 620
+     },
+     {
+      "name": "Capitoline Hill",
+      "lat": 41.8933,
+      "lon": 12.4828,
+      "built": -509,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      2,
+      5
+     ],
+     "roofs": "clay tile",
+     "materials": "brick, tufa",
+     "colors": [
+      "#c9855a",
+      "#d8c7a0",
+      "#a8553a"
+     ],
+     "note": "Dense hill-slope lanes; open Campus Martius."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Aurelian_Walls"
+    ]
+   },
+   {
+    "from": -27,
+    "to": 476,
+    "name": "Imperial Rome",
+    "walls": [
+     {
+      "name": "Aurelian Walls",
+      "built": 275,
+      "gone": null,
+      "path": [
+       [
+        41.9108,
+        12.4766
+       ],
+       [
+        41.9094,
+        12.488
+       ],
+       [
+        41.9112,
+        12.4967
+       ],
+       [
+        41.9061,
+        12.5005
+       ],
+       [
+        41.9068,
+        12.5137
+       ],
+       [
+        41.8979,
+        12.5172
+       ],
+       [
+        41.8905,
+        12.5155
+       ],
+       [
+        41.8855,
+        12.5088
+       ],
+       [
+        41.883,
+        12.506
+       ],
+       [
+        41.8756,
+        12.5048
+       ],
+       [
+        41.8603,
+        12.5085
+       ],
+       [
+        41.8648,
+        12.4965
+       ],
+       [
+        41.8758,
+        12.4808
+       ],
+       [
+        41.8795,
+        12.4723
+       ],
+       [
+        41.8896,
+        12.4641
+       ],
+       [
+        41.8935,
+        12.4692
+       ],
+       [
+        41.9,
+        12.471
+       ]
+      ]
+     }
+    ],
+    "gates": [
+     {
+      "name": "Porta del Popolo",
+      "lat": 41.9108,
+      "lon": 12.4766
+     },
+     {
+      "name": "Porta Pinciana",
+      "lat": 41.9094,
+      "lon": 12.488
+     },
+     {
+      "name": "Porta Salaria",
+      "lat": 41.9112,
+      "lon": 12.4967
+     },
+     {
+      "name": "Porta Pia",
+      "lat": 41.9061,
+      "lon": 12.5005
+     },
+     {
+      "name": "Porta Tiburtina",
+      "lat": 41.8979,
+      "lon": 12.5172
+     },
+     {
+      "name": "Porta Maggiore",
+      "lat": 41.8905,
+      "lon": 12.5155
+     },
+     {
+      "name": "Porta San Giovanni",
+      "lat": 41.8855,
+      "lon": 12.5088
+     },
+     {
+      "name": "Porta Latina",
+      "lat": 41.8756,
+      "lon": 12.5048
+     },
+     {
+      "name": "Porta San Sebastiano (Appia)",
+      "lat": 41.8603,
+      "lon": 12.5085
+     },
+     {
+      "name": "Porta San Paolo (Ostiense)",
+      "lat": 41.8758,
+      "lon": 12.4808
+     },
+     {
+      "name": "Porta Portese",
+      "lat": 41.8795,
+      "lon": 12.4723
+     },
+     {
+      "name": "Porta San Pancrazio",
+      "lat": 41.8896,
+      "lon": 12.4641
+     },
+     {
+      "name": "Porta Settimiana",
+      "lat": 41.8935,
+      "lon": 12.4692
+     }
+    ],
+    "streets": [
+     {
+      "name": "Via Appia",
+      "path": [
+       [
+        41.8603,
+        12.5085
+       ],
+       [
+        41.855,
+        12.513
+       ],
+       [
+        41.84,
+        12.525
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Via Flaminia / Via Lata (Corso)",
+      "path": [
+       [
+        41.9108,
+        12.4766
+       ],
+       [
+        41.902,
+        12.479
+       ],
+       [
+        41.8959,
+        12.4823
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Via Sacra",
+      "path": [
+       [
+        41.8902,
+        12.4922
+       ],
+       [
+        41.8896,
+        12.4875
+       ],
+       [
+        41.8925,
+        12.4844
+       ]
+      ],
+      "width": "avenue"
+     },
+     {
+      "name": "Via Merulana",
+      "path": [
+       [
+        41.8977,
+        12.4984
+       ],
+       [
+        41.8858,
+        12.5047
+       ]
+      ],
+      "width": "avenue"
+     }
+    ],
+    "grid": [],
+    "water": [
+     {
+      "name": "Tiber",
+      "kind": "river",
+      "path": [
+       [
+        41.9335,
+        12.465
+       ],
+       [
+        41.919,
+        12.469
+       ],
+       [
+        41.907,
+        12.472
+       ],
+       [
+        41.9031,
+        12.469
+       ],
+       [
+        41.8935,
+        12.47
+       ],
+       [
+        41.8903,
+        12.4777
+       ],
+       [
+        41.883,
+        12.479
+       ],
+       [
+        41.876,
+        12.476
+       ],
+       [
+        41.87,
+        12.47
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Insulae of the Subura/Esquiline",
+      "lat": 41.896,
+      "lon": 12.494,
+      "radiusM": 900,
+      "character": "dense 4-6 storey insulae, narrow lanes"
+     },
+     {
+      "name": "Campus Martius",
+      "lat": 41.899,
+      "lon": 12.475,
+      "radiusM": 600,
+      "character": "monuments, baths, theatres"
+     },
+     {
+      "name": "Trastevere",
+      "lat": 41.887,
+      "lon": 12.469,
+      "radiusM": 500,
+      "character": "harbour workers, warehouses"
+     },
+     {
+      "name": "Palatine",
+      "lat": 41.8892,
+      "lon": 12.4875,
+      "radiusM": 300,
+      "character": "imperial palaces"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Colosseum",
+      "lat": 41.8902,
+      "lon": 12.4922,
+      "built": 80,
+      "gone": null
+     },
+     {
+      "name": "Pantheon",
+      "lat": 41.8986,
+      "lon": 12.4769,
+      "built": 126,
+      "gone": null
+     },
+     {
+      "name": "Roman Forum",
+      "lat": 41.8925,
+      "lon": 12.4853,
+      "built": -500,
+      "gone": null
+     },
+     {
+      "name": "Circus Maximus",
+      "lat": 41.8861,
+      "lon": 12.4851,
+      "built": -300,
+      "gone": null,
+      "bearingDeg": 122,
+      "lengthM": 620
+     },
+     {
+      "name": "Trajan's Forum",
+      "lat": 41.8955,
+      "lon": 12.4844,
+      "built": 112,
+      "gone": null
+     },
+     {
+      "name": "Baths of Caracalla",
+      "lat": 41.8789,
+      "lon": 12.4925,
+      "built": 216,
+      "gone": null
+     },
+     {
+      "name": "Castel Sant'Angelo",
+      "lat": 41.9031,
+      "lon": 12.4663,
+      "built": 139,
+      "gone": null
+     },
+     {
+      "name": "Capitoline Hill",
+      "lat": 41.8933,
+      "lon": 12.4828,
+      "built": -509,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      3,
+      6
+     ],
+     "roofs": "red clay tile",
+     "materials": "brick-faced concrete, marble",
+     "colors": [
+      "#c8664a",
+      "#e8dcc0",
+      "#8a8a7a"
+     ],
+     "note": "Aurelian walls 19 km, 13.7 km2, ~29.6 m tower spacing, 8 m high (fetched)."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Aurelian_Walls"
+    ]
+   },
+   {
+    "from": 1420,
+    "to": 1870,
+    "name": "Papal Rome (Nolli era)",
+    "walls": [
+     {
+      "name": "Aurelian Walls",
+      "built": 275,
+      "gone": null,
+      "path": [
+       [
+        41.9108,
+        12.4766
+       ],
+       [
+        41.9094,
+        12.488
+       ],
+       [
+        41.9112,
+        12.4967
+       ],
+       [
+        41.9061,
+        12.5005
+       ],
+       [
+        41.9068,
+        12.5137
+       ],
+       [
+        41.8979,
+        12.5172
+       ],
+       [
+        41.8905,
+        12.5155
+       ],
+       [
+        41.8855,
+        12.5088
+       ],
+       [
+        41.883,
+        12.506
+       ],
+       [
+        41.8756,
+        12.5048
+       ],
+       [
+        41.8603,
+        12.5085
+       ],
+       [
+        41.8648,
+        12.4965
+       ],
+       [
+        41.8758,
+        12.4808
+       ],
+       [
+        41.8795,
+        12.4723
+       ],
+       [
+        41.8896,
+        12.4641
+       ],
+       [
+        41.8935,
+        12.4692
+       ],
+       [
+        41.9,
+        12.471
+       ]
+      ]
+     }
+    ],
+    "gates": [
+     {
+      "name": "Porta del Popolo",
+      "lat": 41.9108,
+      "lon": 12.4766
+     },
+     {
+      "name": "Porta Pinciana",
+      "lat": 41.9094,
+      "lon": 12.488
+     },
+     {
+      "name": "Porta Salaria",
+      "lat": 41.9112,
+      "lon": 12.4967
+     },
+     {
+      "name": "Porta Pia",
+      "lat": 41.9061,
+      "lon": 12.5005
+     },
+     {
+      "name": "Porta Tiburtina",
+      "lat": 41.8979,
+      "lon": 12.5172
+     },
+     {
+      "name": "Porta Maggiore",
+      "lat": 41.8905,
+      "lon": 12.5155
+     },
+     {
+      "name": "Porta San Giovanni",
+      "lat": 41.8855,
+      "lon": 12.5088
+     },
+     {
+      "name": "Porta Latina",
+      "lat": 41.8756,
+      "lon": 12.5048
+     },
+     {
+      "name": "Porta San Sebastiano (Appia)",
+      "lat": 41.8603,
+      "lon": 12.5085
+     },
+     {
+      "name": "Porta San Paolo (Ostiense)",
+      "lat": 41.8758,
+      "lon": 12.4808
+     },
+     {
+      "name": "Porta Portese",
+      "lat": 41.8795,
+      "lon": 12.4723
+     },
+     {
+      "name": "Porta San Pancrazio",
+      "lat": 41.8896,
+      "lon": 12.4641
+     },
+     {
+      "name": "Porta Settimiana",
+      "lat": 41.8935,
+      "lon": 12.4692
+     }
+    ],
+    "streets": [
+     {
+      "name": "Via Appia",
+      "path": [
+       [
+        41.8603,
+        12.5085
+       ],
+       [
+        41.855,
+        12.513
+       ],
+       [
+        41.84,
+        12.525
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Via Flaminia / Via Lata (Corso)",
+      "path": [
+       [
+        41.9108,
+        12.4766
+       ],
+       [
+        41.902,
+        12.479
+       ],
+       [
+        41.8959,
+        12.4823
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Via Giulia",
+      "path": [
+       [
+        41.8933,
+        12.4709
+       ],
+       [
+        41.8995,
+        12.4665
+       ]
+      ],
+      "width": "avenue"
+     },
+     {
+      "name": "Via del Babuino",
+      "path": [
+       [
+        41.9108,
+        12.4766
+       ],
+       [
+        41.9065,
+        12.48
+       ],
+       [
+        41.906,
+        12.4823
+       ]
+      ],
+      "width": "avenue"
+     },
+     {
+      "name": "Strada Felice / Via Sistina",
+      "path": [
+       [
+        41.8977,
+        12.4984
+       ],
+       [
+        41.9027,
+        12.4893
+       ],
+       [
+        41.9061,
+        12.4825
+       ]
+      ],
+      "width": "avenue"
+     }
+    ],
+    "grid": [],
+    "water": [
+     {
+      "name": "Tiber",
+      "kind": "river",
+      "path": [
+       [
+        41.9335,
+        12.465
+       ],
+       [
+        41.919,
+        12.469
+       ],
+       [
+        41.907,
+        12.472
+       ],
+       [
+        41.9031,
+        12.469
+       ],
+       [
+        41.8935,
+        12.47
+       ],
+       [
+        41.8903,
+        12.4777
+       ],
+       [
+        41.883,
+        12.479
+       ],
+       [
+        41.876,
+        12.476
+       ],
+       [
+        41.87,
+        12.47
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Campo Marzio",
+      "lat": 41.899,
+      "lon": 12.477,
+      "radiusM": 800,
+      "character": "dense 3-4 storey palazzi and lanes in Tiber bend"
+     },
+     {
+      "name": "Disabitato (east hills)",
+      "lat": 41.888,
+      "lon": 12.5,
+      "radiusM": 1300,
+      "character": "vineyards, gardens, ruins; almost unbuilt"
+     },
+     {
+      "name": "Borgo/Vatican",
+      "lat": 41.902,
+      "lon": 12.457,
+      "radiusM": 600,
+      "character": "palaces, St Peter's"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Pantheon",
+      "lat": 41.8986,
+      "lon": 12.4769,
+      "built": 126,
+      "gone": null
+     },
+     {
+      "name": "St Peter's Basilica",
+      "lat": 41.9022,
+      "lon": 12.4539,
+      "built": 1506,
+      "gone": null
+     },
+     {
+      "name": "Trevi Fountain",
+      "lat": 41.9009,
+      "lon": 12.4833,
+      "built": 1762,
+      "gone": null
+     },
+     {
+      "name": "Spanish Steps",
+      "lat": 41.906,
+      "lon": 12.4828,
+      "built": 1725,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      2,
+      5
+     ],
+     "roofs": "clay tile",
+     "materials": "brick, stucco, travertine",
+     "colors": [
+      "#d9a066",
+      "#c2724d",
+      "#e6d3a8"
+     ],
+     "note": "Tiber-bend city, empty eastern hills (from memory; Nolli 1748 page not fetched)."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Aurelian_Walls"
+    ]
+   }
+  ]
+ },
+ {
+  "city": "istanbul",
+  "eras": [
+   {
+    "from": -660,
+    "to": 330,
+    "name": "Byzantion / Severan",
+    "walls": [
+     {
+      "name": "Byzantion/Severan wall (schematic)",
+      "built": 196,
+      "gone": 330,
+      "path": [
+       [
+        41.0165,
+        28.9835
+       ],
+       [
+        41.0185,
+        28.976
+       ],
+       [
+        41.015,
+        28.97
+       ],
+       [
+        41.01,
+        28.969
+       ],
+       [
+        41.004,
+        28.974
+       ],
+       [
+        41.003,
+        28.98
+       ],
+       [
+        41.008,
+        28.985
+       ],
+       [
+        41.014,
+        28.985
+       ]
+      ]
+     }
+    ],
+    "gates": [],
+    "streets": [],
+    "grid": [],
+    "water": [
+     {
+      "name": "Golden Horn",
+      "kind": "harbour",
+      "path": [
+       [
+        41.042,
+        28.94
+       ],
+       [
+        41.033,
+        28.948
+       ],
+       [
+        41.026,
+        28.957
+       ],
+       [
+        41.02,
+        28.968
+       ],
+       [
+        41.0165,
+        28.98
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Acropolis",
+      "lat": 41.014,
+      "lon": 28.983,
+      "radiusM": 300,
+      "character": "temples on Sarayburnu"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Hippodrome",
+      "lat": 41.0055,
+      "lon": 28.97496,
+      "built": 203,
+      "gone": null,
+      "bearingDeg": 220,
+      "lengthM": 450
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      1,
+      3
+     ],
+     "roofs": "tile",
+     "materials": "stone, brick",
+     "colors": [
+      "#d8c7a0"
+     ],
+     "note": "Small walled promontory city."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Walls_of_Constantinople"
+    ]
+   },
+   {
+    "from": 330,
+    "to": 1453,
+    "name": "Constantinople (Constantinian/Theodosian)",
+    "walls": [
+     {
+      "name": "Constantinian Walls (approx)",
+      "built": 337,
+      "gone": 447,
+      "path": [
+       [
+        41.0235,
+        28.959
+       ],
+       [
+        41.016,
+        28.95
+       ],
+       [
+        41.009,
+        28.944
+       ],
+       [
+        41.003,
+        28.944
+       ],
+       [
+        40.9985,
+        28.945
+       ],
+       [
+        41.002,
+        28.951
+       ],
+       [
+        41.017,
+        28.962
+       ]
+      ]
+     },
+     {
+      "name": "Theodosian Walls + sea walls (simplified; ~5.7 km land wall)",
+      "built": 413,
+      "gone": null,
+      "path": [
+       [
+        40.9935,
+        28.9225
+       ],
+       [
+        41.0043,
+        28.9185
+       ],
+       [
+        41.0153,
+        28.9235
+       ],
+       [
+        41.0334,
+        28.9368
+       ],
+       [
+        41.0383,
+        28.938
+       ],
+       [
+        41.0415,
+        28.9415
+       ],
+       [
+        41.03,
+        28.949
+       ],
+       [
+        41.023,
+        28.961
+       ],
+       [
+        41.017,
+        28.972
+       ],
+       [
+        41.0165,
+        28.983
+       ],
+       [
+        41.0178,
+        28.9905
+       ],
+       [
+        41.016,
+        28.9985
+       ],
+       [
+        41.0118,
+        29.0012
+       ],
+       [
+        41.008,
+        28.996
+       ],
+       [
+        41.0052,
+        28.987
+       ],
+       [
+        41.004,
+        28.977
+       ],
+       [
+        41.002,
+        28.962
+       ],
+       [
+        41.002,
+        28.951
+       ],
+       [
+        41.0,
+        28.933
+       ],
+       [
+        40.993,
+        28.9215
+       ]
+      ]
+     }
+    ],
+    "gates": [
+     {
+      "name": "Golden Gate",
+      "lat": 40.9958,
+      "lon": 28.9235
+     },
+     {
+      "name": "Gate of St Romanus (Topkapi)",
+      "lat": 41.0153,
+      "lon": 28.9235
+     },
+     {
+      "name": "Gate of Charisius (Edirnekapi)",
+      "lat": 41.0334,
+      "lon": 28.9368
+     },
+     {
+      "name": "Silivri Gate (Pege)",
+      "lat": 41.0043,
+      "lon": 28.9185
+     }
+    ],
+    "streets": [
+     {
+      "name": "Mese",
+      "path": [
+       [
+        41.0086,
+        28.9795
+       ],
+       [
+        41.0087,
+        28.971
+       ],
+       [
+        41.0105,
+        28.964
+       ],
+       [
+        41.011,
+        28.956
+       ],
+       [
+        41.0115,
+        28.95
+       ],
+       [
+        41.005,
+        28.935
+       ],
+       [
+        40.9958,
+        28.9235
+       ]
+      ],
+      "width": "major"
+     }
+    ],
+    "grid": [],
+    "water": [
+     {
+      "name": "Golden Horn",
+      "kind": "harbour",
+      "path": [
+       [
+        41.042,
+        28.94
+       ],
+       [
+        41.033,
+        28.948
+       ],
+       [
+        41.026,
+        28.957
+       ],
+       [
+        41.02,
+        28.968
+       ],
+       [
+        41.0165,
+        28.98
+       ]
+      ]
+     },
+     {
+      "name": "Theodosian harbour",
+      "kind": "harbour",
+      "path": [
+       [
+        41.003,
+        28.951
+       ],
+       [
+        41.002,
+        28.956
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Great Palace/Hagia Sophia",
+      "lat": 41.009,
+      "lon": 28.979,
+      "radiusM": 350,
+      "character": "palaces, churches, Hippodrome"
+     },
+     {
+      "name": "Blachernae",
+      "lat": 41.039,
+      "lon": 28.94,
+      "radiusM": 400,
+      "character": "palace quarter"
+     },
+     {
+      "name": "Galata (Genoese)",
+      "lat": 41.0256,
+      "lon": 28.9742,
+      "radiusM": 400,
+      "character": "walled Genoese colony 1261-1453"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Hagia Sophia",
+      "lat": 41.0086,
+      "lon": 28.9802,
+      "built": 537,
+      "gone": null
+     },
+     {
+      "name": "Hippodrome",
+      "lat": 41.0055,
+      "lon": 28.97496,
+      "built": 203,
+      "gone": null,
+      "bearingDeg": 220,
+      "lengthM": 450
+     },
+     {
+      "name": "Galata Tower",
+      "lat": 41.0256,
+      "lon": 28.9742,
+      "built": 1348,
+      "gone": null
+     },
+     {
+      "name": "Walls Theodosian",
+      "lat": 41.0122,
+      "lon": 28.976,
+      "built": 413,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      2,
+      4
+     ],
+     "roofs": "domes and clay tile",
+     "materials": "brick-and-stone banded, marble",
+     "colors": [
+      "#c9855a",
+      "#d8c7a0",
+      "#8a6a4a"
+     ],
+     "note": "Wall course/gate order fetched; coordinates approximate (some ~300 m)."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Walls_of_Constantinople"
+    ]
+   },
+   {
+    "from": 1453,
+    "to": 1900,
+    "name": "Ottoman Istanbul",
+    "walls": [
+     {
+      "name": "Theodosian Walls (kept)",
+      "built": 413,
+      "gone": null,
+      "path": [
+       [
+        40.9935,
+        28.9225
+       ],
+       [
+        41.0043,
+        28.9185
+       ],
+       [
+        41.0153,
+        28.9235
+       ],
+       [
+        41.0334,
+        28.9368
+       ],
+       [
+        41.0383,
+        28.938
+       ],
+       [
+        41.0415,
+        28.9415
+       ],
+       [
+        41.03,
+        28.949
+       ],
+       [
+        41.023,
+        28.961
+       ],
+       [
+        41.017,
+        28.972
+       ],
+       [
+        41.0165,
+        28.983
+       ],
+       [
+        41.0178,
+        28.9905
+       ],
+       [
+        41.016,
+        28.9985
+       ],
+       [
+        41.0118,
+        29.0012
+       ],
+       [
+        41.008,
+        28.996
+       ],
+       [
+        41.0052,
+        28.987
+       ],
+       [
+        41.004,
+        28.977
+       ],
+       [
+        41.002,
+        28.962
+       ],
+       [
+        41.002,
+        28.951
+       ],
+       [
+        41.0,
+        28.933
+       ],
+       [
+        40.993,
+        28.9215
+       ]
+      ]
+     }
+    ],
+    "gates": [
+     {
+      "name": "Edirnekapi",
+      "lat": 41.0334,
+      "lon": 28.9368
+     }
+    ],
+    "streets": [
+     {
+      "name": "Mese",
+      "path": [
+       [
+        41.0086,
+        28.9795
+       ],
+       [
+        41.0087,
+        28.971
+       ],
+       [
+        41.0105,
+        28.964
+       ],
+       [
+        41.011,
+        28.956
+       ],
+       [
+        41.0115,
+        28.95
+       ],
+       [
+        41.005,
+        28.935
+       ],
+       [
+        40.9958,
+        28.9235
+       ]
+      ],
+      "width": "major"
+     }
+    ],
+    "grid": [],
+    "water": [
+     {
+      "name": "Golden Horn",
+      "kind": "harbour",
+      "path": [
+       [
+        41.042,
+        28.94
+       ],
+       [
+        41.033,
+        28.948
+       ],
+       [
+        41.026,
+        28.957
+       ],
+       [
+        41.02,
+        28.968
+       ],
+       [
+        41.0165,
+        28.98
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Grand Bazaar",
+      "lat": 41.0107,
+      "lon": 28.968,
+      "radiusM": 300,
+      "character": "covered bazaar, han"
+     },
+     {
+      "name": "Sultanahmet/Topkapi",
+      "lat": 41.0116,
+      "lon": 28.9834,
+      "radiusM": 500,
+      "character": "palace, mosques"
+     },
+     {
+      "name": "Pera/Galata",
+      "lat": 41.0256,
+      "lon": 28.9742,
+      "radiusM": 500,
+      "character": "Levantine merchants"
+     },
+     {
+      "name": "Eminonu docks",
+      "lat": 41.017,
+      "lon": 28.972,
+      "radiusM": 350,
+      "character": "warehouses"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Topkapi Palace",
+      "lat": 41.0116,
+      "lon": 28.9834,
+      "built": 1459,
+      "gone": null
+     },
+     {
+      "name": "Suleymaniye",
+      "lat": 41.0161,
+      "lon": 28.964,
+      "built": 1557,
+      "gone": null
+     },
+     {
+      "name": "Blue Mosque",
+      "lat": 41.0054,
+      "lon": 28.9768,
+      "built": 1616,
+      "gone": null
+     },
+     {
+      "name": "Grand Bazaar",
+      "lat": 41.0107,
+      "lon": 28.968,
+      "built": 1461,
+      "gone": null
+     },
+     {
+      "name": "Yedikule Fortress",
+      "lat": 40.9935,
+      "lon": 28.9225,
+      "built": 1458,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      1,
+      3
+     ],
+     "roofs": "lead domes, flat/tile",
+     "materials": "timber houses, stone mosques",
+     "colors": [
+      "#b8603a",
+      "#e8e0d0",
+      "#5a6a7a"
+     ],
+     "note": "Organic lanes, timber konak houses, domed mosque skyline; no grid."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Walls_of_Constantinople"
+    ]
+   }
+  ]
+ },
+ {
+  "city": "paris",
+  "eras": [
+   {
+    "from": -52,
+    "to": 280,
+    "name": "Roman Lutetia",
+    "walls": [],
+    "gates": [],
+    "streets": [
+     {
+      "name": "Cardo (rue Saint-Jacques)",
+      "path": [
+       [
+        48.8534,
+        2.3459
+       ],
+       [
+        48.847,
+        2.343
+       ],
+       [
+        48.8409,
+        2.34
+       ]
+      ],
+      "width": "major"
+     }
+    ],
+    "grid": [
+     {
+      "area": [
+       [
+        48.852,
+        2.348
+       ],
+       [
+        48.852,
+        2.341
+       ],
+       [
+        48.846,
+        2.34
+       ],
+       [
+        48.846,
+        2.347
+       ]
+      ],
+      "angleDeg": 15,
+      "blockM": 110,
+      "note": "Roman insulae on the left-bank slope, cardo = rue Saint-Jacques (from memory)"
+     }
+    ],
+    "water": [
+     {
+      "name": "Seine",
+      "kind": "river",
+      "path": [
+       [
+        48.837,
+        2.378
+       ],
+       [
+        48.8438,
+        2.366
+       ],
+       [
+        48.85,
+        2.359
+       ],
+       [
+        48.8532,
+        2.352
+       ],
+       [
+        48.8545,
+        2.344
+       ],
+       [
+        48.859,
+        2.3395
+       ],
+       [
+        48.862,
+        2.333
+       ],
+       [
+        48.864,
+        2.325
+       ],
+       [
+        48.862,
+        2.31
+       ],
+       [
+        48.858,
+        2.295
+       ],
+       [
+        48.851,
+        2.28
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Forum (left bank)",
+      "lat": 48.848,
+      "lon": 2.3435,
+      "radiusM": 200,
+      "character": "forum, baths"
+     },
+     {
+      "name": "Ile de la Cite",
+      "lat": 48.855,
+      "lon": 2.347,
+      "radiusM": 250,
+      "character": "river-island settlement"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Thermes de Cluny",
+      "lat": 48.8505,
+      "lon": 2.3434,
+      "built": 200,
+      "gone": null
+     },
+     {
+      "name": "Arenes de Lutece",
+      "lat": 48.8449,
+      "lon": 2.3523,
+      "built": 100,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      1,
+      2
+     ],
+     "roofs": "clay tile",
+     "materials": "stone, timber",
+     "colors": [
+      "#c9b48a"
+     ],
+     "note": "Left-bank Gallo-Roman town; low buildings."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Wall_of_Philip_II_Augustus"
+    ]
+   },
+   {
+    "from": 1200,
+    "to": 1670,
+    "name": "Medieval Paris (Philippe Auguste wall)",
+    "walls": [
+     {
+      "name": "Wall of Philippe Auguste (simplified; Right bank ~2.6 km, Left ~2.5 km)",
+      "built": 1213,
+      "gone": 1670,
+      "path": [
+       [
+        48.8593,
+        2.3376
+       ],
+       [
+        48.8623,
+        2.3418
+       ],
+       [
+        48.8634,
+        2.3447
+       ],
+       [
+        48.8651,
+        2.347
+       ],
+       [
+        48.8645,
+        2.3512
+       ],
+       [
+        48.8637,
+        2.3535
+       ],
+       [
+        48.863,
+        2.3557
+       ],
+       [
+        48.8608,
+        2.359
+       ],
+       [
+        48.8548,
+        2.364
+       ],
+       [
+        48.8512,
+        2.365
+       ],
+       [
+        48.8505,
+        2.36
+       ],
+       [
+        48.8493,
+        2.3565
+       ],
+       [
+        48.8467,
+        2.354
+       ],
+       [
+        48.8437,
+        2.35
+       ],
+       [
+        48.8448,
+        2.3418
+       ],
+       [
+        48.85,
+        2.3395
+       ],
+       [
+        48.8537,
+        2.338
+       ],
+       [
+        48.8574,
+        2.3376
+       ]
+      ]
+     }
+    ],
+    "gates": [
+     {
+      "name": "Porte Saint-Honore",
+      "lat": 48.8623,
+      "lon": 2.3418
+     },
+     {
+      "name": "Porte Montmartre",
+      "lat": 48.8651,
+      "lon": 2.347
+     },
+     {
+      "name": "Porte Saint-Denis",
+      "lat": 48.8645,
+      "lon": 2.3512
+     },
+     {
+      "name": "Porte Saint-Martin",
+      "lat": 48.8637,
+      "lon": 2.3535
+     },
+     {
+      "name": "Porte du Temple",
+      "lat": 48.863,
+      "lon": 2.3557
+     },
+     {
+      "name": "Porte Saint-Antoine",
+      "lat": 48.8548,
+      "lon": 2.364
+     },
+     {
+      "name": "Porte Saint-Victor",
+      "lat": 48.8467,
+      "lon": 2.354
+     },
+     {
+      "name": "Porte Saint-Marcel",
+      "lat": 48.8437,
+      "lon": 2.35
+     },
+     {
+      "name": "Porte Saint-Jacques",
+      "lat": 48.8448,
+      "lon": 2.3418
+     },
+     {
+      "name": "Porte Saint-Michel",
+      "lat": 48.85,
+      "lon": 2.3395
+     },
+     {
+      "name": "Porte de Buci",
+      "lat": 48.8537,
+      "lon": 2.338
+     }
+    ],
+    "streets": [
+     {
+      "name": "Rue Saint-Denis",
+      "path": [
+       [
+        48.8584,
+        2.347
+       ],
+       [
+        48.8646,
+        2.3515
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Rue Saint-Antoine",
+      "path": [
+       [
+        48.8575,
+        2.355
+       ],
+       [
+        48.8537,
+        2.369
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Rue Saint-Jacques",
+      "path": [
+       [
+        48.8534,
+        2.3459
+       ],
+       [
+        48.8409,
+        2.34
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Rue Saint-Honore",
+      "path": [
+       [
+        48.8629,
+        2.341
+       ],
+       [
+        48.866,
+        2.329
+       ]
+      ],
+      "width": "avenue"
+     }
+    ],
+    "grid": [],
+    "water": [
+     {
+      "name": "Seine",
+      "kind": "river",
+      "path": [
+       [
+        48.837,
+        2.378
+       ],
+       [
+        48.8438,
+        2.366
+       ],
+       [
+        48.85,
+        2.359
+       ],
+       [
+        48.8532,
+        2.352
+       ],
+       [
+        48.8545,
+        2.344
+       ],
+       [
+        48.859,
+        2.3395
+       ],
+       [
+        48.862,
+        2.333
+       ],
+       [
+        48.864,
+        2.325
+       ],
+       [
+        48.862,
+        2.31
+       ],
+       [
+        48.858,
+        2.295
+       ],
+       [
+        48.851,
+        2.28
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Ile de la Cite",
+      "lat": 48.855,
+      "lon": 2.347,
+      "radiusM": 250,
+      "character": "cathedral, palace"
+     },
+     {
+      "name": "Les Halles",
+      "lat": 48.862,
+      "lon": 2.347,
+      "radiusM": 250,
+      "character": "market"
+     },
+     {
+      "name": "University quarter",
+      "lat": 48.8486,
+      "lon": 2.343,
+      "radiusM": 400,
+      "character": "colleges, Sorbonne"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Notre-Dame",
+      "lat": 48.853,
+      "lon": 2.3499,
+      "built": 1163,
+      "gone": null
+     },
+     {
+      "name": "Sainte-Chapelle",
+      "lat": 48.8554,
+      "lon": 2.345,
+      "built": 1248,
+      "gone": null
+     },
+     {
+      "name": "Louvre fortress",
+      "lat": 48.8606,
+      "lon": 2.3376,
+      "built": 1190,
+      "gone": null
+     },
+     {
+      "name": "Sorbonne",
+      "lat": 48.8486,
+      "lon": 2.343,
+      "built": 1253,
+      "gone": null
+     },
+     {
+      "name": "Bastille",
+      "lat": 48.8532,
+      "lon": 2.3691,
+      "built": 1370,
+      "gone": 1789
+     },
+     {
+      "name": "Pont Neuf",
+      "lat": 48.857,
+      "lon": 2.3413,
+      "built": 1607,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      3,
+      5
+     ],
+     "roofs": "slate",
+     "materials": "timber-frame, plaster, stone",
+     "colors": [
+      "#b9a88a",
+      "#6b7a86"
+     ],
+     "note": "Gabled timber houses; gates fetched, positions ~250 m."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Wall_of_Philip_II_Augustus"
+    ]
+   },
+   {
+    "from": 1860,
+    "to": 1914,
+    "name": "Haussmann Paris (Thiers wall)",
+    "walls": [
+     {
+      "name": "Thiers wall (33 km, 94 bastions; simplified)",
+      "built": 1846,
+      "gone": 1920,
+      "path": [
+       [
+        48.903,
+        2.3445
+       ],
+       [
+        48.8985,
+        2.359
+       ],
+       [
+        48.888,
+        2.392
+       ],
+       [
+        48.8645,
+        2.409
+       ],
+       [
+        48.847,
+        2.412
+       ],
+       [
+        48.826,
+        2.4
+       ],
+       [
+        48.8187,
+        2.3597
+       ],
+       [
+        48.823,
+        2.326
+       ],
+       [
+        48.826,
+        2.295
+       ],
+       [
+        48.8323,
+        2.2879
+       ],
+       [
+        48.838,
+        2.257
+       ],
+       [
+        48.847,
+        2.257
+       ],
+       [
+        48.8715,
+        2.2745
+       ],
+       [
+        48.878,
+        2.283
+       ],
+       [
+        48.886,
+        2.293
+       ],
+       [
+        48.894,
+        2.313
+       ],
+       [
+        48.899,
+        2.328
+       ]
+      ]
+     }
+    ],
+    "gates": [
+     {
+      "name": "Porte Maillot",
+      "lat": 48.878,
+      "lon": 2.283
+     },
+     {
+      "name": "Porte d'Italie",
+      "lat": 48.8187,
+      "lon": 2.3597
+     },
+     {
+      "name": "Porte d'Orleans",
+      "lat": 48.823,
+      "lon": 2.326
+     },
+     {
+      "name": "Porte de Clignancourt",
+      "lat": 48.903,
+      "lon": 2.3445
+     },
+     {
+      "name": "Porte de Vincennes",
+      "lat": 48.847,
+      "lon": 2.412
+     }
+    ],
+    "streets": [
+     {
+      "name": "Champs-Elysees",
+      "path": [
+       [
+        48.8638,
+        2.3213
+       ],
+       [
+        48.8738,
+        2.295
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Boulevard de Sebastopol",
+      "path": [
+       [
+        48.8696,
+        2.3547
+       ],
+       [
+        48.8584,
+        2.347
+       ]
+      ],
+      "width": "avenue"
+     },
+     {
+      "name": "Rue de Rivoli",
+      "path": [
+       [
+        48.865,
+        2.3225
+       ],
+       [
+        48.8548,
+        2.364
+       ]
+      ],
+      "width": "avenue"
+     },
+     {
+      "name": "Avenue de l'Opera",
+      "path": [
+       [
+        48.8635,
+        2.3355
+       ],
+       [
+        48.871,
+        2.332
+       ]
+      ],
+      "width": "avenue"
+     },
+     {
+      "name": "Boulevard Haussmann",
+      "path": [
+       [
+        48.8738,
+        2.332
+       ],
+       [
+        48.8755,
+        2.304
+       ]
+      ],
+      "width": "avenue"
+     },
+     {
+      "name": "Avenue Foch",
+      "path": [
+       [
+        48.8738,
+        2.295
+       ],
+       [
+        48.8715,
+        2.2755
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Boulevard Saint-Germain",
+      "path": [
+       [
+        48.851,
+        2.3625
+       ],
+       [
+        48.854,
+        2.3335
+       ],
+       [
+        48.86,
+        2.32
+       ]
+      ],
+      "width": "avenue"
+     }
+    ],
+    "grid": [
+     {
+      "area": [
+       [
+        48.8738,
+        2.295
+       ],
+       [
+        48.8825,
+        2.304
+       ],
+       [
+        48.876,
+        2.356
+       ],
+       [
+        48.8584,
+        2.347
+       ],
+       [
+        48.85,
+        2.33
+       ],
+       [
+        48.8638,
+        2.3213
+       ]
+      ],
+      "angleDeg": 0,
+      "blockM": 100,
+      "note": "Haussmann blocks: wedge/trapezoid islands of 6-storey cream stone facades, 18-30 m boulevards radiating from Etoile"
+     }
+    ],
+    "water": [
+     {
+      "name": "Seine",
+      "kind": "river",
+      "path": [
+       [
+        48.837,
+        2.378
+       ],
+       [
+        48.8438,
+        2.366
+       ],
+       [
+        48.85,
+        2.359
+       ],
+       [
+        48.8532,
+        2.352
+       ],
+       [
+        48.8545,
+        2.344
+       ],
+       [
+        48.859,
+        2.3395
+       ],
+       [
+        48.862,
+        2.333
+       ],
+       [
+        48.864,
+        2.325
+       ],
+       [
+        48.862,
+        2.31
+       ],
+       [
+        48.858,
+        2.295
+       ],
+       [
+        48.851,
+        2.28
+       ]
+      ]
+     },
+     {
+      "name": "Canal Saint-Martin",
+      "kind": "canal",
+      "path": [
+       [
+        48.853,
+        2.3695
+       ],
+       [
+        48.867,
+        2.364
+       ],
+       [
+        48.883,
+        2.37
+       ],
+       [
+        48.892,
+        2.372
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Grands Boulevards",
+      "lat": 48.871,
+      "lon": 2.34,
+      "radiusM": 800,
+      "character": "theatres, shops, apartments"
+     },
+     {
+      "name": "Marais",
+      "lat": 48.857,
+      "lon": 2.36,
+      "radiusM": 500,
+      "character": "older lanes, workshops"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Arc de Triomphe",
+      "lat": 48.8738,
+      "lon": 2.295,
+      "built": 1836,
+      "gone": null
+     },
+     {
+      "name": "Opera Garnier",
+      "lat": 48.8719,
+      "lon": 2.3316,
+      "built": 1875,
+      "gone": null
+     },
+     {
+      "name": "Eiffel Tower",
+      "lat": 48.8584,
+      "lon": 2.2945,
+      "built": 1889,
+      "gone": null
+     },
+     {
+      "name": "Gare du Nord",
+      "lat": 48.8809,
+      "lon": 2.3553,
+      "built": 1865,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      5,
+      7
+     ],
+     "roofs": "zinc mansard",
+     "materials": "cream limestone",
+     "colors": [
+      "#e3d6b8",
+      "#6c7a89",
+      "#c9b48a"
+     ],
+     "note": "Uniform 6-storey stone, zinc mansards, wrought balconies; ring = Thiers fortifications (fetched dates)."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Thiers_wall"
+    ]
+   }
+  ]
+ },
+ {
+  "city": "london",
+  "eras": [
+   {
+    "from": 50,
+    "to": 410,
+    "name": "Roman Londinium",
+    "walls": [
+     {
+      "name": "Roman City Wall (c.200; ~2 mi)",
+      "built": 200,
+      "gone": null,
+      "path": [
+       [
+        51.5081,
+        -0.076
+       ],
+       [
+        51.51,
+        -0.076
+       ],
+       [
+        51.5143,
+        -0.0768
+       ],
+       [
+        51.5165,
+        -0.0805
+       ],
+       [
+        51.5185,
+        -0.088
+       ],
+       [
+        51.519,
+        -0.0935
+       ],
+       [
+        51.5182,
+        -0.096
+       ],
+       [
+        51.517,
+        -0.0975
+       ],
+       [
+        51.5157,
+        -0.1012
+       ],
+       [
+        51.514,
+        -0.105
+       ],
+       [
+        51.5115,
+        -0.1045
+       ],
+       [
+        51.51,
+        -0.096
+       ],
+       [
+        51.5085,
+        -0.087
+       ]
+      ]
+     }
+    ],
+    "gates": [
+     {
+      "name": "Aldgate",
+      "lat": 51.5143,
+      "lon": -0.0768
+     },
+     {
+      "name": "Bishopsgate",
+      "lat": 51.5165,
+      "lon": -0.0805
+     },
+     {
+      "name": "Moorgate",
+      "lat": 51.5185,
+      "lon": -0.088
+     },
+     {
+      "name": "Cripplegate",
+      "lat": 51.519,
+      "lon": -0.0935
+     },
+     {
+      "name": "Aldersgate",
+      "lat": 51.5172,
+      "lon": -0.0972
+     },
+     {
+      "name": "Newgate",
+      "lat": 51.5157,
+      "lon": -0.1012
+     },
+     {
+      "name": "Ludgate",
+      "lat": 51.514,
+      "lon": -0.1045
+     }
+    ],
+    "streets": [
+     {
+      "name": "Gracechurch / Ermine Street",
+      "path": [
+       [
+        51.5079,
+        -0.0877
+       ],
+       [
+        51.513,
+        -0.0835
+       ],
+       [
+        51.5168,
+        -0.0815
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Watling Street / Cheapside",
+      "path": [
+       [
+        51.5155,
+        -0.1012
+       ],
+       [
+        51.514,
+        -0.095
+       ],
+       [
+        51.5135,
+        -0.09
+       ],
+       [
+        51.5133,
+        -0.084
+       ],
+       [
+        51.5143,
+        -0.0768
+       ]
+      ],
+      "width": "major"
+     }
+    ],
+    "grid": [],
+    "water": [
+     {
+      "name": "Thames",
+      "kind": "river",
+      "path": [
+       [
+        51.499,
+        -0.125
+       ],
+       [
+        51.505,
+        -0.118
+       ],
+       [
+        51.509,
+        -0.111
+       ],
+       [
+        51.5105,
+        -0.104
+       ],
+       [
+        51.5085,
+        -0.095
+       ],
+       [
+        51.5075,
+        -0.0877
+       ],
+       [
+        51.5065,
+        -0.08
+       ],
+       [
+        51.506,
+        -0.075
+       ],
+       [
+        51.504,
+        -0.06
+       ]
+      ]
+     },
+     {
+      "name": "Walbrook",
+      "kind": "river",
+      "path": [
+       [
+        51.5189,
+        -0.09
+       ],
+       [
+        51.5105,
+        -0.091
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Forum & Basilica",
+      "lat": 51.513,
+      "lon": -0.0835,
+      "radiusM": 150,
+      "character": "largest basilica north of Alps"
+     },
+     {
+      "name": "Governor's palace",
+      "lat": 51.5115,
+      "lon": -0.09,
+      "radiusM": 100,
+      "character": "palace"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "London Bridge (Roman)",
+      "lat": 51.5079,
+      "lon": -0.0877,
+      "built": 50,
+      "gone": null
+     },
+     {
+      "name": "Amphitheatre",
+      "lat": 51.5155,
+      "lon": -0.0922,
+      "built": 70,
+      "gone": null
+     },
+     {
+      "name": "Temple of Mithras",
+      "lat": 51.5121,
+      "lon": -0.0905,
+      "built": 240,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      1,
+      2
+     ],
+     "roofs": "clay tile",
+     "materials": "timber, wattle, stone",
+     "colors": [
+      "#c8664a"
+     ],
+     "note": "Walled city on two hills with Thames bridge."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/London_Wall"
+    ]
+   },
+   {
+    "from": 1550,
+    "to": 1760,
+    "name": "Tudor-Stuart London (Agas era)",
+    "walls": [
+     {
+      "name": "City Wall w/ gates (demolished 1760-67)",
+      "built": 200,
+      "gone": 1767,
+      "path": [
+       [
+        51.5081,
+        -0.076
+       ],
+       [
+        51.51,
+        -0.076
+       ],
+       [
+        51.5143,
+        -0.0768
+       ],
+       [
+        51.5165,
+        -0.0805
+       ],
+       [
+        51.5185,
+        -0.088
+       ],
+       [
+        51.519,
+        -0.0935
+       ],
+       [
+        51.5182,
+        -0.096
+       ],
+       [
+        51.517,
+        -0.0975
+       ],
+       [
+        51.5157,
+        -0.1012
+       ],
+       [
+        51.514,
+        -0.105
+       ],
+       [
+        51.5115,
+        -0.1045
+       ],
+       [
+        51.51,
+        -0.096
+       ],
+       [
+        51.5085,
+        -0.087
+       ]
+      ]
+     }
+    ],
+    "gates": [
+     {
+      "name": "Aldgate",
+      "lat": 51.5143,
+      "lon": -0.0768
+     },
+     {
+      "name": "Bishopsgate",
+      "lat": 51.5165,
+      "lon": -0.0805
+     },
+     {
+      "name": "Moorgate",
+      "lat": 51.5185,
+      "lon": -0.088
+     },
+     {
+      "name": "Cripplegate",
+      "lat": 51.519,
+      "lon": -0.0935
+     },
+     {
+      "name": "Aldersgate",
+      "lat": 51.5172,
+      "lon": -0.0972
+     },
+     {
+      "name": "Newgate",
+      "lat": 51.5157,
+      "lon": -0.1012
+     },
+     {
+      "name": "Ludgate",
+      "lat": 51.514,
+      "lon": -0.1045
+     }
+    ],
+    "streets": [
+     {
+      "name": "Cheapside",
+      "path": [
+       [
+        51.5155,
+        -0.1012
+       ],
+       [
+        51.514,
+        -0.095
+       ],
+       [
+        51.5135,
+        -0.09
+       ],
+       [
+        51.5133,
+        -0.084
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Fleet Street/Strand",
+      "path": [
+       [
+        51.5139,
+        -0.1058
+       ],
+       [
+        51.5131,
+        -0.1113
+       ],
+       [
+        51.5074,
+        -0.1278
+       ]
+      ],
+      "width": "major"
+     }
+    ],
+    "grid": [],
+    "water": [
+     {
+      "name": "Thames",
+      "kind": "river",
+      "path": [
+       [
+        51.499,
+        -0.125
+       ],
+       [
+        51.505,
+        -0.118
+       ],
+       [
+        51.509,
+        -0.111
+       ],
+       [
+        51.5105,
+        -0.104
+       ],
+       [
+        51.5085,
+        -0.095
+       ],
+       [
+        51.5075,
+        -0.0877
+       ],
+       [
+        51.5065,
+        -0.08
+       ],
+       [
+        51.506,
+        -0.075
+       ],
+       [
+        51.504,
+        -0.06
+       ]
+      ]
+     },
+     {
+      "name": "Fleet",
+      "kind": "river",
+      "path": [
+       [
+        51.529,
+        -0.123
+       ],
+       [
+        51.5115,
+        -0.1045
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "City of London",
+      "lat": 51.5135,
+      "lon": -0.09,
+      "radiusM": 700,
+      "character": "dense timber houses, livery halls"
+     },
+     {
+      "name": "Southwark",
+      "lat": 51.504,
+      "lon": -0.092,
+      "radiusM": 500,
+      "character": "theatres, inns"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Old St Paul's",
+      "lat": 51.5138,
+      "lon": -0.0984,
+      "built": 1087,
+      "gone": 1666
+     },
+     {
+      "name": "St Paul's (Wren)",
+      "lat": 51.5138,
+      "lon": -0.0984,
+      "built": 1675,
+      "gone": null
+     },
+     {
+      "name": "Tower of London",
+      "lat": 51.5081,
+      "lon": -0.0759,
+      "built": 1078,
+      "gone": null
+     },
+     {
+      "name": "Westminster Abbey",
+      "lat": 51.4994,
+      "lon": -0.1273,
+      "built": 1245,
+      "gone": null
+     },
+     {
+      "name": "Old London Bridge",
+      "lat": 51.5079,
+      "lon": -0.0877,
+      "built": 1209,
+      "gone": 1831
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      3,
+      5
+     ],
+     "roofs": "tile, later brick",
+     "materials": "timber-frame, after 1666 brick",
+     "colors": [
+      "#a8553a",
+      "#d8c7a0"
+     ],
+     "note": "Medieval lanes; after 1666 fire brick with wider streets; gates fetched, coords approx."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/London_Wall"
+    ]
+   },
+   {
+    "from": 1830,
+    "to": 1900,
+    "name": "Georgian-Victorian London",
+    "walls": [],
+    "gates": [],
+    "streets": [
+     {
+      "name": "Regent Street",
+      "path": [
+       [
+        51.51,
+        -0.1342
+       ],
+       [
+        51.5152,
+        -0.1419
+       ],
+       [
+        51.5235,
+        -0.146
+       ]
+      ],
+      "width": "avenue"
+     },
+     {
+      "name": "Strand",
+      "path": [
+       [
+        51.5131,
+        -0.1113
+       ],
+       [
+        51.5074,
+        -0.1278
+       ]
+      ],
+      "width": "major"
+     }
+    ],
+    "grid": [
+     {
+      "area": [
+       [
+        51.51,
+        -0.15
+       ],
+       [
+        51.516,
+        -0.15
+       ],
+       [
+        51.516,
+        -0.14
+       ],
+       [
+        51.51,
+        -0.14
+       ]
+      ],
+      "angleDeg": 0,
+      "blockM": 80,
+      "note": "Mayfair/Bloomsbury squares, terraces (from memory)"
+     }
+    ],
+    "water": [
+     {
+      "name": "Thames",
+      "kind": "river",
+      "path": [
+       [
+        51.499,
+        -0.125
+       ],
+       [
+        51.505,
+        -0.118
+       ],
+       [
+        51.509,
+        -0.111
+       ],
+       [
+        51.5105,
+        -0.104
+       ],
+       [
+        51.5085,
+        -0.095
+       ],
+       [
+        51.5075,
+        -0.0877
+       ],
+       [
+        51.5065,
+        -0.08
+       ],
+       [
+        51.506,
+        -0.075
+       ],
+       [
+        51.504,
+        -0.06
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "West End",
+      "lat": 51.512,
+      "lon": -0.135,
+      "radiusM": 900,
+      "character": "Georgian terraces, squares"
+     },
+     {
+      "name": "East End/Docks",
+      "lat": 51.51,
+      "lon": -0.05,
+      "radiusM": 1200,
+      "character": "docks, warehouses"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Tower Bridge",
+      "lat": 51.5055,
+      "lon": -0.0754,
+      "built": 1894,
+      "gone": null
+     },
+     {
+      "name": "Houses of Parliament",
+      "lat": 51.4995,
+      "lon": -0.1248,
+      "built": 1870,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      3,
+      5
+     ],
+     "roofs": "slate",
+     "materials": "London stock brick, stucco",
+     "colors": [
+      "#b89a6a",
+      "#e8e0d0"
+     ],
+     "note": "Terraces of yellow brick/stucco around squares."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/London_Wall"
+    ]
+   }
+  ]
+ },
+ {
+  "city": "barcelona",
+  "eras": [
+   {
+    "from": -10,
+    "to": 1200,
+    "name": "Roman Barcino",
+    "walls": [
+     {
+      "name": "Roman walls (rect., approx, from memory)",
+      "built": -10,
+      "gone": null,
+      "path": [
+       [
+        41.3855,
+        2.1745
+       ],
+       [
+        41.386,
+        2.1775
+       ],
+       [
+        41.3835,
+        2.1795
+       ],
+       [
+        41.3812,
+        2.179
+       ],
+       [
+        41.3808,
+        2.1765
+       ],
+       [
+        41.383,
+        2.174
+       ]
+      ]
+     }
+    ],
+    "gates": [],
+    "streets": [
+     {
+      "name": "Cardo (c. Bisbe)",
+      "path": [
+       [
+        41.3855,
+        2.175
+       ],
+       [
+        41.3825,
+        2.177
+       ]
+      ],
+      "width": "minor"
+     }
+    ],
+    "grid": [
+     {
+      "area": [
+       [
+        41.3855,
+        2.1745
+       ],
+       [
+        41.386,
+        2.1775
+       ],
+       [
+        41.3835,
+        2.1795
+       ],
+       [
+        41.3812,
+        2.179
+       ],
+       [
+        41.3808,
+        2.1765
+       ],
+       [
+        41.383,
+        2.174
+       ]
+      ],
+      "angleDeg": 340,
+      "blockM": 70,
+      "note": "small Roman grid around Placa Sant Jaume"
+     }
+    ],
+    "water": [],
+    "districts": [
+     {
+      "name": "Mons Taber",
+      "lat": 41.384,
+      "lon": 2.1762,
+      "radiusM": 120,
+      "character": "forum and temple"
+     }
+    ],
+    "landmarks": [],
+    "style": {
+     "heightsFloors": [
+      1,
+      3
+     ],
+     "roofs": "clay tile",
+     "materials": "stone",
+     "colors": [
+      "#c9b48a"
+     ],
+     "note": "Small walled colony."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Eixample"
+    ]
+   },
+   {
+    "from": 1300,
+    "to": 1854,
+    "name": "Walled Barcelona",
+    "walls": [
+     {
+      "name": "Medieval/14th-c walls (simplified); demolished from 1854 (fetched)",
+      "built": 1300,
+      "gone": 1856,
+      "path": [
+       [
+        41.3753,
+        2.1757
+       ],
+       [
+        41.377,
+        2.166
+       ],
+       [
+        41.379,
+        2.1627
+       ],
+       [
+        41.386,
+        2.1645
+       ],
+       [
+        41.388,
+        2.1688
+       ],
+       [
+        41.3897,
+        2.173
+       ],
+       [
+        41.3893,
+        2.18
+       ],
+       [
+        41.3878,
+        2.186
+       ],
+       [
+        41.385,
+        2.1882
+       ],
+       [
+        41.38,
+        2.185
+       ],
+       [
+        41.3765,
+        2.1825
+       ]
+      ]
+     }
+    ],
+    "gates": [
+     {
+      "name": "Portal de l'Angel",
+      "lat": 41.3872,
+      "lon": 2.1707
+     },
+     {
+      "name": "Portal de Santa Madrona",
+      "lat": 41.3752,
+      "lon": 2.1755
+     },
+     {
+      "name": "Portal de Sant Antoni",
+      "lat": 41.3786,
+      "lon": 2.1625
+     },
+     {
+      "name": "Portal Nou",
+      "lat": 41.3877,
+      "lon": 2.1755
+     }
+    ],
+    "streets": [
+     {
+      "name": "La Rambla",
+      "path": [
+       [
+        41.387,
+        2.17
+       ],
+       [
+        41.3755,
+        2.1765
+       ]
+      ],
+      "width": "avenue"
+     }
+    ],
+    "grid": [],
+    "water": [],
+    "districts": [
+     {
+      "name": "Barri Gotic",
+      "lat": 41.383,
+      "lon": 2.177,
+      "radiusM": 300,
+      "character": "narrow lanes, cathedral"
+     },
+     {
+      "name": "Born",
+      "lat": 41.385,
+      "lon": 2.182,
+      "radiusM": 250,
+      "character": "merchant palaces"
+     },
+     {
+      "name": "Raval",
+      "lat": 41.379,
+      "lon": 2.169,
+      "radiusM": 400,
+      "character": "hospitals, convents, industry"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Barcelona Cathedral",
+      "lat": 41.384,
+      "lon": 2.1762,
+      "built": 1298,
+      "gone": null
+     },
+     {
+      "name": "Santa Maria del Mar",
+      "lat": 41.3838,
+      "lon": 2.1822,
+      "built": 1329,
+      "gone": null
+     },
+     {
+      "name": "Drassanes",
+      "lat": 41.3753,
+      "lon": 2.1757,
+      "built": 1280,
+      "gone": null
+     },
+     {
+      "name": "Ciutadella fortress",
+      "lat": 41.388,
+      "lon": 2.187,
+      "built": 1715,
+      "gone": 1868
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      3,
+      5
+     ],
+     "roofs": "clay tile",
+     "materials": "stone, plaster",
+     "colors": [
+      "#d9a066",
+      "#c2724d"
+     ],
+     "note": "Dense lanes inside walls."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Eixample"
+    ]
+   },
+   {
+    "from": 1860,
+    "to": 1920,
+    "name": "Cerda Eixample",
+    "walls": [],
+    "gates": [],
+    "streets": [
+     {
+      "name": "Passeig de Gracia",
+      "path": [
+       [
+        41.387,
+        2.17
+       ],
+       [
+        41.3953,
+        2.162
+       ],
+       [
+        41.4,
+        2.156
+       ]
+      ],
+      "width": "avenue"
+     },
+     {
+      "name": "Avinguda Diagonal",
+      "path": [
+       [
+        41.3935,
+        2.1425
+       ],
+       [
+        41.4036,
+        2.187
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Gran Via",
+      "path": [
+       [
+        41.3752,
+        2.149
+       ],
+       [
+        41.393,
+        2.183
+       ]
+      ],
+      "width": "major"
+     }
+    ],
+    "grid": [
+     {
+      "area": [
+       [
+        41.388,
+        2.1695
+       ],
+       [
+        41.379,
+        2.1627
+       ],
+       [
+        41.377,
+        2.15
+       ],
+       [
+        41.379,
+        2.14
+       ],
+       [
+        41.3935,
+        2.1425
+       ],
+       [
+        41.403,
+        2.187
+       ],
+       [
+        41.3925,
+        2.181
+       ]
+      ],
+      "angleDeg": 45,
+      "blockM": 133,
+      "note": "Cerda: 113.3 m square blocks, 20 m streets, 45-degree chamfers (fetched); corners face cardinal points"
+     }
+    ],
+    "water": [],
+    "districts": [
+     {
+      "name": "Eixample",
+      "lat": 41.392,
+      "lon": 2.162,
+      "radiusM": 2000,
+      "character": "modernista apartments"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Sagrada Familia",
+      "lat": 41.4036,
+      "lon": 2.1744,
+      "built": 1882,
+      "gone": null
+     },
+     {
+      "name": "Casa Batllo",
+      "lat": 41.3917,
+      "lon": 2.1649,
+      "built": 1906,
+      "gone": null
+     },
+     {
+      "name": "Arc de Triomf",
+      "lat": 41.391,
+      "lon": 2.1806,
+      "built": 1888,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      4,
+      6
+     ],
+     "roofs": "flat/tile",
+     "materials": "stone, brick, tile",
+     "colors": [
+      "#d8c7a0",
+      "#c9a66b"
+     ],
+     "note": "Octagonal blocks, 4-6 floors, plan approved 1859."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Eixample",
+     "https://en.wikipedia.org/wiki/Cerd%C3%A0_Plan"
+    ]
+   }
+  ]
+ },
+ {
+  "city": "baghdad",
+  "eras": [
+   {
+    "from": 762,
+    "to": 1258,
+    "name": "Abbasid Round City of al-Mansur",
+    "walls": [
+     {
+      "name": "Round City outer wall (r~1 km)",
+      "built": 762,
+      "gone": 1258,
+      "path": [
+       [
+        33.35648,
+        44.335
+       ],
+       [
+        33.35618,
+        44.33778
+       ],
+       [
+        33.35528,
+        44.34038
+       ],
+       [
+        33.35385,
+        44.3426
+       ],
+       [
+        33.35199,
+        44.34431
+       ],
+       [
+        33.34983,
+        44.34539
+       ],
+       [
+        33.3475,
+        44.34575
+       ],
+       [
+        33.34517,
+        44.34539
+       ],
+       [
+        33.34301,
+        44.34431
+       ],
+       [
+        33.34115,
+        44.3426
+       ],
+       [
+        33.33972,
+        44.34038
+       ],
+       [
+        33.33882,
+        44.33778
+       ],
+       [
+        33.33852,
+        44.335
+       ],
+       [
+        33.33882,
+        44.33222
+       ],
+       [
+        33.33972,
+        44.32962
+       ],
+       [
+        33.34115,
+        44.3274
+       ],
+       [
+        33.34301,
+        44.32569
+       ],
+       [
+        33.34517,
+        44.32461
+       ],
+       [
+        33.3475,
+        44.32425
+       ],
+       [
+        33.34983,
+        44.32461
+       ],
+       [
+        33.35199,
+        44.32569
+       ],
+       [
+        33.35385,
+        44.3274
+       ],
+       [
+        33.35528,
+        44.32962
+       ],
+       [
+        33.35618,
+        44.33222
+       ]
+      ]
+     },
+     {
+      "name": "Inner ring",
+      "built": 766,
+      "gone": 1258,
+      "path": [
+       [
+        33.35469,
+        44.335
+       ],
+       [
+        33.35444,
+        44.33723
+       ],
+       [
+        33.35372,
+        44.3393
+       ],
+       [
+        33.35258,
+        44.34108
+       ],
+       [
+        33.35109,
+        44.34245
+       ],
+       [
+        33.34936,
+        44.34331
+       ],
+       [
+        33.3475,
+        44.3436
+       ],
+       [
+        33.34564,
+        44.34331
+       ],
+       [
+        33.34391,
+        44.34245
+       ],
+       [
+        33.34242,
+        44.34108
+       ],
+       [
+        33.34128,
+        44.3393
+       ],
+       [
+        33.34056,
+        44.33723
+       ],
+       [
+        33.34031,
+        44.335
+       ],
+       [
+        33.34056,
+        44.33277
+       ],
+       [
+        33.34128,
+        44.3307
+       ],
+       [
+        33.34242,
+        44.32892
+       ],
+       [
+        33.34391,
+        44.32755
+       ],
+       [
+        33.34564,
+        44.32669
+       ],
+       [
+        33.3475,
+        44.3264
+       ],
+       [
+        33.34936,
+        44.32669
+       ],
+       [
+        33.35109,
+        44.32755
+       ],
+       [
+        33.35258,
+        44.32892
+       ],
+       [
+        33.35372,
+        44.3307
+       ],
+       [
+        33.35444,
+        44.33277
+       ]
+      ]
+     }
+    ],
+    "gates": [
+     {
+      "name": "Bab al-Khorasan",
+      "lat": 33.35385,
+      "lon": 44.3426
+     },
+     {
+      "name": "Bab al-Basra",
+      "lat": 33.34115,
+      "lon": 44.3426
+     },
+     {
+      "name": "Bab al-Kufa",
+      "lat": 33.34115,
+      "lon": 44.3274
+     },
+     {
+      "name": "Bab al-Sham",
+      "lat": 33.35385,
+      "lon": 44.3274
+     }
+    ],
+    "streets": [
+     {
+      "name": "Khorasan road",
+      "path": [
+       [
+        33.35385,
+        44.3426
+       ],
+       [
+        33.3475,
+        44.335
+       ]
+      ],
+      "width": "avenue"
+     },
+     {
+      "name": "Basra road",
+      "path": [
+       [
+        33.34115,
+        44.3426
+       ],
+       [
+        33.3475,
+        44.335
+       ]
+      ],
+      "width": "avenue"
+     },
+     {
+      "name": "Kufa road",
+      "path": [
+       [
+        33.34115,
+        44.3274
+       ],
+       [
+        33.3475,
+        44.335
+       ]
+      ],
+      "width": "avenue"
+     },
+     {
+      "name": "Sham road",
+      "path": [
+       [
+        33.35385,
+        44.3274
+       ],
+       [
+        33.3475,
+        44.335
+       ]
+      ],
+      "width": "avenue"
+     }
+    ],
+    "grid": [],
+    "water": [
+     {
+      "name": "Tigris (approx.)",
+      "kind": "river",
+      "path": [
+       [
+        33.43,
+        44.365
+       ],
+       [
+        33.4,
+        44.355
+       ],
+       [
+        33.38,
+        44.36
+       ],
+       [
+        33.36,
+        44.372
+       ],
+       [
+        33.34,
+        44.382
+       ],
+       [
+        33.315,
+        44.39
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Centre: Golden Gate palace & mosque",
+      "lat": 33.3475,
+      "lon": 44.335,
+      "radiusM": 200,
+      "character": "palace, great mosque, guard"
+     },
+     {
+      "name": "Karkh markets",
+      "lat": 33.33,
+      "lon": 44.36,
+      "radiusM": 600,
+      "character": "suburban markets"
+     },
+     {
+      "name": "Rusafa",
+      "lat": 33.34,
+      "lon": 44.395,
+      "radiusM": 600,
+      "character": "east-bank quarter (768)"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Palace of the Golden Gate",
+      "lat": 33.3475,
+      "lon": 44.335,
+      "built": 762,
+      "gone": 900
+     },
+     {
+      "name": "Mustansiriya Madrasa",
+      "lat": 33.3437,
+      "lon": 44.3896,
+      "built": 1227,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      1,
+      2
+     ],
+     "roofs": "flat, domes",
+     "materials": "mud brick, baked brick",
+     "colors": [
+      "#d8c7a0",
+      "#b8a070"
+     ],
+     "note": "Perfect circle, 4 gates 90 degrees apart (fetched); real site coordinates and Tigris course uncertain."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Round_City_of_Baghdad"
+    ]
+   },
+   {
+    "from": 1534,
+    "to": 1917,
+    "name": "Ottoman Baghdad",
+    "walls": [],
+    "gates": [],
+    "streets": [],
+    "grid": [],
+    "water": [
+     {
+      "name": "Tigris (approx.)",
+      "kind": "river",
+      "path": [
+       [
+        33.43,
+        44.365
+       ],
+       [
+        33.4,
+        44.355
+       ],
+       [
+        33.38,
+        44.36
+       ],
+       [
+        33.36,
+        44.372
+       ],
+       [
+        33.34,
+        44.382
+       ],
+       [
+        33.315,
+        44.39
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Rusafa bazaar",
+      "lat": 33.3405,
+      "lon": 44.393,
+      "radiusM": 400,
+      "character": "covered bazaars, khans"
+     },
+     {
+      "name": "Kadhimiya",
+      "lat": 33.38,
+      "lon": 44.344,
+      "radiusM": 500,
+      "character": "shrine town"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Kadhimiya shrine",
+      "lat": 33.38,
+      "lon": 44.344,
+      "built": 800,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      1,
+      3
+     ],
+     "roofs": "flat",
+     "materials": "baked brick, timber balconies",
+     "colors": [
+      "#c9a66b",
+      "#b88a5a"
+     ],
+     "note": "Brick courtyard houses with projecting timber balconies; low confidence."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Round_City_of_Baghdad"
+    ]
+   }
+  ]
+ },
+ {
+  "city": "tehran",
+  "eras": [
+   {
+    "from": 1553,
+    "to": 1867,
+    "name": "Safavid/early Qajar Tehran",
+    "walls": [],
+    "gates": [],
+    "streets": [],
+    "grid": [],
+    "water": [],
+    "districts": [
+     {
+      "name": "Citadel & Bazaar",
+      "lat": 35.675,
+      "lon": 51.42,
+      "radiusM": 500,
+      "character": "walled citadel, roofed bazaar; three quarters Udlajan, Chale-Meydan, Sangelaj (fetched)"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Golestan/Arg",
+      "lat": 35.6797,
+      "lon": 51.42,
+      "built": 1500,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      1,
+      2
+     ],
+     "roofs": "flat",
+     "materials": "mud brick",
+     "colors": [
+      "#c9a66b"
+     ],
+     "note": "Small walled town."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Tehran"
+    ]
+   },
+   {
+    "from": 1867,
+    "to": 1937,
+    "name": "Naseri Tehran (octagon)",
+    "walls": [
+     {
+      "name": "Naser al-Din octagonal wall (SCHEMATIC, ~19 km2; 12 gates; demolished 1930s)",
+      "built": 1870,
+      "gone": 1937,
+      "path": [
+       [
+        35.6994,
+        51.42495
+       ],
+       [
+        35.68804,
+        51.43902
+       ],
+       [
+        35.67196,
+        51.43902
+       ],
+       [
+        35.6606,
+        51.42495
+       ],
+       [
+        35.6606,
+        51.40505
+       ],
+       [
+        35.67196,
+        51.39098
+       ],
+       [
+        35.68804,
+        51.39098
+       ],
+       [
+        35.6994,
+        51.40505
+       ]
+      ]
+     }
+    ],
+    "gates": [],
+    "streets": [],
+    "grid": [],
+    "water": [],
+    "districts": [
+     {
+      "name": "Grand Bazaar",
+      "lat": 35.672,
+      "lon": 51.42,
+      "radiusM": 400,
+      "character": "bazaar"
+     },
+     {
+      "name": "Golestan Palace",
+      "lat": 35.6797,
+      "lon": 51.42,
+      "radiusM": 300,
+      "character": "palace"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Golestan Palace",
+      "lat": 35.6797,
+      "lon": 51.42,
+      "built": 1500,
+      "gone": null
+     },
+     {
+      "name": "Grand Bazaar",
+      "lat": 35.672,
+      "lon": 51.42,
+      "built": 1500,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      1,
+      2
+     ],
+     "roofs": "flat/vaulted",
+     "materials": "brick, tile",
+     "colors": [
+      "#b88a5a",
+      "#3a7a9a"
+     ],
+     "note": "Octagon is geometric stand-in; real gate coordinates not found (fetched: octagon, 12 gates, ~19 km2)."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Tehran"
+    ]
+   }
+  ]
+ },
+ {
+  "city": "moscow",
+  "eras": [
+   {
+    "from": 1485,
+    "to": 1534,
+    "name": "Brick Kremlin Moscow",
+    "walls": [
+     {
+      "name": "Kremlin wall (1485-95; shape approximate)",
+      "built": 1485,
+      "gone": null,
+      "path": [
+       [
+        55.7503,
+        37.6128
+       ],
+       [
+        55.7495,
+        37.6195
+       ],
+       [
+        55.752,
+        37.6215
+       ],
+       [
+        55.7555,
+        37.6212
+       ],
+       [
+        55.758,
+        37.619
+       ],
+       [
+        55.7585,
+        37.614
+       ],
+       [
+        55.755,
+        37.6125
+       ],
+       [
+        55.7525,
+        37.6122
+       ]
+      ]
+     }
+    ],
+    "gates": [
+     {
+      "name": "Spasskaya Tower",
+      "lat": 55.7523,
+      "lon": 37.6213
+     },
+     {
+      "name": "Borovitskaya Tower",
+      "lat": 55.7503,
+      "lon": 37.6128
+     }
+    ],
+    "streets": [],
+    "grid": [],
+    "water": [
+     {
+      "name": "Moskva River",
+      "kind": "river",
+      "path": [
+       [
+        55.74,
+        37.57
+       ],
+       [
+        55.743,
+        37.59
+       ],
+       [
+        55.7465,
+        37.604
+       ],
+       [
+        55.748,
+        37.612
+       ],
+       [
+        55.749,
+        37.62
+       ],
+       [
+        55.75,
+        37.628
+       ],
+       [
+        55.747,
+        37.64
+       ],
+       [
+        55.745,
+        37.645
+       ],
+       [
+        55.744,
+        37.655
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Posad (Velikiy Posad)",
+      "lat": 55.754,
+      "lon": 37.628,
+      "radiusM": 600,
+      "character": "traders east of Kremlin"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Kremlin",
+      "lat": 55.752,
+      "lon": 37.6175,
+      "built": 1485,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      1,
+      2
+     ],
+     "roofs": "tent/onion",
+     "materials": "timber, brick",
+     "colors": [
+      "#a8553a",
+      "#e8e0d0"
+     ],
+     "note": "Triangular fortress, timber town."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Kitay-gorod"
+    ]
+   },
+   {
+    "from": 1535,
+    "to": 1812,
+    "name": "Moscow with ring walls",
+    "walls": [
+     {
+      "name": "Kremlin wall",
+      "built": 1495,
+      "gone": null,
+      "path": [
+       [
+        55.7503,
+        37.6128
+       ],
+       [
+        55.7495,
+        37.6195
+       ],
+       [
+        55.752,
+        37.6215
+       ],
+       [
+        55.7555,
+        37.6212
+       ],
+       [
+        55.758,
+        37.619
+       ],
+       [
+        55.7585,
+        37.614
+       ],
+       [
+        55.755,
+        37.6125
+       ],
+       [
+        55.7525,
+        37.6122
+       ]
+      ]
+     },
+     {
+      "name": "Kitay-gorod wall (1536-39; 13 towers, 6 gates, fetched)",
+      "built": 1536,
+      "gone": 1934,
+      "path": [
+       [
+        55.7527,
+        37.6215
+       ],
+       [
+        55.756,
+        37.6215
+       ],
+       [
+        55.7578,
+        37.6222
+       ],
+       [
+        55.76,
+        37.627
+       ],
+       [
+        55.7587,
+        37.6325
+       ],
+       [
+        55.7558,
+        37.6355
+       ],
+       [
+        55.7525,
+        37.632
+       ],
+       [
+        55.7507,
+        37.628
+       ]
+      ]
+     },
+     {
+      "name": "Bely Gorod wall (1585-93; now Boulevard Ring; course approximate, not fetched)",
+      "built": 1587,
+      "gone": 1780,
+      "path": [
+       [
+        55.744,
+        37.6
+       ],
+       [
+        55.7575,
+        37.604
+       ],
+       [
+        55.765,
+        37.604
+       ],
+       [
+        55.7691,
+        37.6205
+       ],
+       [
+        55.769,
+        37.625
+       ],
+       [
+        55.764,
+        37.644
+       ],
+       [
+        55.758,
+        37.646
+       ],
+       [
+        55.751,
+        37.653
+       ],
+       [
+        55.747,
+        37.64
+       ],
+       [
+        55.748,
+        37.62
+       ]
+      ]
+     },
+     {
+      "name": "Earth Rampart / Zemlyanoy Gorod (1630-38; 34 gates; leveled 1818-26 -> Garden Ring)",
+      "built": 1638,
+      "gone": 1826,
+      "path": [
+       [
+        55.747,
+        37.583
+       ],
+       [
+        55.76,
+        37.581
+       ],
+       [
+        55.769,
+        37.596
+       ],
+       [
+        55.772,
+        37.633
+       ],
+       [
+        55.769,
+        37.6485
+       ],
+       [
+        55.757,
+        37.66
+       ],
+       [
+        55.742,
+        37.6535
+       ],
+       [
+        55.7295,
+        37.639
+       ],
+       [
+        55.729,
+        37.622
+       ],
+       [
+        55.733,
+        37.59
+       ]
+      ]
+     }
+    ],
+    "gates": [
+     {
+      "name": "Spasskie",
+      "lat": 55.7523,
+      "lon": 37.6213
+     },
+     {
+      "name": "Ilyinskie",
+      "lat": 55.7565,
+      "lon": 37.635
+     },
+     {
+      "name": "Nikolskie",
+      "lat": 55.755,
+      "lon": 37.6212
+     },
+     {
+      "name": "Sukharev Tower",
+      "lat": 55.772,
+      "lon": 37.633
+     },
+     {
+      "name": "Red Gate",
+      "lat": 55.769,
+      "lon": 37.6485
+     },
+     {
+      "name": "Taganka gate",
+      "lat": 55.742,
+      "lon": 37.6535
+     }
+    ],
+    "streets": [],
+    "grid": [],
+    "water": [
+     {
+      "name": "Moskva River",
+      "kind": "river",
+      "path": [
+       [
+        55.74,
+        37.57
+       ],
+       [
+        55.743,
+        37.59
+       ],
+       [
+        55.7465,
+        37.604
+       ],
+       [
+        55.748,
+        37.612
+       ],
+       [
+        55.749,
+        37.62
+       ],
+       [
+        55.75,
+        37.628
+       ],
+       [
+        55.747,
+        37.64
+       ],
+       [
+        55.745,
+        37.645
+       ],
+       [
+        55.744,
+        37.655
+       ]
+      ]
+     },
+     {
+      "name": "Neglinnaya",
+      "kind": "river",
+      "path": [
+       [
+        55.77,
+        37.6195
+       ],
+       [
+        55.7585,
+        37.615
+       ],
+       [
+        55.754,
+        37.6125
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Kitay-gorod",
+      "lat": 55.7555,
+      "lon": 37.628,
+      "radiusM": 350,
+      "character": "trading rows"
+     },
+     {
+      "name": "Zamoskvorechye",
+      "lat": 55.74,
+      "lon": 37.63,
+      "radiusM": 700,
+      "character": "merchant/streltsy suburb"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "St Basil's",
+      "lat": 55.7525,
+      "lon": 37.6231,
+      "built": 1561,
+      "gone": null
+     },
+     {
+      "name": "Sukharev Tower",
+      "lat": 55.772,
+      "lon": 37.633,
+      "built": 1695,
+      "gone": 1934
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      1,
+      3
+     ],
+     "roofs": "onion domes, plank",
+     "materials": "timber, white-washed brick",
+     "colors": [
+      "#e8e0d0",
+      "#a8553a",
+      "#3a7a5a"
+     ],
+     "note": "Concentric rings, radial roads, timber houses; Moscow burned 1812."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Kitay-gorod",
+     "https://en.wikipedia.org/wiki/Garden_Ring"
+    ]
+   },
+   {
+    "from": 1826,
+    "to": 1900,
+    "name": "19th c. Moscow",
+    "walls": [],
+    "gates": [],
+    "streets": [
+     {
+      "name": "Garden Ring",
+      "path": [
+       [
+        55.747,
+        37.583
+       ],
+       [
+        55.76,
+        37.581
+       ],
+       [
+        55.769,
+        37.596
+       ],
+       [
+        55.772,
+        37.633
+       ],
+       [
+        55.769,
+        37.6485
+       ],
+       [
+        55.757,
+        37.66
+       ],
+       [
+        55.742,
+        37.6535
+       ],
+       [
+        55.7295,
+        37.639
+       ],
+       [
+        55.729,
+        37.622
+       ],
+       [
+        55.733,
+        37.59
+       ],
+       [
+        55.747,
+        37.583
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Boulevard Ring",
+      "path": [
+       [
+        55.744,
+        37.6
+       ],
+       [
+        55.7575,
+        37.604
+       ],
+       [
+        55.765,
+        37.604
+       ],
+       [
+        55.7691,
+        37.6205
+       ],
+       [
+        55.769,
+        37.625
+       ],
+       [
+        55.764,
+        37.644
+       ],
+       [
+        55.758,
+        37.646
+       ],
+       [
+        55.751,
+        37.653
+       ],
+       [
+        55.747,
+        37.64
+       ],
+       [
+        55.748,
+        37.62
+       ]
+      ],
+      "width": "avenue"
+     }
+    ],
+    "grid": [],
+    "water": [
+     {
+      "name": "Moskva River",
+      "kind": "river",
+      "path": [
+       [
+        55.74,
+        37.57
+       ],
+       [
+        55.743,
+        37.59
+       ],
+       [
+        55.7465,
+        37.604
+       ],
+       [
+        55.748,
+        37.612
+       ],
+       [
+        55.749,
+        37.62
+       ],
+       [
+        55.75,
+        37.628
+       ],
+       [
+        55.747,
+        37.64
+       ],
+       [
+        55.745,
+        37.645
+       ],
+       [
+        55.744,
+        37.655
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Arbat/Prechistenka",
+      "lat": 55.75,
+      "lon": 37.595,
+      "radiusM": 700,
+      "character": "mansions rebuilt after 1812"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Cathedral of Christ the Saviour",
+      "lat": 55.7447,
+      "lon": 37.6055,
+      "built": 1883,
+      "gone": 1931
+     },
+     {
+      "name": "Bolshoi Theatre",
+      "lat": 55.7601,
+      "lon": 37.6186,
+      "built": 1825,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      2,
+      4
+     ],
+     "roofs": "iron/tile, domes",
+     "materials": "stucco, brick",
+     "colors": [
+      "#e8d8a8",
+      "#a8553a",
+      "#e8e0d0"
+     ],
+     "note": "Ring boulevards replace walls."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Garden_Ring"
+    ]
+   }
+  ]
+ },
+ {
+  "city": "berlin",
+  "eras": [
+   {
+    "from": 1237,
+    "to": 1700,
+    "name": "Berlin-Colln",
+    "walls": [
+     {
+      "name": "Berlin-Colln medieval/fortress wall (schematic)",
+      "built": 1250,
+      "gone": 1734,
+      "path": [
+       [
+        52.5112,
+        13.4012
+       ],
+       [
+        52.5136,
+        13.3955
+       ],
+       [
+        52.519,
+        13.3985
+       ],
+       [
+        52.5225,
+        13.405
+       ],
+       [
+        52.5225,
+        13.411
+       ],
+       [
+        52.519,
+        13.416
+       ],
+       [
+        52.5155,
+        13.415
+       ],
+       [
+        52.5115,
+        13.409
+       ]
+      ]
+     }
+    ],
+    "gates": [],
+    "streets": [],
+    "grid": [],
+    "water": [
+     {
+      "name": "Spree",
+      "kind": "river",
+      "path": [
+       [
+        52.518,
+        13.33
+       ],
+       [
+        52.524,
+        13.37
+       ],
+       [
+        52.522,
+        13.38
+       ],
+       [
+        52.52,
+        13.3885
+       ],
+       [
+        52.52,
+        13.399
+       ],
+       [
+        52.514,
+        13.403
+       ],
+       [
+        52.51,
+        13.413
+       ],
+       [
+        52.503,
+        13.44
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Nikolaiviertel",
+      "lat": 52.517,
+      "lon": 13.4066,
+      "radiusM": 200,
+      "character": "oldest quarter"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Nikolaikirche",
+      "lat": 52.5166,
+      "lon": 13.4067,
+      "built": 1230,
+      "gone": null
+     },
+     {
+      "name": "Berlin Palace",
+      "lat": 52.517,
+      "lon": 13.401,
+      "built": 1443,
+      "gone": 1950
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      2,
+      3
+     ],
+     "roofs": "tile",
+     "materials": "timber, brick",
+     "colors": [
+      "#a8553a"
+     ],
+     "note": "Twin towns on Spree island; fortress razed 1734 (fetched)."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Berlin_Customs_Wall"
+    ]
+   },
+   {
+    "from": 1737,
+    "to": 1860,
+    "name": "Baroque Berlin (Customs Wall)",
+    "walls": [
+     {
+      "name": "Akzisemauer (customs wall; 1737 stockade, stone 1786-1802, removed 1860-70, fetched; course simplified)",
+      "built": 1737,
+      "gone": 1867,
+      "path": [
+       [
+        52.5163,
+        13.3777
+       ],
+       [
+        52.5256,
+        13.3878
+       ],
+       [
+        52.5299,
+        13.4012
+       ],
+       [
+        52.5335,
+        13.42
+       ],
+       [
+        52.5246,
+        13.43
+       ],
+       [
+        52.512,
+        13.444
+       ],
+       [
+        52.5006,
+        13.442
+       ],
+       [
+        52.499,
+        13.4177
+       ],
+       [
+        52.4978,
+        13.3938
+       ],
+       [
+        52.5069,
+        13.3733
+       ]
+      ]
+     }
+    ],
+    "gates": [
+     {
+      "name": "Brandenburger Tor",
+      "lat": 52.5163,
+      "lon": 13.3777
+     },
+     {
+      "name": "Oranienburger Tor",
+      "lat": 52.5256,
+      "lon": 13.3878
+     },
+     {
+      "name": "Rosenthaler Tor",
+      "lat": 52.5299,
+      "lon": 13.4012
+     },
+     {
+      "name": "Schlesisches Tor",
+      "lat": 52.5006,
+      "lon": 13.442
+     },
+     {
+      "name": "Kottbusser Tor",
+      "lat": 52.499,
+      "lon": 13.4177
+     },
+     {
+      "name": "Hallesches Tor",
+      "lat": 52.4978,
+      "lon": 13.3938
+     }
+    ],
+    "streets": [
+     {
+      "name": "Unter den Linden",
+      "path": [
+       [
+        52.5163,
+        13.3777
+       ],
+       [
+        52.5178,
+        13.399
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Friedrichstrasse",
+      "path": [
+       [
+        52.5004,
+        13.392
+       ],
+       [
+        52.5256,
+        13.3877
+       ]
+      ],
+      "width": "avenue"
+     }
+    ],
+    "grid": [
+     {
+      "area": [
+       [
+        52.51,
+        13.388
+       ],
+       [
+        52.516,
+        13.388
+       ],
+       [
+        52.516,
+        13.398
+       ],
+       [
+        52.51,
+        13.398
+       ]
+      ],
+      "angleDeg": 0,
+      "blockM": 100,
+      "note": "Friedrichstadt baroque grid (from memory)"
+     }
+    ],
+    "water": [
+     {
+      "name": "Spree",
+      "kind": "river",
+      "path": [
+       [
+        52.518,
+        13.33
+       ],
+       [
+        52.524,
+        13.37
+       ],
+       [
+        52.522,
+        13.38
+       ],
+       [
+        52.52,
+        13.3885
+       ],
+       [
+        52.52,
+        13.399
+       ],
+       [
+        52.514,
+        13.403
+       ],
+       [
+        52.51,
+        13.413
+       ],
+       [
+        52.503,
+        13.44
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Friedrichstadt",
+      "lat": 52.511,
+      "lon": 13.39,
+      "radiusM": 500,
+      "character": "grid of baroque blocks"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Brandenburg Gate",
+      "lat": 52.5163,
+      "lon": 13.3777,
+      "built": 1791,
+      "gone": null
+     },
+     {
+      "name": "Altes Museum",
+      "lat": 52.519,
+      "lon": 13.3985,
+      "built": 1830,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      2,
+      4
+     ],
+     "roofs": "tile",
+     "materials": "stucco, brick",
+     "colors": [
+      "#e8d8a8",
+      "#a8553a"
+     ],
+     "note": "Wall followed Torstrasse/Ebertstrasse line (fetched)."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Berlin_Customs_Wall"
+    ]
+   },
+   {
+    "from": 1861,
+    "to": 1914,
+    "name": "Wilhelmine Berlin",
+    "walls": [],
+    "gates": [],
+    "streets": [
+     {
+      "name": "Unter den Linden",
+      "path": [
+       [
+        52.5163,
+        13.3777
+       ],
+       [
+        52.5178,
+        13.399
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Kurfuerstendamm",
+      "path": [
+       [
+        52.505,
+        13.335
+       ],
+       [
+        52.4985,
+        13.287
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Strasse des 17. Juni",
+      "path": [
+       [
+        52.5163,
+        13.3777
+       ],
+       [
+        52.5145,
+        13.3501
+       ]
+      ],
+      "width": "avenue"
+     }
+    ],
+    "grid": [],
+    "water": [
+     {
+      "name": "Spree",
+      "kind": "river",
+      "path": [
+       [
+        52.518,
+        13.33
+       ],
+       [
+        52.524,
+        13.37
+       ],
+       [
+        52.522,
+        13.38
+       ],
+       [
+        52.52,
+        13.3885
+       ],
+       [
+        52.52,
+        13.399
+       ],
+       [
+        52.514,
+        13.403
+       ],
+       [
+        52.51,
+        13.413
+       ],
+       [
+        52.503,
+        13.44
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Mietskasernen",
+      "lat": 52.53,
+      "lon": 13.41,
+      "radiusM": 2000,
+      "character": "5-storey tenements around courtyards"
+     },
+     {
+      "name": "Mitte",
+      "lat": 52.517,
+      "lon": 13.395,
+      "radiusM": 800,
+      "character": "palaces, museums"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Reichstag",
+      "lat": 52.5186,
+      "lon": 13.3762,
+      "built": 1894,
+      "gone": null
+     },
+     {
+      "name": "Siegessaeule",
+      "lat": 52.5145,
+      "lon": 13.3501,
+      "built": 1873,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      4,
+      6
+     ],
+     "roofs": "slate, flat",
+     "materials": "stucco brick",
+     "colors": [
+      "#d8c7a0",
+      "#a8553a"
+     ],
+     "note": "1861 incorporation; tenement blocks."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Berlin_Customs_Wall"
+    ]
+   }
+  ]
+ },
+ {
+  "city": "washington",
+  "eras": [
+   {
+    "from": 1791,
+    "to": 1900,
+    "name": "L'Enfant Washington",
+    "walls": [],
+    "gates": [],
+    "streets": [
+     {
+      "name": "Pennsylvania Avenue",
+      "path": [
+       [
+        38.8975,
+        -77.035
+       ],
+       [
+        38.896,
+        -77.028
+       ],
+       [
+        38.894,
+        -77.02
+       ],
+       [
+        38.893,
+        -77.013
+       ],
+       [
+        38.891,
+        -77.01
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "National Mall axis",
+      "path": [
+       [
+        38.8899,
+        -77.0091
+       ],
+       [
+        38.8895,
+        -77.0353
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Massachusetts Avenue",
+      "path": [
+       [
+        38.9096,
+        -77.0434
+       ],
+       [
+        38.9055,
+        -77.023
+       ],
+       [
+        38.8975,
+        -77.005
+       ]
+      ],
+      "width": "avenue"
+     },
+     {
+      "name": "New York Avenue",
+      "path": [
+       [
+        38.8977,
+        -77.0365
+       ],
+       [
+        38.9055,
+        -77.023
+       ],
+       [
+        38.912,
+        -76.999
+       ]
+      ],
+      "width": "avenue"
+     }
+    ],
+    "grid": [
+     {
+      "area": [
+       [
+        38.9055,
+        -77.058
+       ],
+       [
+        38.915,
+        -77.048
+       ],
+       [
+        38.9185,
+        -77.021
+       ],
+       [
+        38.914,
+        -76.99
+       ],
+       [
+        38.873,
+        -76.995
+       ],
+       [
+        38.866,
+        -77.017
+       ],
+       [
+        38.879,
+        -77.033
+       ],
+       [
+        38.889,
+        -77.048
+       ],
+       [
+        38.895,
+        -77.056
+       ]
+      ],
+      "angleDeg": 0,
+      "blockM": 200,
+      "note": "cardinal grid (lettered E-W, numbered N-S) with diagonal state avenues meeting at circles; ~160 ft grand avenues; block size approx, not fetched"
+     }
+    ],
+    "water": [
+     {
+      "name": "Potomac",
+      "kind": "river",
+      "path": [
+       [
+        38.904,
+        -77.062
+       ],
+       [
+        38.895,
+        -77.056
+       ],
+       [
+        38.889,
+        -77.047
+       ],
+       [
+        38.879,
+        -77.037
+       ],
+       [
+        38.87,
+        -77.024
+       ],
+       [
+        38.865,
+        -77.017
+       ]
+      ]
+     },
+     {
+      "name": "Anacostia",
+      "kind": "river",
+      "path": [
+       [
+        38.865,
+        -77.017
+       ],
+       [
+        38.866,
+        -77.0
+       ],
+       [
+        38.873,
+        -76.99
+       ],
+       [
+        38.885,
+        -76.981
+       ]
+      ]
+     },
+     {
+      "name": "Washington City Canal",
+      "kind": "canal",
+      "path": [
+       [
+        38.893,
+        -77.04
+       ],
+       [
+        38.893,
+        -77.025
+       ],
+       [
+        38.8925,
+        -77.012
+       ],
+       [
+        38.888,
+        -77.01
+       ],
+       [
+        38.873,
+        -77.001
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Capitol Hill",
+      "lat": 38.8899,
+      "lon": -77.005,
+      "radiusM": 600,
+      "character": "rowhouses"
+     },
+     {
+      "name": "Federal core",
+      "lat": 38.895,
+      "lon": -77.035,
+      "radiusM": 700,
+      "character": "government buildings"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "US Capitol",
+      "lat": 38.8899,
+      "lon": -77.0091,
+      "built": 1793,
+      "gone": null
+     },
+     {
+      "name": "White House",
+      "lat": 38.8977,
+      "lon": -77.0365,
+      "built": 1792,
+      "gone": null
+     },
+     {
+      "name": "Washington Monument",
+      "lat": 38.8895,
+      "lon": -77.0353,
+      "built": 1848,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      2,
+      4
+     ],
+     "roofs": "slate/flat",
+     "materials": "brick federal, sandstone, marble",
+     "colors": [
+      "#a8553a",
+      "#e8e0d0"
+     ],
+     "note": "Planned city: Capitol on Jenkins Hill, President's House on ridge, 1 mile Mall (fetched)."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/L%27Enfant_Plan"
+    ]
+   }
+  ]
+ },
+ {
+  "city": "new-york",
+  "eras": [
+   {
+    "from": 1625,
+    "to": 1700,
+    "name": "New Amsterdam",
+    "walls": [
+     {
+      "name": "Wall (Wall Street), palisade; ring closed by shore (simplified)",
+      "built": 1653,
+      "gone": 1699,
+      "path": [
+       [
+        40.7078,
+        -74.0142
+       ],
+       [
+        40.7081,
+        -74.0124
+       ],
+       [
+        40.7068,
+        -74.0085
+       ],
+       [
+        40.7053,
+        -74.0064
+       ],
+       [
+        40.7035,
+        -74.006
+       ],
+       [
+        40.7015,
+        -74.0075
+       ],
+       [
+        40.7005,
+        -74.012
+       ],
+       [
+        40.701,
+        -74.016
+       ],
+       [
+        40.704,
+        -74.017
+       ]
+      ]
+     }
+    ],
+    "gates": [],
+    "streets": [
+     {
+      "name": "Heerestraat (Broadway)",
+      "path": [
+       [
+        40.7048,
+        -74.0139
+       ],
+       [
+        40.706,
+        -74.013
+       ],
+       [
+        40.7075,
+        -74.0122
+       ],
+       [
+        40.71,
+        -74.0106
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Wall Street",
+      "path": [
+       [
+        40.7075,
+        -74.0122
+       ],
+       [
+        40.7068,
+        -74.0092
+       ],
+       [
+        40.706,
+        -74.0075
+       ],
+       [
+        40.7053,
+        -74.0068
+       ]
+      ],
+      "width": "minor"
+     }
+    ],
+    "grid": [],
+    "water": [
+     {
+      "name": "Heere Gracht (Broad Street canal; filled 1676)",
+      "kind": "canal",
+      "path": [
+       [
+        40.7027,
+        -74.0113
+       ],
+       [
+        40.704,
+        -74.0115
+       ],
+       [
+        40.7055,
+        -74.0112
+       ],
+       [
+        40.7068,
+        -74.0108
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "Dutch town",
+      "lat": 40.704,
+      "lon": -74.011,
+      "radiusM": 250,
+      "character": "gabled brick houses, winding lanes"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Fort Amsterdam",
+      "lat": 40.7041,
+      "lon": -74.0137,
+      "built": 1626,
+      "gone": 1790
+     },
+     {
+      "name": "Stadt Huys",
+      "lat": 40.7032,
+      "lon": -74.0105,
+      "built": 1642,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      2,
+      3
+     ],
+     "roofs": "red tile",
+     "materials": "brick, timber",
+     "colors": [
+      "#a8553a",
+      "#e8d8a8"
+     ],
+     "note": "Winding streets; wall along Wall Street (fetched)."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/New_Amsterdam"
+    ]
+   },
+   {
+    "from": 1811,
+    "to": 1900,
+    "name": "Manhattan Grid",
+    "walls": [],
+    "gates": [],
+    "streets": [
+     {
+      "name": "Broadway",
+      "path": [
+       [
+        40.7127,
+        -74.0072
+       ],
+       [
+        40.7359,
+        -73.9906
+       ],
+       [
+        40.7497,
+        -73.9875
+       ],
+       [
+        40.758,
+        -73.9855
+       ],
+       [
+        40.7681,
+        -73.9819
+       ]
+      ],
+      "width": "major"
+     },
+     {
+      "name": "Fifth Avenue",
+      "path": [
+       [
+        40.7336,
+        -73.997
+       ],
+       [
+        40.7536,
+        -73.981
+       ],
+       [
+        40.765,
+        -73.9737
+       ],
+       [
+        40.797,
+        -73.952
+       ]
+      ],
+      "width": "avenue"
+     }
+    ],
+    "grid": [
+     {
+      "area": [
+       [
+        40.728,
+        -74.006
+       ],
+       [
+        40.7185,
+        -73.974
+       ],
+       [
+        40.7585,
+        -73.9585
+       ],
+       [
+        40.7855,
+        -73.944
+       ],
+       [
+        40.823,
+        -73.936
+       ],
+       [
+        40.833,
+        -73.948
+       ],
+       [
+        40.792,
+        -73.975
+       ],
+       [
+        40.7705,
+        -73.991
+       ],
+       [
+        40.743,
+        -74.008
+       ]
+      ],
+      "angleDeg": 29,
+      "blockM": 80,
+      "note": "29 deg east of north (fetched); streets every ~200 ft (60 ft wide), 12 avenues 100 ft; blocks ~260 ft N-S and 610-920 ft E-W; shore edges simplified"
+     }
+    ],
+    "water": [],
+    "districts": [
+     {
+      "name": "Lower Manhattan",
+      "lat": 40.71,
+      "lon": -74.005,
+      "radiusM": 600,
+      "character": "commercial, cast-iron"
+     },
+     {
+      "name": "Tenements",
+      "lat": 40.72,
+      "lon": -73.99,
+      "radiusM": 800,
+      "character": "5-6 storey tenements"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "Brooklyn Bridge",
+      "lat": 40.7061,
+      "lon": -73.9969,
+      "built": 1883,
+      "gone": null
+     },
+     {
+      "name": "Grand Central",
+      "lat": 40.7527,
+      "lon": -73.9772,
+      "built": 1913,
+      "gone": null
+     },
+     {
+      "name": "Statue of Liberty",
+      "lat": 40.6892,
+      "lon": -74.0445,
+      "built": 1886,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      4,
+      8
+     ],
+     "roofs": "flat",
+     "materials": "brownstone, brick, cast-iron",
+     "colors": [
+      "#7b4a3a",
+      "#8a8a7a"
+     ],
+     "note": "Rectilinear grid with Broadway diagonal."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Commissioners%27_Plan_of_1811"
+    ]
+   }
+  ]
+ },
+ {
+  "city": "venice",
+  "eras": [
+   {
+    "from": 800,
+    "to": 1500,
+    "name": "Medieval Republic",
+    "walls": [],
+    "gates": [],
+    "streets": [],
+    "grid": [],
+    "water": [
+     {
+      "name": "Grand Canal",
+      "kind": "canal",
+      "path": [
+       [
+        45.4306,
+        12.3365
+       ],
+       [
+        45.4313,
+        12.3281
+       ],
+       [
+        45.433,
+        12.3245
+       ],
+       [
+        45.4342,
+        12.3232
+       ],
+       [
+        45.436,
+        12.3275
+       ],
+       [
+        45.438,
+        12.3359
+       ],
+       [
+        45.4407,
+        12.3343
+       ],
+       [
+        45.4427,
+        12.3275
+       ],
+       [
+        45.443,
+        12.322
+       ],
+       [
+        45.4425,
+        12.319
+       ]
+      ]
+     },
+     {
+      "name": "Giudecca Canal",
+      "kind": "canal",
+      "path": [
+       [
+        45.428,
+        12.317
+       ],
+       [
+        45.426,
+        12.338
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "San Marco",
+      "lat": 45.434,
+      "lon": 12.339,
+      "radiusM": 300,
+      "character": "palaces, piazza"
+     },
+     {
+      "name": "Rialto",
+      "lat": 45.4385,
+      "lon": 12.335,
+      "radiusM": 250,
+      "character": "markets, banks"
+     },
+     {
+      "name": "Arsenal",
+      "lat": 45.435,
+      "lon": 12.352,
+      "radiusM": 350,
+      "character": "shipyards"
+     },
+     {
+      "name": "Dorsoduro/Cannaregio",
+      "lat": 45.44,
+      "lon": 12.325,
+      "radiusM": 600,
+      "character": "dense calli, campi"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "St Mark's Basilica",
+      "lat": 45.4345,
+      "lon": 12.3397,
+      "built": 1063,
+      "gone": null
+     },
+     {
+      "name": "Doge's Palace",
+      "lat": 45.4337,
+      "lon": 12.3402,
+      "built": 1340,
+      "gone": null
+     },
+     {
+      "name": "Arsenal",
+      "lat": 45.435,
+      "lon": 12.352,
+      "built": 1104,
+      "gone": null
+     },
+     {
+      "name": "Rialto Bridge",
+      "lat": 45.438,
+      "lon": 12.3359,
+      "built": 1591,
+      "gone": null
+     },
+     {
+      "name": "Frari",
+      "lat": 45.4366,
+      "lon": 12.3265,
+      "built": 1338,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      3,
+      5
+     ],
+     "roofs": "terracotta",
+     "materials": "brick, plaster, Istrian stone",
+     "colors": [
+      "#d9a066",
+      "#e8d8c0",
+      "#a8553a"
+     ],
+     "note": "No walls, canals as streets; calli 1-3 m (from memory); 6 sestieri, ~118-126 islands (fetched)."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Venice"
+    ]
+   },
+   {
+    "from": 1500,
+    "to": 1797,
+    "name": "Renaissance Venice",
+    "walls": [],
+    "gates": [],
+    "streets": [],
+    "grid": [],
+    "water": [
+     {
+      "name": "Grand Canal",
+      "kind": "canal",
+      "path": [
+       [
+        45.4306,
+        12.3365
+       ],
+       [
+        45.4313,
+        12.3281
+       ],
+       [
+        45.433,
+        12.3245
+       ],
+       [
+        45.4342,
+        12.3232
+       ],
+       [
+        45.436,
+        12.3275
+       ],
+       [
+        45.438,
+        12.3359
+       ],
+       [
+        45.4407,
+        12.3343
+       ],
+       [
+        45.4427,
+        12.3275
+       ],
+       [
+        45.443,
+        12.322
+       ],
+       [
+        45.4425,
+        12.319
+       ]
+      ]
+     }
+    ],
+    "districts": [
+     {
+      "name": "San Marco",
+      "lat": 45.434,
+      "lon": 12.339,
+      "radiusM": 300,
+      "character": "palaces"
+     },
+     {
+      "name": "Ghetto",
+      "lat": 45.4455,
+      "lon": 12.326,
+      "radiusM": 150,
+      "character": "tall tenements, gated 1516"
+     }
+    ],
+    "landmarks": [
+     {
+      "name": "St Mark's Basilica",
+      "lat": 45.4345,
+      "lon": 12.3397,
+      "built": 1063,
+      "gone": null
+     },
+     {
+      "name": "Doge's Palace",
+      "lat": 45.4337,
+      "lon": 12.3402,
+      "built": 1340,
+      "gone": null
+     },
+     {
+      "name": "Arsenal",
+      "lat": 45.435,
+      "lon": 12.352,
+      "built": 1104,
+      "gone": null
+     },
+     {
+      "name": "Rialto Bridge",
+      "lat": 45.438,
+      "lon": 12.3359,
+      "built": 1591,
+      "gone": null
+     },
+     {
+      "name": "Frari",
+      "lat": 45.4366,
+      "lon": 12.3265,
+      "built": 1338,
+      "gone": null
+     },
+     {
+      "name": "Santa Maria della Salute",
+      "lat": 45.4306,
+      "lon": 12.3347,
+      "built": 1687,
+      "gone": null
+     },
+     {
+      "name": "Ghetto",
+      "lat": 45.4455,
+      "lon": 12.326,
+      "built": 1516,
+      "gone": null
+     }
+    ],
+    "style": {
+     "heightsFloors": [
+      3,
+      6
+     ],
+     "roofs": "terracotta",
+     "materials": "brick, plaster, marble",
+     "colors": [
+      "#d9a066",
+      "#e8d8c0"
+     ],
+     "note": "Palladian churches added; Jacopo de' Barbari view 1500 not fetched."
+    },
+    "src": [
+     "https://en.wikipedia.org/wiki/Venice"
+    ]
+   }
+  ]
+ }
+]

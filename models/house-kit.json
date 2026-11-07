@@ -1,0 +1,175 @@
+{
+ "storey": 3.5,
+ "format": "q20",
+ "stride": 20,
+ "variants": {
+  "timber_gable_2": {
+   "W": 6.0,
+   "D": 10.0,
+   "storeys": 3,
+   "first": 0,
+   "count": 10605
+  },
+  "timber_gable_3": {
+   "W": 7.5,
+   "D": 11.0,
+   "storeys": 4,
+   "first": 10605,
+   "count": 15279
+  },
+  "eaves_2": {
+   "W": 9.0,
+   "D": 10.0,
+   "storeys": 2,
+   "first": 25884,
+   "count": 9444
+  },
+  "eaves_3": {
+   "W": 11.0,
+   "D": 10.0,
+   "storeys": 3,
+   "first": 35328,
+   "count": 15186
+  },
+  "step_gable": {
+   "W": 7.0,
+   "D": 11.0,
+   "storeys": 3,
+   "first": 50514,
+   "count": 9822
+  },
+  "step_gable_4": {
+   "W": 7.5,
+   "D": 12.0,
+   "storeys": 4,
+   "first": 60336,
+   "count": 11838
+  },
+  "mansard_4": {
+   "W": 12.0,
+   "D": 12.0,
+   "storeys": 4,
+   "first": 72174,
+   "count": 16542
+  },
+  "mansard_5": {
+   "W": 14.0,
+   "D": 13.0,
+   "storeys": 5,
+   "first": 88716,
+   "count": 20826
+  },
+  "casa_3": {
+   "W": 7.0,
+   "D": 10.0,
+   "storeys": 3,
+   "first": 109542,
+   "count": 6654
+  },
+  "casa_4": {
+   "W": 9.0,
+   "D": 11.0,
+   "storeys": 4,
+   "first": 116196,
+   "count": 10854
+  },
+  "cottage_thatch": {
+   "W": 8.0,
+   "D": 6.5,
+   "storeys": 1,
+   "first": 127050,
+   "count": 2802
+  },
+  "cottage_tile": {
+   "W": 8.0,
+   "D": 6.5,
+   "storeys": 1,
+   "first": 129852,
+   "count": 4212
+  },
+  "timber_gable_2@1": {
+   "W": 6.0,
+   "D": 10.0,
+   "storeys": 3,
+   "first": 134064,
+   "count": 1641
+  },
+  "timber_gable_3@1": {
+   "W": 7.5,
+   "D": 11.0,
+   "storeys": 4,
+   "first": 135705,
+   "count": 2451
+  },
+  "eaves_2@1": {
+   "W": 9.0,
+   "D": 10.0,
+   "storeys": 2,
+   "first": 138156,
+   "count": 984
+  },
+  "eaves_3@1": {
+   "W": 11.0,
+   "D": 10.0,
+   "storeys": 3,
+   "first": 139140,
+   "count": 1362
+  },
+  "step_gable@1": {
+   "W": 7.0,
+   "D": 11.0,
+   "storeys": 3,
+   "first": 140502,
+   "count": 870
+  },
+  "step_gable_4@1": {
+   "W": 7.5,
+   "D": 12.0,
+   "storeys": 4,
+   "first": 141372,
+   "count": 942
+  },
+  "mansard_4@1": {
+   "W": 12.0,
+   "D": 12.0,
+   "storeys": 4,
+   "first": 142314,
+   "count": 2994
+  },
+  "mansard_5@1": {
+   "W": 14.0,
+   "D": 13.0,
+   "storeys": 5,
+   "first": 145308,
+   "count": 3204
+  },
+  "casa_3@1": {
+   "W": 7.0,
+   "D": 10.0,
+   "storeys": 3,
+   "first": 148512,
+   "count": 642
+  },
+  "casa_4@1": {
+   "W": 9.0,
+   "D": 11.0,
+   "storeys": 4,
+   "first": 149154,
+   "count": 990
+  },
+  "cottage_thatch@1": {
+   "W": 8.0,
+   "D": 6.5,
+   "storeys": 1,
+   "first": 150144,
+   "count": 378
+  },
+  "cottage_tile@1": {
+   "W": 8.0,
+   "D": 6.5,
+   "storeys": 1,
+   "first": 150522,
+   "count": 396
+  }
+ }
+}

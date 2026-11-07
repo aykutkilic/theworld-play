@@ -1,0 +1,6320 @@
+[
+ {
+  "id": "pont-du-gard",
+  "name": "Pont du Gard",
+  "a": [
+   43.94806,
+   4.5341
+  ],
+  "b": [
+   43.94556,
+   4.53784
+  ],
+  "type": "aqueduct",
+  "built": -19,
+  "start": -40,
+  "gone": null,
+  "lengthM": 275,
+  "mainSpanM": 24,
+  "spans": "3 tiers (6+11+35 arches)",
+  "deckHeightM": 48.8,
+  "lanes": "aqueduct",
+  "color": "#d9c3a0",
+  "material": "stone",
+  "features": "three tiers of honey limestone arches carrying the Nîmes aqueduct over the Gardon",
+  "wiki": "Pont du Gard",
+  "src": "https://en.wikipedia.org/wiki/Pont_du_Gard",
+  "endsSrc": "osm",
+  "center": [
+   43.94722,
+   4.53556
+  ]
+ },
+ {
+  "id": "alcantara-bridge",
+  "name": "Alcántara Bridge",
+  "a": [
+   39.72158,
+   -6.8924
+  ],
+  "b": [
+   39.72322,
+   -6.8924
+  ],
+  "type": "roman-arch",
+  "built": 106,
+  "start": 104,
+  "gone": null,
+  "rebuilt": [
+   [
+    1543,
+    "repaired"
+   ],
+   [
+    1860,
+    "central arch rebuilt"
+   ]
+  ],
+  "lengthM": 181.7,
+  "mainSpanM": 28.8,
+  "spans": 6,
+  "deckHeightM": 45,
+  "lanes": "road",
+  "color": "#9a958a",
+  "material": "stone",
+  "features": "tall granite Roman bridge, six arches, central triumphal arch gate",
+  "wiki": "Alcántara Bridge",
+  "src": "https://en.wikipedia.org/wiki/Alc%C3%A1ntara_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   39.7224,
+   -6.8924
+  ]
+ },
+ {
+  "id": "aqueduct-of-segovia",
+  "name": "Aqueduct of Segovia",
+  "a": [
+   40.94435,
+   -4.11906
+  ],
+  "b": [
+   40.95145,
+   -4.11654
+  ],
+  "type": "aqueduct",
+  "built": 100,
+  "gone": null,
+  "lengthM": 818,
+  "spans": 167,
+  "deckHeightM": 28.5,
+  "lanes": "aqueduct",
+  "color": "#b8ab95",
+  "material": "stone",
+  "features": "dry-stone granite two-tier arcade, no mortar, towering over Plaza del Azoguejo",
+  "wiki": "Aqueduct of Segovia",
+  "src": "https://en.wikipedia.org/wiki/Aqueduct_of_Segovia",
+  "endsSrc": "bearing",
+  "center": [
+   40.9479,
+   -4.1178
+  ]
+ },
+ {
+  "id": "pons-fabricius",
+  "name": "Pons Fabricius",
+  "a": [
+   41.89086,
+   12.47849
+  ],
+  "b": [
+   41.89136,
+   12.47818
+  ],
+  "type": "roman-arch",
+  "built": -62,
+  "gone": null,
+  "lengthM": 62,
+  "mainSpanM": 24.5,
+  "spans": 2,
+  "deckHeightM": 5.5,
+  "lanes": "road",
+  "color": "#c2b79f",
+  "material": "stone",
+  "features": "oldest surviving Roman bridge in Rome: two big arches, small relieving opening, to Tiber Island",
+  "wiki": "Pons Fabricius",
+  "src": "https://en.wikipedia.org/wiki/Pons_Fabricius",
+  "endsSrc": "bearing",
+  "center": [
+   41.89111,
+   12.47833
+  ]
+ },
+ {
+  "id": "ponte-sant-angelo",
+  "name": "Ponte Sant'Angelo",
+  "a": [
+   41.90149,
+   12.46587
+  ],
+  "b": [
+   41.90235,
+   12.46703
+  ],
+  "type": "stone-arch",
+  "built": 134,
+  "gone": null,
+  "rebuilt": [
+   [
+    1668,
+    "Bernini angels added"
+   ]
+  ],
+  "lengthM": 135,
+  "mainSpanM": 18,
+  "spans": 5,
+  "deckHeightM": 7,
+  "lanes": "foot",
+  "color": "#cfc3ab",
+  "material": "stone",
+  "features": "Hadrian's bridge with Bernini's angel statues, leads to Castel Sant'Angelo",
+  "wiki": "Ponte Sant'Angelo",
+  "src": "https://en.wikipedia.org/wiki/Ponte_Sant%27Angelo",
+  "endsSrc": "bearing",
+  "center": [
+   41.90192,
+   12.46645
+  ]
+ },
+ {
+  "id": "roman-bridge-cordoba",
+  "name": "Roman Bridge of Córdoba",
+  "a": [
+   37.87538,
+   -4.779
+  ],
+  "b": [
+   37.87796,
+   -4.77711
+  ],
+  "type": "roman-arch",
+  "built": -10,
+  "gone": null,
+  "rebuilt": [
+   [
+    720,
+    "Moorish rebuild"
+   ]
+  ],
+  "lengthM": 331,
+  "spans": 16,
+  "deckHeightM": 12,
+  "lanes": "foot",
+  "color": "#bfae8a",
+  "material": "stone",
+  "features": "16-arch Roman stone bridge with Calahorra tower at the south end; Moorish and later rebuilds",
+  "wiki": "Roman bridge of Córdoba",
+  "src": "https://en.wikipedia.org/wiki/Roman_bridge_of_C%C3%B3rdoba",
+  "endsSrc": "bearing",
+  "center": [
+   37.87667,
+   -4.77806
+  ]
+ },
+ {
+  "id": "trajans-bridge",
+  "name": "Trajan's Bridge",
+  "a": [
+   44.62377,
+   22.65988
+  ],
+  "b": [
+   44.62377,
+   22.67422
+  ],
+  "type": "truss",
+  "built": 105,
+  "start": 103,
+  "gone": null,
+  "lengthM": 1135,
+  "mainSpanM": 38,
+  "spans": 20,
+  "deckHeightM": 19,
+  "towers": 20,
+  "lanes": "road",
+  "color": "#a0795a",
+  "material": "timber",
+  "features": "20 masonry piers carrying timber arches across the Danube, by Apollodorus of Damascus",
+  "wiki": "Trajan's Bridge",
+  "src": "https://en.wikipedia.org/wiki/Trajan%27s_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   44.62377,
+   22.66705
+  ]
+ },
+ {
+  "id": "alconetar-bridge",
+  "name": "Alconétar Bridge",
+  "a": [
+   39.75261,
+   -6.43793
+  ],
+  "b": [
+   39.75506,
+   -6.43676
+  ],
+  "type": "roman-arch",
+  "built": 100,
+  "gone": null,
+  "lengthM": 290,
+  "mainSpanM": 15,
+  "spans": 18,
+  "deckHeightM": 12.5,
+  "lanes": "road",
+  "color": "#9d9486",
+  "material": "stone",
+  "features": "Roman granite bridge with flood arches, moved above the Alcántara reservoir",
+  "wiki": "Alconétar Bridge",
+  "src": "https://en.wikipedia.org/wiki/Alcon%C3%A9tar_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   39.75384,
+   -6.43734
+  ]
+ },
+ {
+  "id": "pont-julien",
+  "name": "Pont Julien",
+  "a": [
+   43.86212,
+   5.30778
+  ],
+  "b": [
+   43.86288,
+   5.30778
+  ],
+  "type": "roman-arch",
+  "built": -3,
+  "gone": null,
+  "lengthM": 85,
+  "mainSpanM": 16.3,
+  "spans": 3,
+  "deckHeightM": 11,
+  "lanes": "road",
+  "color": "#d3c19a",
+  "material": "stone",
+  "features": "three-arch Roman bridge with small flood openings, Via Domitia",
+  "wiki": "Pont Julien",
+  "src": "https://en.wikipedia.org/wiki/Pont_Julien",
+  "endsSrc": "bearing",
+  "center": [
+   43.8625,
+   5.30778
+  ]
+ },
+ {
+  "id": "pons-aemilius",
+  "name": "Pons Aemilius",
+  "a": [
+   41.88906,
+   12.47893
+  ],
+  "b": [
+   41.88983,
+   12.47996
+  ],
+  "type": "roman-arch",
+  "built": -142,
+  "start": -179,
+  "gone": -1598,
+  "rebuilt": [
+   [
+    -179,
+    "first stone piers"
+   ],
+   [
+    -142,
+    "arches added"
+   ]
+  ],
+  "lengthM": 120,
+  "mainSpanM": 25,
+  "spans": 7,
+  "deckHeightM": 10,
+  "lanes": "road",
+  "color": "#b8ab95",
+  "material": "stone",
+  "features": "'Ponte Rotto': single surviving arch in the Tiber after 1598 flood",
+  "wiki": "Pons Aemilius",
+  "src": "https://en.wikipedia.org/wiki/Pons_Aemilius",
+  "endsSrc": "bearing",
+  "center": [
+   41.88944,
+   12.47944
+  ]
+ },
+ {
+  "id": "ponte-milvio",
+  "name": "Ponte Milvio",
+  "a": [
+   41.93495,
+   12.4668
+  ],
+  "b": [
+   41.93616,
+   12.46709
+  ],
+  "type": "roman-arch",
+  "built": -109,
+  "gone": null,
+  "rebuilt": [
+   [
+    1805,
+    "tower & arch redesign by Valadier"
+   ]
+  ],
+  "lengthM": 136,
+  "mainSpanM": 18.55,
+  "spans": 6,
+  "deckHeightM": 8,
+  "lanes": "road",
+  "color": "#bfae94",
+  "material": "stone",
+  "features": "Roman bridge of Constantine's battle (312), six arches, now lovers' padlocks",
+  "wiki": "Ponte Milvio",
+  "src": "https://en.wikipedia.org/wiki/Ponte_Milvio",
+  "endsSrc": "bearing",
+  "center": [
+   41.93556,
+   12.46694
+  ]
+ },
+ {
+  "id": "pons-sublicius",
+  "name": "Pons Sublicius",
+  "a": [
+   41.88429,
+   12.4761
+  ],
+  "b": [
+   41.8846,
+   12.47723
+  ],
+  "type": "truss",
+  "built": -642,
+  "gone": -100,
+  "lengthM": 100,
+  "spans": 5,
+  "deckHeightM": 6,
+  "lanes": "foot",
+  "color": "#8a6a45",
+  "material": "timber",
+  "features": "legendary earliest Tiber bridge, built wholly of wood without nails",
+  "wiki": "Pons Sublicius",
+  "src": "https://en.wikipedia.org/wiki/Pons_Sublicius",
+  "endsSrc": "bearing",
+  "center": [
+   41.88444,
+   12.47667
+  ]
+ },
+ {
+  "id": "aqueduct-of-valens",
+  "name": "Aqueduct of Valens",
+  "a": [
+   41.01376,
+   28.96057
+  ],
+  "b": [
+   41.01813,
+   28.95054
+  ],
+  "type": "aqueduct",
+  "built": 368,
+  "gone": null,
+  "rebuilt": [
+   [
+    1550,
+    "repaired by Sinan"
+   ]
+  ],
+  "lengthM": 971,
+  "deckHeightM": 29,
+  "lanes": "aqueduct",
+  "color": "#c9b793",
+  "material": "stone",
+  "features": "two-tier stone arcade crossing Atatürk Boulevard in Istanbul",
+  "wiki": "Aqueduct of Valens",
+  "src": "https://en.wikipedia.org/wiki/Aqueduct_of_Valens",
+  "endsSrc": "bearing",
+  "center": [
+   41.01594,
+   28.95556
+  ]
+ },
+ {
+  "id": "les-ferreres-aqueduct",
+  "name": "Les Ferreres Aqueduct",
+  "a": [
+   41.14571,
+   1.24384
+  ],
+  "b": [
+   41.14763,
+   1.24339
+  ],
+  "type": "aqueduct",
+  "built": -50,
+  "gone": null,
+  "lengthM": 217,
+  "spans": 25,
+  "deckHeightM": 27,
+  "lanes": "aqueduct",
+  "color": "#c7a97a",
+  "material": "stone",
+  "features": "Roman two-tier aqueduct of Tarraco ('Pont del Diable')",
+  "wiki": "Les Ferreres Aqueduct",
+  "src": "https://en.wikipedia.org/wiki/Les_Ferreres_Aqueduct",
+  "endsSrc": "bearing",
+  "center": [
+   41.14667,
+   1.24361
+  ]
+ },
+ {
+  "id": "pontcysyllte-aqueduct",
+  "name": "Pontcysyllte Aqueduct",
+  "a": [
+   52.96987,
+   -3.08976
+  ],
+  "b": [
+   52.97125,
+   -3.08579
+  ],
+  "type": "aqueduct",
+  "built": 1805,
+  "start": 1795,
+  "gone": null,
+  "lengthM": 307,
+  "mainSpanM": 13.7,
+  "spans": 18,
+  "deckHeightM": 38,
+  "lanes": "aqueduct",
+  "color": "#707070",
+  "material": "iron",
+  "features": "cast-iron trough on tall stone piers carrying the Llangollen Canal; walkway with open side",
+  "wiki": "Pontcysyllte Aqueduct",
+  "src": "https://en.wikipedia.org/wiki/Pontcysyllte_Aqueduct",
+  "endsSrc": "bearing",
+  "center": [
+   52.97056,
+   -3.08778
+  ]
+ },
+ {
+  "id": "charles-bridge",
+  "name": "Charles Bridge",
+  "a": [
+   50.08639,
+   14.41556
+  ],
+  "b": [
+   50.08639,
+   14.40833
+  ],
+  "type": "stone-arch",
+  "built": 1402,
+  "start": 1357,
+  "gone": null,
+  "rebuilt": [
+   [
+    1342,
+    "Judith Bridge destroyed in flood"
+   ],
+   [
+    1890,
+    "flood damage repair"
+   ]
+  ],
+  "lengthM": 515.8,
+  "mainSpanM": 13.4,
+  "spans": 16,
+  "deckHeightM": 13,
+  "towers": 2,
+  "lanes": "foot",
+  "color": "#8a7e66",
+  "material": "stone",
+  "features": "Gothic stone bridge with 30 baroque statues and two tower gates, 16 arches",
+  "wiki": "Charles Bridge",
+  "src": "https://en.wikipedia.org/wiki/Charles_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   50.08639,
+   14.41194
+  ]
+ },
+ {
+  "id": "ponte-vecchio",
+  "name": "Ponte Vecchio",
+  "a": [
+   43.76799,
+   11.25257
+  ],
+  "b": [
+   43.76799,
+   11.25375
+  ],
+  "type": "stone-arch",
+  "built": 1345,
+  "gone": null,
+  "rebuilt": [
+   [
+    1565,
+    "Vasari Corridor added"
+   ]
+  ],
+  "lengthM": 95,
+  "mainSpanM": 30,
+  "spans": 3,
+  "deckHeightM": 10,
+  "lanes": "foot",
+  "color": "#c9a259",
+  "material": "stone",
+  "features": "shops and Vasari Corridor stacked on three segmental arches over the Arno",
+  "wiki": "Ponte Vecchio",
+  "src": "https://en.wikipedia.org/wiki/Ponte_Vecchio",
+  "endsSrc": "bearing",
+  "center": [
+   43.76799,
+   11.25316
+  ]
+ },
+ {
+  "id": "old-london-bridge",
+  "name": "Old London Bridge",
+  "a": [
+   51.50932,
+   -0.08778
+  ],
+  "b": [
+   51.50679,
+   -0.08778
+  ],
+  "type": "stone-arch",
+  "built": 1209,
+  "start": 1176,
+  "gone": 1831,
+  "rebuilt": [
+   [
+    1831,
+    "replaced by Rennie bridge"
+   ]
+  ],
+  "lengthM": 282,
+  "mainSpanM": 7,
+  "spans": 19,
+  "deckHeightM": 10,
+  "lanes": "road",
+  "color": "#a89c82",
+  "material": "stone",
+  "features": "medieval stone bridge lined with timber houses, 19 narrow arches, gatehouse with heads on spikes",
+  "wiki": "London Bridge",
+  "src": "https://en.wikipedia.org/wiki/London_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   51.50806,
+   -0.08778
+  ]
+ },
+ {
+  "id": "pont-saint-benezet",
+  "name": "Pont Saint-Bénézet",
+  "a": [
+   43.95459,
+   4.81054
+  ],
+  "b": [
+   43.95319,
+   4.79946
+  ],
+  "type": "stone-arch",
+  "built": 1185,
+  "start": 1177,
+  "gone": null,
+  "rebuilt": [
+   [
+    1226,
+    "damaged in siege"
+   ],
+   [
+    1660,
+    "collapsed in floods; abandoned"
+   ]
+  ],
+  "lengthM": 900,
+  "mainSpanM": 34,
+  "spans": 22,
+  "deckHeightM": 12,
+  "lanes": "road",
+  "color": "#d0c3a2",
+  "material": "stone",
+  "features": "'Pont d'Avignon': only four of 22 arches survive, with chapel of St Nicholas on a pier",
+  "wiki": "Pont Saint-Bénézet",
+  "src": "https://en.wikipedia.org/wiki/Pont_Saint-B%C3%A9n%C3%A9zet",
+  "endsSrc": "bearing",
+  "center": [
+   43.95389,
+   4.805
+  ]
+ },
+ {
+  "id": "stari-most",
+  "name": "Stari Most",
+  "a": [
+   43.3375,
+   17.81518
+  ],
+  "b": [
+   43.3375,
+   17.81482
+  ],
+  "type": "stone-arch",
+  "built": 1566,
+  "start": 1557,
+  "gone": null,
+  "rebuilt": [
+   [
+    1993,
+    "destroyed in war"
+   ],
+   [
+    2004,
+    "rebuilt"
+   ]
+  ],
+  "lengthM": 29,
+  "mainSpanM": 28.7,
+  "spans": 1,
+  "deckHeightM": 24,
+  "towers": 2,
+  "lanes": "foot",
+  "color": "#d7cdb4",
+  "material": "stone",
+  "features": "single high pointed stone arch between two fortified towers over the Neretva",
+  "wiki": "Stari Most",
+  "src": "https://en.wikipedia.org/wiki/Stari_Most",
+  "endsSrc": "bearing",
+  "center": [
+   43.3375,
+   17.815
+  ]
+ },
+ {
+  "id": "rialto-bridge",
+  "name": "Rialto Bridge",
+  "a": [
+   45.4378,
+   12.33587
+  ],
+  "b": [
+   45.4382,
+   12.33613
+  ],
+  "type": "stone-arch",
+  "built": 1591,
+  "gone": null,
+  "lengthM": 48,
+  "mainSpanM": 31.8,
+  "spans": 1,
+  "deckHeightM": 7.3,
+  "lanes": "foot",
+  "color": "#e7e1d3",
+  "material": "stone",
+  "features": "single white stone arch carrying two rows of shops over the Grand Canal",
+  "wiki": "Rialto Bridge",
+  "src": "https://en.wikipedia.org/wiki/Rialto_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   45.438,
+   12.336
+  ]
+ },
+ {
+  "id": "khaju-bridge",
+  "name": "Khaju Bridge",
+  "a": [
+   32.63681,
+   51.68258
+  ],
+  "b": [
+   32.63659,
+   51.68402
+  ],
+  "type": "stone-arch",
+  "built": 1650,
+  "gone": null,
+  "lengthM": 137,
+  "spans": 23,
+  "deckHeightM": 12,
+  "lanes": "foot",
+  "color": "#c9a76e",
+  "material": "stone",
+  "features": "two-level arcaded brick-and-stone bridge doubling as a weir, with a central pavilion",
+  "wiki": "Khaju Bridge",
+  "src": "https://en.wikipedia.org/wiki/Khaju_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   32.6367,
+   51.6833
+  ]
+ },
+ {
+  "id": "si-o-se-pol",
+  "name": "Si-o-se-pol",
+  "a": [
+   32.64354,
+   51.66745
+  ],
+  "b": [
+   32.6462,
+   51.66773
+  ],
+  "type": "stone-arch",
+  "built": 1602,
+  "start": 1599,
+  "gone": null,
+  "lengthM": 297.76,
+  "mainSpanM": 5.6,
+  "spans": 33,
+  "deckHeightM": 13,
+  "lanes": "foot",
+  "color": "#c8a367",
+  "material": "brick",
+  "features": "'33 arches': double-deck brick-and-stone bridge in Isfahan",
+  "wiki": "Si-o-se-pol",
+  "src": "https://en.wikipedia.org/wiki/Si-o-se-pol",
+  "endsSrc": "bearing",
+  "center": [
+   32.64487,
+   51.66759
+  ]
+ },
+ {
+  "id": "zhaozhou-bridge",
+  "name": "Anji Bridge",
+  "a": [
+   37.7203,
+   114.76294
+  ],
+  "b": [
+   37.7203,
+   114.76366
+  ],
+  "type": "stone-arch",
+  "built": 605,
+  "start": 595,
+  "gone": null,
+  "lengthM": 64,
+  "mainSpanM": 37.37,
+  "spans": 1,
+  "deckHeightM": 7.3,
+  "lanes": "foot",
+  "color": "#b6ab98",
+  "material": "stone",
+  "features": "oldest open-spandrel segmental arch bridge, with four small relieving arches in the spandrels",
+  "wiki": "Anji Bridge",
+  "src": "https://en.wikipedia.org/wiki/Anji_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   37.7203,
+   114.7633
+  ]
+ },
+ {
+  "id": "kintai-bridge",
+  "name": "Kintai Bridge",
+  "a": [
+   34.16827,
+   132.17769
+  ],
+  "b": [
+   34.16694,
+   132.17904
+  ],
+  "type": "other",
+  "built": 1673,
+  "gone": null,
+  "rebuilt": [
+   [
+    1950,
+    "washed away by typhoon"
+   ],
+   [
+    1953,
+    "rebuilt"
+   ]
+  ],
+  "lengthM": 193.3,
+  "mainSpanM": 35.1,
+  "spans": 5,
+  "deckHeightM": 10,
+  "lanes": "foot",
+  "color": "#9a6b47",
+  "material": "timber",
+  "features": "five timber arches over four stone piers across the Nishiki River",
+  "wiki": "Kintai Bridge",
+  "src": "https://en.wikipedia.org/wiki/Kintai_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   34.1676,
+   132.17837
+  ]
+ },
+ {
+  "id": "mehmed-pasa-sokolovic-bridge",
+  "name": "Mehmed Paša Sokolović Bridge",
+  "a": [
+   43.78294,
+   19.2922
+  ],
+  "b": [
+   43.78266,
+   19.29
+  ],
+  "type": "stone-arch",
+  "built": 1577,
+  "start": 1571,
+  "gone": null,
+  "lengthM": 179.5,
+  "mainSpanM": 15,
+  "spans": 11,
+  "deckHeightM": 10,
+  "lanes": "road",
+  "color": "#d6d1c5",
+  "material": "stone",
+  "features": "11 white limestone arches on the Drina at Višegrad, the 'Bridge on the Drina'",
+  "wiki": "Mehmed Paša Sokolović Bridge",
+  "src": "https://en.wikipedia.org/wiki/Mehmed_Pa%C5%A1a_Sokolovi%C4%87_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   43.7828,
+   19.2911
+  ]
+ },
+ {
+  "id": "malabadi-bridge",
+  "name": "Malabadi Bridge",
+  "a": [
+   38.15361,
+   41.20469
+  ],
+  "b": [
+   38.15361,
+   41.20298
+  ],
+  "type": "stone-arch",
+  "built": 1147,
+  "gone": null,
+  "lengthM": 150,
+  "mainSpanM": 38.6,
+  "spans": 1,
+  "deckHeightM": 19,
+  "lanes": "foot",
+  "color": "#bda98c",
+  "material": "stone",
+  "features": "huge pointed single arch of 38.6 m with small flood arches either side",
+  "wiki": "Malabadi Bridge",
+  "src": "https://en.wikipedia.org/wiki/Malabadi_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   38.15361,
+   41.20383
+  ]
+ },
+ {
+  "id": "bridge-of-sighs",
+  "name": "Bridge of Sighs",
+  "a": [
+   45.4341,
+   12.34057
+  ],
+  "b": [
+   45.4341,
+   12.34043
+  ],
+  "type": "other",
+  "built": 1603,
+  "start": 1600,
+  "gone": null,
+  "lengthM": 11,
+  "spans": 1,
+  "deckHeightM": 8,
+  "lanes": "foot",
+  "color": "#e8e2d3",
+  "material": "stone",
+  "features": "enclosed white limestone bridge with barred windows linking Doge's Palace to prison",
+  "wiki": "Bridge of Sighs",
+  "src": "https://en.wikipedia.org/wiki/Bridge_of_Sighs",
+  "endsSrc": "bearing",
+  "center": [
+   45.4341,
+   12.3405
+  ]
+ },
+ {
+  "id": "castelvecchio-bridge",
+  "name": "Ponte Scaligero (Castelvecchio Bridge)",
+  "a": [
+   45.44028,
+   10.98645
+  ],
+  "b": [
+   45.44028,
+   10.98799
+  ],
+  "type": "stone-arch",
+  "built": 1356,
+  "gone": null,
+  "rebuilt": [
+   [
+    1945,
+    "destroyed; rebuilt 1951"
+   ]
+  ],
+  "lengthM": 120,
+  "mainSpanM": 48.7,
+  "spans": 3,
+  "deckHeightM": 10,
+  "towers": 1,
+  "lanes": "road",
+  "color": "#a35f4a",
+  "material": "brick",
+  "features": "fortified red-brick crenellated bridge with swallow-tail merlons beside Castelvecchio",
+  "wiki": "Castelvecchio Bridge",
+  "src": "https://en.wikipedia.org/wiki/Castelvecchio_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   45.44028,
+   10.98722
+  ]
+ },
+ {
+  "id": "ponte-della-maddalena",
+  "name": "Ponte della Maddalena",
+  "a": [
+   43.98499,
+   10.55285
+  ],
+  "b": [
+   43.98499,
+   10.55404
+  ],
+  "type": "stone-arch",
+  "built": 1100,
+  "gone": null,
+  "lengthM": 95,
+  "mainSpanM": 37.8,
+  "spans": 5,
+  "deckHeightM": 19,
+  "lanes": "foot",
+  "color": "#a89a82",
+  "material": "stone",
+  "features": "'Devil's Bridge': extremely steep humpback with a tall asymmetrical central arch",
+  "wiki": "Ponte della Maddalena",
+  "src": "https://en.wikipedia.org/wiki/Ponte_della_Maddalena",
+  "endsSrc": "bearing",
+  "center": [
+   43.98499,
+   10.55344
+  ]
+ },
+ {
+  "id": "pont-neuf",
+  "name": "Pont Neuf",
+  "a": [
+   48.85652,
+   2.34112
+  ],
+  "b": [
+   48.85848,
+   2.34221
+  ],
+  "type": "stone-arch",
+  "built": 1607,
+  "start": 1578,
+  "gone": null,
+  "lengthM": 232,
+  "spans": 12,
+  "deckHeightM": 8,
+  "lanes": "road",
+  "color": "#c9bda3",
+  "material": "stone",
+  "features": "oldest standing Paris bridge; 12 arches, grotesque masks, Henri IV statue",
+  "wiki": "Pont Neuf",
+  "src": "https://en.wikipedia.org/wiki/Pont_Neuf",
+  "endsSrc": "bearing",
+  "center": [
+   48.8575,
+   2.34167
+  ]
+ },
+ {
+  "id": "pont-alexandre-iii",
+  "name": "Pont Alexandre III",
+  "a": [
+   48.86289,
+   2.31361
+  ],
+  "b": [
+   48.86433,
+   2.31361
+  ],
+  "type": "steel-arch",
+  "built": 1900,
+  "start": 1896,
+  "gone": null,
+  "lengthM": 160,
+  "mainSpanM": 107.5,
+  "spans": 1,
+  "deckHeightM": 6,
+  "towerHeightM": 17,
+  "towers": 4,
+  "lanes": "road",
+  "color": "#b49a58",
+  "material": "steel",
+  "features": "gilded lamp-lit single steel arch with four gilded Pegasus columns, Belle Époque",
+  "wiki": "Pont Alexandre III",
+  "src": "https://en.wikipedia.org/wiki/Pont_Alexandre_III",
+  "endsSrc": "bearing",
+  "center": [
+   48.86361,
+   2.31361
+  ]
+ },
+ {
+  "id": "pont-des-arts",
+  "name": "Pont des Arts",
+  "a": [
+   48.85804,
+   2.33654
+  ],
+  "b": [
+   48.85863,
+   2.33846
+  ],
+  "type": "other",
+  "built": 1984,
+  "start": 1981,
+  "gone": null,
+  "rebuilt": [
+   [
+    1804,
+    "first iron footbridge"
+   ]
+  ],
+  "lengthM": 155,
+  "spans": 7,
+  "deckHeightM": 8,
+  "lanes": "foot",
+  "color": "#5a5a5a",
+  "material": "steel",
+  "features": "seven-arch pedestrian bridge for Paris artists; rebuilt after 1970 collapse",
+  "wiki": "Pont des Arts",
+  "src": "https://en.wikipedia.org/wiki/Pont_des_Arts",
+  "endsSrc": "bearing",
+  "center": [
+   48.85833,
+   2.3375
+  ]
+ },
+ {
+  "id": "pont-marie",
+  "name": "Pont Marie",
+  "a": [
+   48.8526,
+   2.3569
+  ],
+  "b": [
+   48.85301,
+   2.35799
+  ],
+  "type": "stone-arch",
+  "built": 1635,
+  "start": 1614,
+  "gone": null,
+  "lengthM": 92,
+  "spans": 5,
+  "deckHeightM": 8,
+  "lanes": "road",
+  "color": "#c9bda3",
+  "material": "stone",
+  "features": "five arches with empty niches (statues never added) linking Île Saint-Louis",
+  "wiki": "Pont Marie",
+  "src": "https://en.wikipedia.org/wiki/Pont_Marie",
+  "endsSrc": "bearing",
+  "center": [
+   48.85281,
+   2.35744
+  ]
+ },
+ {
+  "id": "pont-valentre",
+  "name": "Pont Valentré",
+  "a": [
+   44.4454,
+   1.431
+  ],
+  "b": [
+   44.4446,
+   1.43233
+  ],
+  "type": "stone-arch",
+  "built": 1378,
+  "start": 1308,
+  "gone": null,
+  "lengthM": 138,
+  "mainSpanM": 16.5,
+  "spans": 6,
+  "deckHeightM": 15,
+  "towerHeightM": 40,
+  "towers": 3,
+  "lanes": "foot",
+  "color": "#a79b83",
+  "material": "stone",
+  "features": "fortified Cahors bridge: six pointed arches and three crenellated towers",
+  "wiki": "Pont Valentré",
+  "src": "https://en.wikipedia.org/wiki/Pont_Valentr%C3%A9",
+  "endsSrc": "bearing",
+  "center": [
+   44.445,
+   1.43167
+  ]
+ },
+ {
+  "id": "kapellbrucke",
+  "name": "Kapellbrücke",
+  "a": [
+   47.05135,
+   8.30623
+  ],
+  "b": [
+   47.05198,
+   8.30877
+  ],
+  "type": "covered",
+  "built": 1333,
+  "gone": null,
+  "rebuilt": [
+   [
+    1993,
+    "burned; rebuilt"
+   ]
+  ],
+  "lengthM": 204.7,
+  "deckHeightM": 6,
+  "towerHeightM": 34,
+  "towers": 1,
+  "lanes": "foot",
+  "color": "#7a5638",
+  "material": "timber",
+  "features": "covered timber footbridge with painted gables and an octagonal stone water tower, Lucerne",
+  "wiki": "Kapellbrücke",
+  "src": "https://en.wikipedia.org/wiki/Kapellbr%C3%BCcke",
+  "endsSrc": "bearing",
+  "center": [
+   47.05167,
+   8.3075
+  ]
+ },
+ {
+  "id": "spreuer-bridge",
+  "name": "Spreuer Bridge",
+  "a": [
+   47.05185,
+   8.3013
+  ],
+  "b": [
+   47.0521,
+   8.30231
+  ],
+  "type": "covered",
+  "built": 1408,
+  "gone": null,
+  "lengthM": 81,
+  "spans": 4,
+  "deckHeightM": 5,
+  "lanes": "foot",
+  "color": "#7a5638",
+  "material": "timber",
+  "features": "covered timber bridge in Lucerne with Dance of Death paintings under the roof",
+  "wiki": "Spreuer Bridge",
+  "src": "https://en.wikipedia.org/wiki/Spreuer_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   47.05197,
+   8.30181
+  ]
+ },
+ {
+  "id": "puente-nuevo-ronda",
+  "name": "Puente Nuevo",
+  "a": [
+   36.74045,
+   -5.16594
+  ],
+  "b": [
+   36.74104,
+   -5.16587
+  ],
+  "type": "stone-arch",
+  "built": 1793,
+  "start": 1759,
+  "gone": null,
+  "lengthM": 66,
+  "spans": 1,
+  "deckHeightM": 98,
+  "lanes": "road",
+  "color": "#c4b090",
+  "material": "stone",
+  "features": "bridge spanning the 98 m El Tajo gorge in Ronda, huge central arch over a chamber",
+  "wiki": "Puente Nuevo",
+  "src": "https://en.wikipedia.org/wiki/Puente_Nuevo",
+  "endsSrc": "bearing",
+  "center": [
+   36.74075,
+   -5.1659
+  ]
+ },
+ {
+  "id": "puente-de-piedra-zaragoza",
+  "name": "Puente de Piedra (Zaragoza)",
+  "a": [
+   41.65636,
+   -0.87431
+  ],
+  "b": [
+   41.65808,
+   -0.87624
+  ],
+  "type": "stone-arch",
+  "built": 1446,
+  "gone": null,
+  "lengthM": 250,
+  "spans": 7,
+  "deckHeightM": 10,
+  "lanes": "foot",
+  "color": "#c8b693",
+  "material": "stone",
+  "features": "seven-arch stone bridge over the Ebro with stone lions, facing the basilica",
+  "wiki": "Puente de Piedra (Zaragoza)",
+  "src": "https://en.wikipedia.org/wiki/Puente_de_Piedra_%28Zaragoza%29",
+  "endsSrc": "bearing",
+  "center": [
+   41.65722,
+   -0.87528
+  ]
+ },
+ {
+  "id": "bridge-of-arta",
+  "name": "Bridge of Arta",
+  "a": [
+   39.13998,
+   20.96603
+  ],
+  "b": [
+   39.16335,
+   20.98342
+  ],
+  "type": "stone-arch",
+  "built": 1612,
+  "gone": null,
+  "spans": 4,
+  "deckHeightM": 10,
+  "lanes": "foot",
+  "color": "#bfb299",
+  "material": "stone",
+  "features": "humpback stone bridge of four arches over Arachthos with legend of walled-in builder's wife",
+  "wiki": "Bridge of Arta",
+  "src": "https://en.wikipedia.org/wiki/Bridge_of_Arta",
+  "endsSrc": "bearing",
+  "center": [
+   39.15167,
+   20.97472
+  ]
+ },
+ {
+  "id": "arkadiko-bridge",
+  "name": "Arkadiko Bridge",
+  "a": [
+   37.59352,
+   22.93746
+  ],
+  "b": [
+   37.5937,
+   22.93754
+  ],
+  "type": "other",
+  "built": -1300,
+  "gone": null,
+  "lengthM": 22,
+  "mainSpanM": 1,
+  "spans": 1,
+  "deckHeightM": 4,
+  "lanes": "road",
+  "color": "#9a8f78",
+  "material": "stone",
+  "features": "Mycenaean corbel-arch bridge, still used, built of unmortared stones",
+  "wiki": "Arkadiko Bridge",
+  "src": "https://en.wikipedia.org/wiki/Arkadiko_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   37.59361,
+   22.9375
+  ]
+ },
+ {
+  "id": "tarr-steps",
+  "name": "Tarr Steps",
+  "a": [
+   51.07676,
+   -3.61793
+  ],
+  "b": [
+   51.07724,
+   -3.61807
+  ],
+  "type": "other",
+  "built": -1000,
+  "gone": null,
+  "rebuilt": [
+   [
+    2012,
+    "slabs re-set after floods"
+   ]
+  ],
+  "lengthM": 55,
+  "spans": 17,
+  "deckHeightM": 1,
+  "lanes": "foot",
+  "color": "#8d8a82",
+  "material": "stone",
+  "features": "prehistoric clapper bridge of 17 huge slabs over the River Barle on stone piers",
+  "wiki": "Tarr Steps",
+  "src": "https://en.wikipedia.org/wiki/Tarr_Steps",
+  "endsSrc": "bearing",
+  "center": [
+   51.077,
+   -3.618
+  ]
+ },
+ {
+  "id": "pulteney-bridge",
+  "name": "Pulteney Bridge",
+  "a": [
+   51.38325,
+   -2.35789
+  ],
+  "b": [
+   51.38287,
+   -2.35767
+  ],
+  "type": "stone-arch",
+  "built": 1774,
+  "gone": null,
+  "lengthM": 45,
+  "spans": 3,
+  "deckHeightM": 6,
+  "lanes": "road",
+  "color": "#d6c9a9",
+  "material": "stone",
+  "features": "Robert Adam bridge lined with shops, one of few in Europe, over the weir at Bath",
+  "wiki": "Pulteney Bridge",
+  "src": "https://en.wikipedia.org/wiki/Pulteney_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   51.38306,
+   -2.35778
+  ]
+ },
+ {
+  "id": "westminster-bridge",
+  "name": "Westminster Bridge",
+  "a": [
+   51.49997,
+   -0.12311
+  ],
+  "b": [
+   51.50169,
+   -0.12078
+  ],
+  "type": "steel-arch",
+  "built": 1862,
+  "start": 1854,
+  "gone": null,
+  "rebuilt": [
+   [
+    1750,
+    "first stone bridge"
+   ]
+  ],
+  "lengthM": 250,
+  "mainSpanM": 35,
+  "spans": 7,
+  "deckHeightM": 10,
+  "lanes": "road",
+  "color": "#4a8a58",
+  "material": "iron",
+  "features": "seven cast-iron arches painted green (Commons colour), beside Big Ben",
+  "wiki": "Westminster Bridge",
+  "src": "https://en.wikipedia.org/wiki/Westminster_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   51.50083,
+   -0.12194
+  ]
+ },
+ {
+  "id": "waterloo-bridge",
+  "name": "Waterloo Bridge",
+  "a": [
+   51.5071,
+   -0.11807
+  ],
+  "b": [
+   51.51012,
+   -0.11581
+  ],
+  "type": "other",
+  "built": 1945,
+  "start": 1937,
+  "gone": null,
+  "rebuilt": [
+   [
+    1817,
+    "first bridge opened by Rennie (nine granite arches)"
+   ]
+  ],
+  "lengthM": 370,
+  "mainSpanM": 70,
+  "spans": 5,
+  "deckHeightM": 9,
+  "lanes": "road",
+  "color": "#c8c3b2",
+  "material": "concrete",
+  "features": "five box-girder concrete spans faced in Portland stone; 'Ladies' Bridge' (WW2 workers)",
+  "wiki": "Waterloo Bridge",
+  "src": "https://en.wikipedia.org/wiki/Waterloo_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   51.50861,
+   -0.11694
+  ]
+ },
+ {
+  "id": "magdalen-bridge",
+  "name": "Magdalen Bridge",
+  "a": [
+   51.751,
+   -1.24673
+  ],
+  "b": [
+   51.751,
+   -1.24527
+  ],
+  "type": "stone-arch",
+  "built": 1790,
+  "gone": null,
+  "lengthM": 100,
+  "spans": 3,
+  "deckHeightM": 5,
+  "lanes": "road",
+  "color": "#c9bd9f",
+  "material": "stone",
+  "features": "three-arch stone bridge into Oxford, punt hire below",
+  "wiki": "Magdalen Bridge",
+  "src": "https://en.wikipedia.org/wiki/Magdalen_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   51.751,
+   -1.246
+  ]
+ },
+ {
+  "id": "mathematical-bridge",
+  "name": "Mathematical Bridge",
+  "a": [
+   52.20216,
+   0.11507
+  ],
+  "b": [
+   52.20229,
+   0.11504
+  ],
+  "type": "truss",
+  "built": 1749,
+  "gone": null,
+  "rebuilt": [
+   [
+    1905,
+    "rebuilt in same style"
+   ]
+  ],
+  "lengthM": 15,
+  "spans": 1,
+  "deckHeightM": 3,
+  "lanes": "foot",
+  "color": "#8a6a45",
+  "material": "timber",
+  "features": "timber bridge of straight beams forming an apparent arch at Queens' College",
+  "wiki": "Mathematical Bridge",
+  "src": "https://en.wikipedia.org/wiki/Mathematical_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   52.20222,
+   0.11506
+  ]
+ },
+ {
+  "id": "tower-bridge",
+  "name": "Tower Bridge",
+  "a": [
+   51.50522,
+   -0.07696
+  ],
+  "b": [
+   51.50598,
+   -0.07364
+  ],
+  "type": "bascule",
+  "built": 1894,
+  "start": 1886,
+  "gone": null,
+  "lengthM": 244,
+  "mainSpanM": 61,
+  "spans": 3,
+  "deckHeightM": 42,
+  "towerHeightM": 65,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#4a6a9a",
+  "material": "steel",
+  "features": "two Gothic stone-clad towers with bascules and high-level walkways, steel-blue",
+  "wiki": "Tower Bridge",
+  "src": "https://en.wikipedia.org/wiki/Tower_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   51.5056,
+   -0.0753
+  ]
+ },
+ {
+  "id": "iron-bridge",
+  "name": "The Iron Bridge",
+  "a": [
+   52.62745,
+   -2.48586
+  ],
+  "b": [
+   52.62727,
+   -2.48502
+  ],
+  "type": "other",
+  "built": 1779,
+  "start": 1777,
+  "gone": null,
+  "lengthM": 60,
+  "mainSpanM": 30.5,
+  "spans": 1,
+  "deckHeightM": 18,
+  "lanes": "road",
+  "color": "#4d5a4a",
+  "material": "iron",
+  "features": "world's first major cast-iron arch bridge, semicircular ribs, Coalbrookdale",
+  "wiki": "The Iron Bridge",
+  "src": "https://en.wikipedia.org/wiki/The_Iron_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   52.62736,
+   -2.48544
+  ]
+ },
+ {
+  "id": "forth-bridge",
+  "name": "Forth Bridge",
+  "a": [
+   55.9911,
+   -3.3778
+  ],
+  "b": [
+   56.0097,
+   -3.39941
+  ],
+  "type": "cantilever",
+  "built": 1890,
+  "start": 1882,
+  "gone": null,
+  "lengthM": 2467,
+  "mainSpanM": 521,
+  "spans": 3,
+  "deckHeightM": 110,
+  "towerHeightM": 110,
+  "towers": 3,
+  "lanes": "rail",
+  "color": "#9a3b2e",
+  "material": "steel",
+  "features": "three huge diamond cantilever towers in red, 8094 ft long, iconic",
+  "wiki": "Forth Bridge",
+  "src": "https://en.wikipedia.org/wiki/Forth_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   56.0004,
+   -3.3886
+  ]
+ },
+ {
+  "id": "forth-road-bridge",
+  "name": "Forth Road Bridge",
+  "a": [
+   55.99144,
+   -3.39553
+  ],
+  "b": [
+   56.01192,
+   -3.4126
+  ],
+  "type": "suspension",
+  "built": 1964,
+  "gone": null,
+  "lengthM": 2512,
+  "mainSpanM": 1006,
+  "spans": 3,
+  "deckHeightM": 50,
+  "towerHeightM": 156,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#8fa0b0",
+  "material": "steel",
+  "features": "suspension bridge with pale grey towers beside Forth Bridge",
+  "wiki": "Forth Road Bridge",
+  "src": "https://en.wikipedia.org/wiki/Forth_Road_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   56.00168,
+   -3.40406
+  ]
+ },
+ {
+  "id": "queensferry-crossing",
+  "name": "Queensferry Crossing",
+  "a": [
+   55.9936,
+   -3.40323
+  ],
+  "b": [
+   56.0156,
+   -3.42158
+  ],
+  "type": "cable-stayed",
+  "built": 2017,
+  "start": 2011,
+  "gone": null,
+  "lengthM": 2700,
+  "mainSpanM": 650,
+  "spans": 3,
+  "deckHeightM": 60,
+  "towerHeightM": 207,
+  "towers": 3,
+  "lanes": "road",
+  "color": "#e8edf2",
+  "material": "concrete",
+  "features": "three-tower fan cable-stayed bridge, tallest in UK",
+  "wiki": "Queensferry Crossing",
+  "src": "https://en.wikipedia.org/wiki/Queensferry_Crossing",
+  "endsSrc": "bearing",
+  "center": [
+   56.0046,
+   -3.4124
+  ]
+ },
+ {
+  "id": "clifton-suspension-bridge",
+  "name": "Clifton Suspension Bridge",
+  "a": [
+   51.45568,
+   -2.62521
+  ],
+  "b": [
+   51.45412,
+   -2.63059
+  ],
+  "type": "suspension",
+  "built": 1864,
+  "start": 1831,
+  "gone": null,
+  "lengthM": 412,
+  "mainSpanM": 214,
+  "spans": 1,
+  "deckHeightM": 86,
+  "towerHeightM": 26,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#8a8a7c",
+  "material": "iron",
+  "features": "wrought-iron chains slung across the Avon Gorge between two stone Egyptian-style towers",
+  "wiki": "Clifton Suspension Bridge",
+  "src": "https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   51.4549,
+   -2.6279
+  ]
+ },
+ {
+  "id": "menai-suspension-bridge",
+  "name": "Menai Suspension Bridge",
+  "a": [
+   53.22121,
+   -4.16066
+  ],
+  "b": [
+   53.21879,
+   -4.16545
+  ],
+  "type": "suspension",
+  "built": 1826,
+  "start": 1819,
+  "gone": null,
+  "lengthM": 417,
+  "mainSpanM": 176,
+  "spans": 1,
+  "deckHeightM": 30,
+  "towerHeightM": 46,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#8e8e86",
+  "material": "iron",
+  "features": "Telford's chain suspension bridge with seven stone approach arches",
+  "wiki": "Menai Suspension Bridge",
+  "src": "https://en.wikipedia.org/wiki/Menai_Suspension_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   53.22,
+   -4.16306
+  ]
+ },
+ {
+  "id": "britannia-bridge",
+  "name": "Britannia Bridge",
+  "a": [
+   53.21639,
+   -4.18238
+  ],
+  "b": [
+   53.21639,
+   -4.18929
+  ],
+  "type": "truss",
+  "built": 1850,
+  "gone": null,
+  "rebuilt": [
+   [
+    1970,
+    "fire; rebuilt as arch"
+   ],
+   [
+    2011,
+    "road deck added"
+   ]
+  ],
+  "lengthM": 460,
+  "mainSpanM": 140,
+  "spans": 3,
+  "deckHeightM": 30,
+  "towers": 3,
+  "lanes": "road+rail",
+  "color": "#7e7e7e",
+  "material": "steel",
+  "features": "Stephenson's tubular rail bridge, rebuilt as steel arch road/rail with lions",
+  "wiki": "Britannia Bridge",
+  "src": "https://en.wikipedia.org/wiki/Britannia_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   53.21639,
+   -4.18583
+  ]
+ },
+ {
+  "id": "royal-albert-bridge",
+  "name": "Royal Albert Bridge",
+  "a": [
+   50.405,
+   -4.20105
+  ],
+  "b": [
+   50.4102,
+   -4.20575
+  ],
+  "type": "truss",
+  "built": 1859,
+  "start": 1854,
+  "gone": null,
+  "lengthM": 667,
+  "mainSpanM": 139,
+  "spans": 19,
+  "deckHeightM": 30,
+  "lanes": "rail",
+  "color": "#2f3d5a",
+  "material": "iron",
+  "features": "Brunel's two lenticular iron trusses (bowstring) crossing the Tamar",
+  "wiki": "Royal Albert Bridge",
+  "src": "https://en.wikipedia.org/wiki/Royal_Albert_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   50.4076,
+   -4.2034
+  ]
+ },
+ {
+  "id": "tay-bridge",
+  "name": "Tay Bridge",
+  "a": [
+   56.42421,
+   -2.98858
+  ],
+  "b": [
+   56.45357,
+   -2.98858
+  ],
+  "type": "truss",
+  "built": 1887,
+  "start": 1883,
+  "gone": null,
+  "rebuilt": [
+   [
+    1878,
+    "first Tay bridge"
+   ],
+   [
+    1879,
+    "collapse in storm"
+   ],
+   [
+    1887,
+    "second bridge opened"
+   ]
+  ],
+  "lengthM": 3264,
+  "mainSpanM": 75,
+  "spans": 85,
+  "deckHeightM": 25,
+  "lanes": "rail",
+  "color": "#555555",
+  "material": "iron",
+  "features": "Victorian railway truss bridge replacing the one that collapsed in Dec 1879",
+  "wiki": "Tay Bridge",
+  "src": "https://en.wikipedia.org/wiki/Tay_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   56.43889,
+   -2.98858
+  ]
+ },
+ {
+  "id": "glenfinnan-viaduct",
+  "name": "Glenfinnan Viaduct",
+  "a": [
+   56.87687,
+   -5.42897
+  ],
+  "b": [
+   56.8757,
+   -5.43486
+  ],
+  "type": "viaduct",
+  "built": 1901,
+  "start": 1897,
+  "gone": null,
+  "lengthM": 381,
+  "mainSpanM": 15.2,
+  "spans": 21,
+  "deckHeightM": 30,
+  "lanes": "rail",
+  "color": "#a8a8a0",
+  "material": "concrete",
+  "features": "curving 21-arch concrete viaduct, Hogwarts Express",
+  "wiki": "Glenfinnan Viaduct",
+  "src": "https://en.wikipedia.org/wiki/Glenfinnan_Viaduct",
+  "endsSrc": "bearing",
+  "center": [
+   56.87629,
+   -5.43191
+  ]
+ },
+ {
+  "id": "ribblehead-viaduct",
+  "name": "Ribblehead Viaduct",
+  "a": [
+   54.20883,
+   -2.36865
+  ],
+  "b": [
+   54.21197,
+   -2.37175
+  ],
+  "type": "viaduct",
+  "built": 1875,
+  "start": 1870,
+  "gone": null,
+  "lengthM": 402,
+  "mainSpanM": 13.7,
+  "spans": 24,
+  "deckHeightM": 32,
+  "lanes": "rail",
+  "color": "#8e8a7e",
+  "material": "stone",
+  "features": "24 limestone arches across the Batty Moss, Settle–Carlisle railway",
+  "wiki": "Ribblehead Viaduct",
+  "src": "https://en.wikipedia.org/wiki/Ribblehead_Viaduct",
+  "endsSrc": "bearing",
+  "center": [
+   54.2104,
+   -2.3702
+  ]
+ },
+ {
+  "id": "millennium-bridge-london",
+  "name": "Millennium Bridge, London",
+  "a": [
+   51.51161,
+   -0.09803
+  ],
+  "b": [
+   51.50873,
+   -0.09885
+  ],
+  "type": "suspension",
+  "built": 2000,
+  "gone": null,
+  "lengthM": 325,
+  "mainSpanM": 144,
+  "spans": 3,
+  "deckHeightM": 5,
+  "lanes": "foot",
+  "color": "#b8bcc2",
+  "material": "steel",
+  "features": "'blade of light': ultra-shallow lateral suspension footbridge to Tate Modern",
+  "wiki": "Millennium Bridge, London",
+  "src": "https://en.wikipedia.org/wiki/Millennium_Bridge%2C_London",
+  "endsSrc": "bearing",
+  "center": [
+   51.51017,
+   -0.09844
+  ]
+ },
+ {
+  "id": "humber-bridge",
+  "name": "Humber Bridge",
+  "a": [
+   53.70382,
+   -0.46629
+  ],
+  "b": [
+   53.70898,
+   -0.43371
+  ],
+  "type": "suspension",
+  "built": 1981,
+  "start": 1972,
+  "gone": null,
+  "lengthM": 2220,
+  "mainSpanM": 1410,
+  "spans": 3,
+  "deckHeightM": 30,
+  "towerHeightM": 155.5,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#c9d2d8",
+  "material": "steel",
+  "features": "very long single-span suspension; slender concrete towers",
+  "wiki": "Humber Bridge",
+  "src": "https://en.wikipedia.org/wiki/Humber_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   53.7064,
+   -0.45
+  ]
+ },
+ {
+  "id": "severn-bridge",
+  "name": "Severn Bridge",
+  "a": [
+   51.61425,
+   -2.64653
+  ],
+  "b": [
+   51.60408,
+   -2.63014
+  ],
+  "type": "suspension",
+  "built": 1966,
+  "gone": null,
+  "lengthM": 1600,
+  "mainSpanM": 988,
+  "spans": 3,
+  "deckHeightM": 40,
+  "towerHeightM": 136,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#9aa5b0",
+  "material": "steel",
+  "features": "aerodynamic box-girder suspension bridge with inclined hangers",
+  "wiki": "Severn Bridge",
+  "src": "https://en.wikipedia.org/wiki/Severn_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   51.60917,
+   -2.63833
+  ]
+ },
+ {
+  "id": "brooklyn-bridge",
+  "name": "Brooklyn Bridge",
+  "a": [
+   40.70427,
+   -74.00706
+  ],
+  "b": [
+   40.70712,
+   -73.98574
+  ],
+  "type": "suspension",
+  "built": 1883,
+  "start": 1870,
+  "gone": null,
+  "lengthM": 1825,
+  "mainSpanM": 486,
+  "spans": 3,
+  "deckHeightM": 41,
+  "towerHeightM": 84,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#a89a7e",
+  "material": "steel",
+  "features": "granite Gothic-arch towers and web of diagonal stay cables, wooden promenade",
+  "wiki": "Brooklyn Bridge",
+  "src": "https://en.wikipedia.org/wiki/Brooklyn_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   40.7057,
+   -73.9964
+  ]
+ },
+ {
+  "id": "eads-bridge",
+  "name": "Eads Bridge",
+  "a": [
+   38.62806,
+   -90.18269
+  ],
+  "b": [
+   38.62806,
+   -90.16008
+  ],
+  "type": "steel-arch",
+  "built": 1874,
+  "start": 1867,
+  "gone": null,
+  "lengthM": 1964,
+  "mainSpanM": 157,
+  "spans": 3,
+  "deckHeightM": 25,
+  "lanes": "road+rail",
+  "color": "#6a6a6a",
+  "material": "steel",
+  "features": "first steel-truss arch bridge, three arches across the Mississippi at St Louis",
+  "wiki": "Eads Bridge",
+  "src": "https://en.wikipedia.org/wiki/Eads_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   38.62806,
+   -90.17139
+  ]
+ },
+ {
+  "id": "golden-gate-bridge",
+  "name": "Golden Gate Bridge",
+  "a": [
+   37.80746,
+   -122.47997
+  ],
+  "b": [
+   37.83198,
+   -122.47725
+  ],
+  "type": "suspension",
+  "built": 1937,
+  "start": 1933,
+  "gone": null,
+  "lengthM": 2737,
+  "mainSpanM": 1280,
+  "spans": 3,
+  "deckHeightM": 67,
+  "towerHeightM": 227,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#c0362c",
+  "material": "steel",
+  "features": "International Orange Art Deco towers, 1280 m main span",
+  "wiki": "Golden Gate Bridge",
+  "src": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   37.81972,
+   -122.47861
+  ]
+ },
+ {
+  "id": "san-francisco-oakland-bay-bridge",
+  "name": "San Francisco–Oakland Bay Bridge",
+  "a": [
+   37.81243,
+   -122.38702
+  ],
+  "b": [
+   37.82367,
+   -122.3063
+  ],
+  "type": "suspension",
+  "built": 1936,
+  "start": 1933,
+  "gone": null,
+  "lengthM": 7200,
+  "mainSpanM": 704,
+  "deckHeightM": 58,
+  "towerHeightM": 160,
+  "lanes": "road",
+  "color": "#8a96a0",
+  "material": "steel",
+  "features": "double-deck: twin suspension spans west, then Yerba Buena tunnel and new self-anchored eastern span",
+  "wiki": "San Francisco–Oakland Bay Bridge",
+  "src": "https://en.wikipedia.org/wiki/San_Francisco%E2%80%93Oakland_Bay_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   37.81806,
+   -122.34667
+  ]
+ },
+ {
+  "id": "george-washington-bridge",
+  "name": "George Washington Bridge",
+  "a": [
+   40.85113,
+   -73.96129
+  ],
+  "b": [
+   40.85227,
+   -73.94411
+  ],
+  "type": "suspension",
+  "built": 1931,
+  "gone": null,
+  "rebuilt": [
+   [
+    1962,
+    "lower deck added"
+   ]
+  ],
+  "lengthM": 1450,
+  "mainSpanM": 1067,
+  "spans": 3,
+  "deckHeightM": 66,
+  "towerHeightM": 183,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#8b8f94",
+  "material": "steel",
+  "features": "bare steel towers, double-deck, world's busiest",
+  "wiki": "George Washington Bridge",
+  "src": "https://en.wikipedia.org/wiki/George_Washington_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   40.8517,
+   -73.9527
+  ]
+ },
+ {
+  "id": "verrazzano-narrows-bridge",
+  "name": "Verrazzano-Narrows Bridge",
+  "a": [
+   40.59101,
+   -74.03137
+  ],
+  "b": [
+   40.62177,
+   -74.05975
+  ],
+  "type": "suspension",
+  "built": 1964,
+  "start": 1959,
+  "gone": null,
+  "lengthM": 4176,
+  "mainSpanM": 1298,
+  "spans": 3,
+  "deckHeightM": 69,
+  "towerHeightM": 211,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#8e97a0",
+  "material": "steel",
+  "features": "long double-deck suspension, twin towers, entrance to New York harbour",
+  "wiki": "Verrazzano–Narrows Bridge",
+  "src": "https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   40.60639,
+   -74.04556
+  ]
+ },
+ {
+  "id": "manhattan-bridge",
+  "name": "Manhattan Bridge",
+  "a": [
+   40.7023,
+   -73.97976
+  ],
+  "b": [
+   40.7117,
+   -74.00124
+  ],
+  "type": "suspension",
+  "built": 1909,
+  "start": 1901,
+  "gone": null,
+  "lengthM": 2090,
+  "mainSpanM": 448,
+  "spans": 3,
+  "deckHeightM": 41,
+  "towerHeightM": 102,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#4f7a9a",
+  "material": "steel",
+  "features": "stiffened suspension bridge with Beaux-Arts arch and colonnade on Manhattan side",
+  "wiki": "Manhattan Bridge",
+  "src": "https://en.wikipedia.org/wiki/Manhattan_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   40.707,
+   -73.9905
+  ]
+ },
+ {
+  "id": "williamsburg-bridge",
+  "name": "Williamsburg Bridge",
+  "a": [
+   40.70855,
+   -73.96053
+  ],
+  "b": [
+   40.71857,
+   -73.98341
+  ],
+  "type": "suspension",
+  "built": 1903,
+  "gone": null,
+  "lengthM": 2227,
+  "mainSpanM": 488,
+  "spans": 3,
+  "deckHeightM": 40,
+  "towerHeightM": 102,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#8fa2aa",
+  "material": "steel",
+  "features": "steel-towered suspension with truss approaches; was longest",
+  "wiki": "Williamsburg Bridge",
+  "src": "https://en.wikipedia.org/wiki/Williamsburg_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   40.71356,
+   -73.97197
+  ]
+ },
+ {
+  "id": "queensboro-bridge",
+  "name": "Queensboro Bridge",
+  "a": [
+   40.75867,
+   -73.96797
+  ],
+  "b": [
+   40.75513,
+   -73.94143
+  ],
+  "type": "cantilever",
+  "built": 1909,
+  "gone": null,
+  "lengthM": 2270,
+  "mainSpanM": 360,
+  "spans": 5,
+  "deckHeightM": 40,
+  "towerHeightM": 107,
+  "lanes": "road",
+  "color": "#c9c1a5",
+  "material": "steel",
+  "features": "double-deck cantilever truss with Roosevelt Island midway, '59th Street Bridge'",
+  "wiki": "Queensboro Bridge",
+  "src": "https://en.wikipedia.org/wiki/Queensboro_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   40.7569,
+   -73.9547
+  ]
+ },
+ {
+  "id": "hell-gate-bridge",
+  "name": "Hell Gate Bridge",
+  "a": [
+   40.7606,
+   -73.93242
+  ],
+  "b": [
+   40.8044,
+   -73.91137
+  ],
+  "type": "steel-arch",
+  "built": 1916,
+  "start": 1912,
+  "gone": null,
+  "lengthM": 5182,
+  "mainSpanM": 310,
+  "spans": 1,
+  "deckHeightM": 41,
+  "towers": 2,
+  "lanes": "rail",
+  "color": "#a38b6a",
+  "material": "steel",
+  "features": "big steel arch (prototype for Sydney Harbour Bridge) with massive granite towers",
+  "wiki": "Hell Gate Bridge",
+  "src": "https://en.wikipedia.org/wiki/Hell_Gate_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   40.7825,
+   -73.9219
+  ]
+ },
+ {
+  "id": "ambassador-bridge",
+  "name": "Ambassador Bridge",
+  "a": [
+   42.3031,
+   -83.06705
+  ],
+  "b": [
+   42.3209,
+   -83.08095
+  ],
+  "type": "suspension",
+  "built": 1929,
+  "start": 1927,
+  "gone": null,
+  "lengthM": 2286,
+  "mainSpanM": 564,
+  "spans": 3,
+  "deckHeightM": 45,
+  "towerHeightM": 114,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#8a9a8a",
+  "material": "steel",
+  "features": "US–Canada suspension bridge over the Detroit River",
+  "wiki": "Ambassador Bridge",
+  "src": "https://en.wikipedia.org/wiki/Ambassador_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   42.312,
+   -83.074
+  ]
+ },
+ {
+  "id": "mackinac-bridge",
+  "name": "Mackinac Bridge",
+  "a": [
+   45.78105,
+   -84.73234
+  ],
+  "b": [
+   45.85307,
+   -84.7233
+  ],
+  "type": "suspension",
+  "built": 1957,
+  "start": 1954,
+  "gone": null,
+  "lengthM": 8038,
+  "mainSpanM": 1158,
+  "spans": 3,
+  "deckHeightM": 60,
+  "towerHeightM": 168,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#b0c8d8",
+  "material": "steel",
+  "features": "5-mile suspension bridge between Michigan peninsulas, 'Big Mac'",
+  "wiki": "Mackinac Bridge",
+  "src": "https://en.wikipedia.org/wiki/Mackinac_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   45.81706,
+   -84.72782
+  ]
+ },
+ {
+  "id": "tacoma-narrows-bridge-1940",
+  "name": "Tacoma Narrows Bridge (1940)",
+  "a": [
+   47.25881,
+   -122.5469
+  ],
+  "b": [
+   47.27453,
+   -122.5531
+  ],
+  "type": "suspension",
+  "built": 1940,
+  "start": 1938,
+  "gone": 1940,
+  "rebuilt": [
+   [
+    1940,
+    "collapsed 7 Nov"
+   ],
+   [
+    1950,
+    "replaced by new bridge"
+   ]
+  ],
+  "lengthM": 1810,
+  "mainSpanM": 853,
+  "spans": 3,
+  "deckHeightM": 59,
+  "towerHeightM": 130,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#8b8f94",
+  "material": "steel",
+  "features": "'Galloping Gertie': thin plate-girder deck that twisted and collapsed in wind on 7 Nov 1940",
+  "wiki": "Tacoma Narrows Bridge (1940)",
+  "src": "https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_%281940%29",
+  "endsSrc": "bearing",
+  "center": [
+   47.26667,
+   -122.55
+  ]
+ },
+ {
+  "id": "tacoma-narrows-bridge",
+  "name": "Tacoma Narrows Bridge",
+  "a": [
+   47.26091,
+   -122.54773
+  ],
+  "b": [
+   47.2752,
+   -122.55338
+  ],
+  "type": "suspension",
+  "built": 1950,
+  "start": 1948,
+  "gone": null,
+  "lengthM": 1646,
+  "mainSpanM": 853,
+  "spans": 3,
+  "deckHeightM": 59,
+  "towerHeightM": 150,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#8b9a8f",
+  "material": "steel",
+  "features": "replacement for Galloping Gertie; second parallel span added 2007",
+  "wiki": "Tacoma Narrows Bridge",
+  "src": "https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   47.26806,
+   -122.55056
+  ]
+ },
+ {
+  "id": "lake-pontchartrain-causeway",
+  "name": "Lake Pontchartrain Causeway",
+  "a": [
+   30.18651,
+   -90.1
+  ],
+  "b": [
+   30.21349,
+   -90.1
+  ],
+  "type": "other",
+  "built": 1956,
+  "gone": null,
+  "lengthM": 38400,
+  "deckHeightM": 5,
+  "lanes": "road",
+  "color": "#9a9a92",
+  "material": "concrete",
+  "features": "two parallel low trestle bridges 24 miles long, longest continuous over water; mid-span bascule",
+  "wiki": "Lake Pontchartrain Causeway",
+  "src": "https://en.wikipedia.org/wiki/Lake_Pontchartrain_Causeway",
+  "endsSrc": "bearing",
+  "center": [
+   30.2,
+   -90.1
+  ]
+ },
+ {
+  "id": "chesapeake-bay-bridge-tunnel",
+  "name": "Chesapeake Bay Bridge–Tunnel",
+  "a": [
+   36.88041,
+   -76.15441
+  ],
+  "b": [
+   37.11957,
+   -76.04542
+  ],
+  "type": "other",
+  "built": 1964,
+  "gone": null,
+  "lengthM": 28300,
+  "deckHeightM": 8,
+  "lanes": "road",
+  "color": "#8a9aa8",
+  "material": "concrete",
+  "features": "trestles and two mile-long tunnels with artificial islands",
+  "wiki": "Chesapeake Bay Bridge–Tunnel",
+  "src": "https://en.wikipedia.org/wiki/Chesapeake_Bay_Bridge%E2%80%93Tunnel",
+  "endsSrc": "bearing",
+  "center": [
+   37.0,
+   -76.1
+  ]
+ },
+ {
+  "id": "sunshine-skyway-bridge",
+  "name": "Sunshine Skyway Bridge",
+  "a": [
+   27.59552,
+   -82.65275
+  ],
+  "b": [
+   27.65448,
+   -82.66448
+  ],
+  "type": "cable-stayed",
+  "built": 1987,
+  "start": 1982,
+  "gone": null,
+  "rebuilt": [
+   [
+    1980,
+    "old bridge hit by ship"
+   ]
+  ],
+  "lengthM": 6657,
+  "mainSpanM": 366,
+  "deckHeightM": 59,
+  "towerHeightM": 131,
+  "towers": 1,
+  "lanes": "road",
+  "color": "#e8c04a",
+  "material": "concrete",
+  "features": "pylon of yellow stay cables in two fans across Tampa Bay",
+  "wiki": "Sunshine Skyway Bridge",
+  "src": "https://en.wikipedia.org/wiki/Sunshine_Skyway_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   27.625,
+   -82.65861
+  ]
+ },
+ {
+  "id": "rainbow-bridge-niagara",
+  "name": "Rainbow Bridge (Niagara Falls)",
+  "a": [
+   43.08852,
+   -79.06639
+  ],
+  "b": [
+   43.09195,
+   -79.0691
+  ],
+  "type": "steel-arch",
+  "built": 1941,
+  "start": 1940,
+  "gone": null,
+  "lengthM": 440,
+  "mainSpanM": 289,
+  "spans": 1,
+  "deckHeightM": 60,
+  "lanes": "road",
+  "color": "#7a8a95",
+  "material": "steel",
+  "features": "steel arch across Niagara Gorge below the Falls, US–Canada",
+  "wiki": "Rainbow Bridge (Niagara Falls)",
+  "src": "https://en.wikipedia.org/wiki/Rainbow_Bridge_%28Niagara_Falls%29",
+  "endsSrc": "bearing",
+  "center": [
+   43.09023,
+   -79.06774
+  ]
+ },
+ {
+  "id": "niagara-falls-suspension-bridge",
+  "name": "Niagara Falls Suspension Bridge",
+  "a": [
+   43.10823,
+   -79.05753
+  ],
+  "b": [
+   43.11017,
+   -79.05907
+  ],
+  "type": "suspension",
+  "built": 1855,
+  "gone": 1897,
+  "rebuilt": [
+   [
+    1848,
+    "temporary footbridge"
+   ],
+   [
+    1897,
+    "replaced by steel arch"
+   ]
+  ],
+  "lengthM": 250,
+  "mainSpanM": 250,
+  "spans": 1,
+  "deckHeightM": 76,
+  "towers": 2,
+  "lanes": "road+rail",
+  "color": "#8a7a68",
+  "material": "iron",
+  "features": "Roebling's railway suspension bridge, first working railway suspension",
+  "wiki": "Niagara Falls Suspension Bridge",
+  "src": "https://en.wikipedia.org/wiki/Niagara_Falls_Suspension_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   43.1092,
+   -79.0583
+  ]
+ },
+ {
+  "id": "royal-gorge-bridge",
+  "name": "Royal Gorge Bridge",
+  "a": [
+   38.46017,
+   -105.3239
+  ],
+  "b": [
+   38.46317,
+   -105.3261
+  ],
+  "type": "suspension",
+  "built": 1929,
+  "start": 1929,
+  "gone": null,
+  "lengthM": 384,
+  "mainSpanM": 268,
+  "spans": 1,
+  "deckHeightM": 291,
+  "towers": 2,
+  "lanes": "foot",
+  "color": "#8a7766",
+  "material": "steel",
+  "features": "highest suspension bridge in US for many years, 291 m above the Arkansas river",
+  "wiki": "Royal Gorge Bridge",
+  "src": "https://en.wikipedia.org/wiki/Royal_Gorge_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   38.46167,
+   -105.325
+  ]
+ },
+ {
+  "id": "new-river-gorge-bridge",
+  "name": "New River Gorge Bridge",
+  "a": [
+   38.06457,
+   -81.08556
+  ],
+  "b": [
+   38.0721,
+   -81.0811
+  ],
+  "type": "steel-arch",
+  "built": 1977,
+  "gone": null,
+  "lengthM": 924,
+  "mainSpanM": 518,
+  "spans": 1,
+  "deckHeightM": 267,
+  "lanes": "road",
+  "color": "#7a8aa0",
+  "material": "steel",
+  "features": "single steel arch, 267 m high, Bridge Day base jumps",
+  "wiki": "New River Gorge Bridge",
+  "src": "https://en.wikipedia.org/wiki/New_River_Gorge_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   38.06833,
+   -81.08333
+  ]
+ },
+ {
+  "id": "hoover-dam-bypass",
+  "name": "Hoover Dam Bypass (Mike O'Callaghan–Pat Tillman Memorial Bridge)",
+  "a": [
+   36.01025,
+   -114.73978
+  ],
+  "b": [
+   36.01475,
+   -114.743
+  ],
+  "type": "steel-arch",
+  "built": 2010,
+  "start": 2005,
+  "gone": null,
+  "lengthM": 579,
+  "mainSpanM": 323,
+  "spans": 4,
+  "deckHeightM": 270,
+  "lanes": "road",
+  "color": "#c9c1b0",
+  "material": "concrete",
+  "features": "concrete composite arch above the Colorado River gorge by Hoover Dam",
+  "wiki": "Mike O'Callaghan–Pat Tillman Memorial Bridge",
+  "src": "https://en.wikipedia.org/wiki/Mike_O%27Callaghan%E2%80%93Pat_Tillman_Memorial_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   36.0125,
+   -114.74139
+  ]
+ },
+ {
+  "id": "bixby-bridge",
+  "name": "Bixby Creek Bridge",
+  "a": [
+   36.37041,
+   -121.90194
+  ],
+  "b": [
+   36.37237,
+   -121.90194
+  ],
+  "type": "other",
+  "built": 1932,
+  "start": 1931,
+  "gone": null,
+  "lengthM": 218,
+  "mainSpanM": 110,
+  "spans": 1,
+  "deckHeightM": 85,
+  "lanes": "road",
+  "color": "#c9c1b0",
+  "material": "concrete",
+  "features": "open-spandrel concrete arch in Big Sur, famous coastal Highway 1 photo",
+  "wiki": "Bixby Bridge",
+  "src": "https://en.wikipedia.org/wiki/Bixby_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   36.37139,
+   -121.90194
+  ]
+ },
+ {
+  "id": "quebec-bridge",
+  "name": "Quebec Bridge",
+  "a": [
+   46.74748,
+   -71.28609
+  ],
+  "b": [
+   46.75192,
+   -71.29731
+  ],
+  "type": "cantilever",
+  "built": 1919,
+  "start": 1904,
+  "gone": null,
+  "rebuilt": [
+   [
+    1907,
+    "collapse"
+   ],
+   [
+    1916,
+    "center span fell"
+   ]
+  ],
+  "lengthM": 987,
+  "mainSpanM": 549,
+  "spans": 3,
+  "deckHeightM": 59,
+  "lanes": "road+rail",
+  "color": "#6a5a50",
+  "material": "steel",
+  "features": "world's longest cantilever span; collapsed 1907 and 1916 during construction",
+  "wiki": "Quebec Bridge",
+  "src": "https://en.wikipedia.org/wiki/Quebec_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   46.7497,
+   -71.2917
+  ]
+ },
+ {
+  "id": "confederation-bridge",
+  "name": "Confederation Bridge",
+  "a": [
+   46.16077,
+   -63.77448
+  ],
+  "b": [
+   46.26978,
+   -63.71713
+  ],
+  "type": "other",
+  "built": 1997,
+  "start": 1993,
+  "gone": null,
+  "lengthM": 12900,
+  "mainSpanM": 250,
+  "spans": 44,
+  "deckHeightM": 60,
+  "lanes": "road",
+  "color": "#a8a8a2",
+  "material": "concrete",
+  "features": "long concrete box girder bridge over the ice-prone Northumberland Strait",
+  "wiki": "Confederation Bridge",
+  "src": "https://en.wikipedia.org/wiki/Confederation_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   46.21528,
+   -63.74583
+  ]
+ },
+ {
+  "id": "lions-gate-bridge",
+  "name": "Lions Gate Bridge",
+  "a": [
+   49.30818,
+   -123.13205
+  ],
+  "b": [
+   49.32238,
+   -123.14462
+  ],
+  "type": "suspension",
+  "built": 1938,
+  "start": 1937,
+  "gone": null,
+  "lengthM": 1823,
+  "mainSpanM": 473,
+  "spans": 3,
+  "deckHeightM": 61,
+  "towerHeightM": 111,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#4f8a6a",
+  "material": "steel",
+  "features": "green steel towers, from Stanley Park to North Vancouver",
+  "wiki": "Lions Gate Bridge",
+  "src": "https://en.wikipedia.org/wiki/Lions_Gate_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   49.31528,
+   -123.13833
+  ]
+ },
+ {
+  "id": "john-a-roebling-suspension-bridge",
+  "name": "John A. Roebling Suspension Bridge",
+  "a": [
+   39.09511,
+   -84.51
+  ],
+  "b": [
+   39.09069,
+   -84.511
+  ],
+  "type": "suspension",
+  "built": 1866,
+  "start": 1856,
+  "gone": null,
+  "lengthM": 500,
+  "mainSpanM": 322,
+  "spans": 1,
+  "deckHeightM": 30,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#4a6a9a",
+  "material": "iron",
+  "features": "Roebling's prototype for Brooklyn Bridge across the Ohio River, Cincinnati–Covington",
+  "wiki": "John A. Roebling Suspension Bridge",
+  "src": "https://en.wikipedia.org/wiki/John_A._Roebling_Suspension_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   39.0929,
+   -84.5105
+  ]
+ },
+ {
+  "id": "starrucca-viaduct",
+  "name": "Starrucca Viaduct",
+  "a": [
+   41.9618,
+   -75.58297
+  ],
+  "b": [
+   41.9646,
+   -75.58363
+  ],
+  "type": "viaduct",
+  "built": 1848,
+  "gone": null,
+  "lengthM": 317,
+  "mainSpanM": 15,
+  "spans": 17,
+  "deckHeightM": 30,
+  "lanes": "rail",
+  "color": "#a89a78",
+  "material": "stone",
+  "features": "17-arch bluestone railway viaduct",
+  "wiki": "Starrucca Viaduct",
+  "src": "https://en.wikipedia.org/wiki/Starrucca_Viaduct",
+  "endsSrc": "bearing",
+  "center": [
+   41.9632,
+   -75.5833
+  ]
+ },
+ {
+  "id": "rio-niteroi-bridge",
+  "name": "Rio–Niterói Bridge",
+  "a": [
+   -22.89164,
+   -43.21436
+  ],
+  "b": [
+   -22.85076,
+   -43.09247
+  ],
+  "type": "other",
+  "built": 1974,
+  "start": 1969,
+  "gone": null,
+  "lengthM": 13290,
+  "mainSpanM": 300,
+  "deckHeightM": 72,
+  "lanes": "road",
+  "color": "#c9c1b0",
+  "material": "concrete",
+  "features": "13 km box-girder bridge over Guanabara Bay, steel centre span",
+  "wiki": "Rio–Niterói Bridge",
+  "src": "https://en.wikipedia.org/wiki/Rio%E2%80%93Niter%C3%B3i_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   -22.87121,
+   -43.15341
+  ]
+ },
+ {
+  "id": "octavio-frias-de-oliveira-bridge",
+  "name": "Octávio Frias de Oliveira Bridge",
+  "a": [
+   -23.61275,
+   -46.71396
+  ],
+  "b": [
+   -23.61275,
+   -46.68452
+  ],
+  "type": "cable-stayed",
+  "built": 2008,
+  "start": 2005,
+  "gone": null,
+  "mainSpanM": 290,
+  "spans": 1,
+  "towerHeightM": 138,
+  "towers": 1,
+  "lanes": "road",
+  "color": "#e8e8e0",
+  "material": "concrete",
+  "features": "X-shaped mast with 144 stays: two curved decks around a single mast, São Paulo",
+  "wiki": "Octávio Frias de Oliveira Bridge",
+  "src": "https://en.wikipedia.org/wiki/Oct%C3%A1vio_Frias_de_Oliveira_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   -23.61275,
+   -46.69924
+  ]
+ },
+ {
+  "id": "puente-de-la-mujer",
+  "name": "Puente de la Mujer",
+  "a": [
+   -34.60794,
+   -58.36584
+  ],
+  "b": [
+   -34.60794,
+   -58.36398
+  ],
+  "type": "other",
+  "built": 2001,
+  "start": 1998,
+  "gone": null,
+  "lengthM": 170,
+  "mainSpanM": 102.5,
+  "spans": 1,
+  "deckHeightM": 34,
+  "towerHeightM": 34,
+  "towers": 1,
+  "lanes": "foot",
+  "color": "#e8e8e8",
+  "material": "steel",
+  "features": "white swing footbridge shaped like a tango couple, Buenos Aires",
+  "wiki": "Puente de la Mujer",
+  "src": "https://en.wikipedia.org/wiki/Puente_de_la_Mujer",
+  "endsSrc": "bearing",
+  "center": [
+   -34.60794,
+   -58.36491
+  ]
+ },
+ {
+  "id": "sydney-harbour-bridge",
+  "name": "Sydney Harbour Bridge",
+  "a": [
+   -33.85739,
+   151.21056
+  ],
+  "b": [
+   -33.84706,
+   151.21056
+  ],
+  "type": "steel-arch",
+  "built": 1932,
+  "start": 1923,
+  "gone": null,
+  "lengthM": 1149,
+  "mainSpanM": 503,
+  "spans": 1,
+  "deckHeightM": 134,
+  "towers": 4,
+  "lanes": "road+rail",
+  "color": "#6b6b6b",
+  "material": "steel",
+  "features": "'The Coathanger': giant through arch with four pylons, 134 m high",
+  "wiki": "Sydney Harbour Bridge",
+  "src": "https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   -33.85222,
+   151.21056
+  ]
+ },
+ {
+  "id": "story-bridge",
+  "name": "Story Bridge",
+  "a": [
+   -27.4623,
+   153.0321
+  ],
+  "b": [
+   -27.46469,
+   153.0395
+  ],
+  "type": "cantilever",
+  "built": 1940,
+  "start": 1935,
+  "gone": null,
+  "lengthM": 777,
+  "mainSpanM": 282,
+  "deckHeightM": 74,
+  "lanes": "road",
+  "color": "#7a8a95",
+  "material": "steel",
+  "features": "steel cantilever truss over the Brisbane River",
+  "wiki": "Story Bridge",
+  "src": "https://en.wikipedia.org/wiki/Story_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   -27.4635,
+   153.0358
+  ]
+ },
+ {
+  "id": "auckland-harbour-bridge",
+  "name": "Auckland Harbour Bridge",
+  "a": [
+   -36.83396,
+   174.74738
+  ],
+  "b": [
+   -36.82493,
+   174.74539
+  ],
+  "type": "truss",
+  "built": 1959,
+  "gone": null,
+  "lengthM": 1020,
+  "mainSpanM": 243.8,
+  "spans": 9,
+  "deckHeightM": 43,
+  "lanes": "road",
+  "color": "#9aa5a8",
+  "material": "steel",
+  "features": "steel box girder over truss, 'Nippon clip-ons' added 1969",
+  "wiki": "Auckland Harbour Bridge",
+  "src": "https://en.wikipedia.org/wiki/Auckland_Harbour_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   -36.82944,
+   174.74639
+  ]
+ },
+ {
+  "id": "victoria-falls-bridge",
+  "name": "Victoria Falls Bridge",
+  "a": [
+   -17.92917,
+   25.8569
+  ],
+  "b": [
+   -17.9275,
+   25.85754
+  ],
+  "type": "steel-arch",
+  "built": 1905,
+  "start": 1904,
+  "gone": null,
+  "lengthM": 198,
+  "mainSpanM": 156.5,
+  "spans": 1,
+  "deckHeightM": 128,
+  "lanes": "road+rail",
+  "color": "#6b6b6b",
+  "material": "steel",
+  "features": "steel arch across Zambezi gorge, Zambia–Zimbabwe",
+  "wiki": "Victoria Falls Bridge",
+  "src": "https://en.wikipedia.org/wiki/Victoria_Falls_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   -17.92833,
+   25.85722
+  ]
+ },
+ {
+  "id": "gateshead-millennium-bridge",
+  "name": "Gateshead Millennium Bridge",
+  "a": [
+   54.96927,
+   -1.59886
+  ],
+  "b": [
+   54.97033,
+   -1.59954
+  ],
+  "type": "movable",
+  "built": 2001,
+  "gone": null,
+  "lengthM": 126,
+  "mainSpanM": 105,
+  "spans": 1,
+  "deckHeightM": 25,
+  "towerHeightM": 50,
+  "lanes": "foot",
+  "color": "#c8d0d6",
+  "material": "steel",
+  "features": "tilting 'blinking eye' pedestrian arch",
+  "wiki": "Gateshead Millennium Bridge",
+  "src": "https://en.wikipedia.org/wiki/Gateshead_Millennium_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   54.9698,
+   -1.5992
+  ]
+ },
+ {
+  "id": "tyne-bridge",
+  "name": "Tyne Bridge",
+  "a": [
+   54.96631,
+   -1.60521
+  ],
+  "b": [
+   54.96969,
+   -1.60679
+  ],
+  "type": "steel-arch",
+  "built": 1928,
+  "start": 1925,
+  "gone": null,
+  "lengthM": 389,
+  "mainSpanM": 161.8,
+  "spans": 1,
+  "deckHeightM": 60,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#4a8a8a",
+  "material": "steel",
+  "features": "large green steel through arch, inspiration for Sydney Harbour Bridge",
+  "wiki": "Tyne Bridge",
+  "src": "https://en.wikipedia.org/wiki/Tyne_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   54.968,
+   -1.606
+  ]
+ },
+ {
+  "id": "akashi-kaikyo-bridge",
+  "name": "Akashi Kaikyō Bridge",
+  "a": [
+   34.61773,
+   135.04179
+  ],
+  "b": [
+   34.61467,
+   134.99921
+  ],
+  "type": "suspension",
+  "built": 1998,
+  "start": 1988,
+  "gone": null,
+  "lengthM": 3911,
+  "mainSpanM": 1991,
+  "spans": 3,
+  "deckHeightM": 97,
+  "towerHeightM": 298,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#d8dde0",
+  "material": "steel",
+  "features": "world's longest suspension span (1991 m), 298 m towers",
+  "wiki": "Akashi Kaikyo Bridge",
+  "src": "https://en.wikipedia.org/wiki/Akashi_Kaikyo_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   34.6162,
+   135.0205
+  ]
+ },
+ {
+  "id": "tatara-bridge",
+  "name": "Tatara Bridge",
+  "a": [
+   34.25304,
+   133.05944
+  ],
+  "b": [
+   34.2659,
+   133.06361
+  ],
+  "type": "cable-stayed",
+  "built": 1999,
+  "gone": null,
+  "lengthM": 1480,
+  "mainSpanM": 890,
+  "spans": 3,
+  "towerHeightM": 220,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#e8e8e8",
+  "material": "steel",
+  "features": "Shimanami Kaido cable-stayed bridge, 890 m",
+  "wiki": "Tatara Bridge",
+  "src": "https://en.wikipedia.org/wiki/Tatara_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   34.25947,
+   133.06153
+  ]
+ },
+ {
+  "id": "rainbow-bridge-tokyo",
+  "name": "Rainbow Bridge (Tokyo)",
+  "a": [
+   35.63639,
+   139.7592
+  ],
+  "b": [
+   35.63639,
+   139.76803
+  ],
+  "type": "suspension",
+  "built": 1993,
+  "start": 1987,
+  "gone": null,
+  "lengthM": 798,
+  "mainSpanM": 570,
+  "spans": 3,
+  "deckHeightM": 52,
+  "towerHeightM": 126,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#e8e8e8",
+  "material": "steel",
+  "features": "white suspension bridge across Tokyo Bay, lit in rainbow colours",
+  "wiki": "Rainbow Bridge (Tokyo)",
+  "src": "https://en.wikipedia.org/wiki/Rainbow_Bridge_%28Tokyo%29",
+  "endsSrc": "bearing",
+  "center": [
+   35.63639,
+   139.76361
+  ]
+ },
+ {
+  "id": "great-seto-bridge",
+  "name": "Seto Ōhashi Bridge (Great Seto Bridge)",
+  "a": [
+   34.39829,
+   133.75895
+  ],
+  "b": [
+   34.39829,
+   133.86105
+  ],
+  "type": "other",
+  "built": 1988,
+  "start": 1978,
+  "gone": null,
+  "lengthM": 9368,
+  "mainSpanM": 1100,
+  "lanes": "road+rail",
+  "color": "#a8b4bd",
+  "material": "steel",
+  "features": "series of six bridges linking Honshu and Shikoku (Kojima–Sakaide)",
+  "wiki": "Great Seto Bridge",
+  "src": "https://en.wikipedia.org/wiki/Great_Seto_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   34.3983,
+   133.81
+  ]
+ },
+ {
+  "id": "nihonbashi",
+  "name": "Nihonbashi",
+  "a": [
+   35.68367,
+   139.7744
+  ],
+  "b": [
+   35.68411,
+   139.77449
+  ],
+  "type": "stone-arch",
+  "built": 1911,
+  "gone": null,
+  "rebuilt": [
+   [
+    1604,
+    "first wooden bridge"
+   ],
+   [
+    1911,
+    "stone bridge"
+   ]
+  ],
+  "lengthM": 49,
+  "spans": 2,
+  "deckHeightM": 6,
+  "lanes": "road",
+  "color": "#9a9588",
+  "material": "stone",
+  "features": "stone double-arch bridge with bronze lions; Edo's road milestone zero",
+  "wiki": "Nihonbashi",
+  "src": "https://en.wikipedia.org/wiki/Nihonbashi",
+  "endsSrc": "bearing",
+  "center": [
+   35.68389,
+   139.77444
+  ]
+ },
+ {
+  "id": "millau-viaduct",
+  "name": "Millau Viaduct",
+  "a": [
+   44.06842,
+   3.02088
+  ],
+  "b": [
+   44.09046,
+   3.02356
+  ],
+  "type": "cable-stayed",
+  "built": 2004,
+  "start": 2001,
+  "gone": null,
+  "lengthM": 2460,
+  "mainSpanM": 342,
+  "spans": 7,
+  "deckHeightM": 270,
+  "towerHeightM": 343,
+  "towers": 7,
+  "lanes": "road",
+  "color": "#e8edf2",
+  "material": "steel",
+  "features": "tallest bridge in world: seven masts, 343 m, white seven-span",
+  "wiki": "Millau Viaduct",
+  "src": "https://en.wikipedia.org/wiki/Millau_Viaduct",
+  "endsSrc": "bearing",
+  "center": [
+   44.07944,
+   3.02222
+  ]
+ },
+ {
+  "id": "oresund-bridge",
+  "name": "Øresund Bridge",
+  "a": [
+   55.57054,
+   12.78705
+  ],
+  "b": [
+   55.57054,
+   12.91184
+  ],
+  "type": "cable-stayed",
+  "built": 2000,
+  "start": 1995,
+  "gone": null,
+  "lengthM": 7845,
+  "mainSpanM": 490,
+  "deckHeightM": 57,
+  "towerHeightM": 204,
+  "towers": 2,
+  "lanes": "road+rail",
+  "color": "#8aa0b0",
+  "material": "steel",
+  "features": "rail-and-road bridge between Copenhagen and Malmö with H-shaped pylons",
+  "wiki": "Øresund Bridge",
+  "src": "https://en.wikipedia.org/wiki/%C3%98resund_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   55.57056,
+   12.84944
+  ]
+ },
+ {
+  "id": "great-belt-bridge",
+  "name": "Great Belt Bridge",
+  "a": [
+   55.32285,
+   10.91627
+  ],
+  "b": [
+   55.34373,
+   11.01715
+  ],
+  "type": "suspension",
+  "built": 1998,
+  "start": 1991,
+  "gone": null,
+  "lengthM": 6790,
+  "mainSpanM": 1624,
+  "spans": 3,
+  "deckHeightM": 65,
+  "towerHeightM": 254,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#b8c0c8",
+  "material": "steel",
+  "features": "East Bridge: long suspension span between Zealand and Funen",
+  "wiki": "Great Belt Bridge",
+  "src": "https://en.wikipedia.org/wiki/Great_Belt_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   55.3333,
+   10.9667
+  ]
+ },
+ {
+  "id": "danyang-kunshan-grand-bridge",
+  "name": "Danyang–Kunshan Grand Bridge",
+  "a": [
+   31.65234,
+   120.58439
+  ],
+  "b": [
+   31.64766,
+   120.61561
+  ],
+  "type": "viaduct",
+  "built": 2011,
+  "start": 2006,
+  "gone": null,
+  "lengthM": 164800,
+  "deckHeightM": 30,
+  "lanes": "rail",
+  "color": "#c0c0c0",
+  "material": "concrete",
+  "features": "longest bridge in the world: 164.8 km high-speed rail viaduct",
+  "wiki": "Danyang–Kunshan Grand Bridge",
+  "src": "https://en.wikipedia.org/wiki/Danyang%E2%80%93Kunshan_Grand_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   31.65,
+   120.6
+  ]
+ },
+ {
+  "id": "hong-kong-zhuhai-macau-bridge",
+  "name": "Hong Kong–Zhuhai–Macau Bridge",
+  "a": [
+   22.28305,
+   113.76598
+  ],
+  "b": [
+   22.28305,
+   113.79513
+  ],
+  "type": "other",
+  "built": 2018,
+  "start": 2009,
+  "gone": null,
+  "lengthM": 55000,
+  "mainSpanM": 458,
+  "lanes": "road",
+  "color": "#c5ccd2",
+  "material": "steel",
+  "features": "55 km bridge–tunnel system with three cable-stayed navigation spans and an artificial-island tunnel",
+  "wiki": "Hong Kong–Zhuhai–Macau Bridge",
+  "src": "https://en.wikipedia.org/wiki/Hong_Kong%E2%80%93Zhuhai%E2%80%93Macau_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   22.28306,
+   113.78056
+  ]
+ },
+ {
+  "id": "jiaozhou-bay-bridge",
+  "name": "Qingdao Jiaozhou Bay Bridge",
+  "a": [
+   36.0715,
+   120.21308
+  ],
+  "b": [
+   36.26824,
+   120.38373
+  ],
+  "type": "other",
+  "built": 2011,
+  "start": 2007,
+  "gone": null,
+  "lengthM": 26707,
+  "mainSpanM": 260,
+  "lanes": "road",
+  "color": "#b8c0c8",
+  "material": "concrete",
+  "features": "26.7 km: Cangkou Channel cable-stayed and Hongdao Channel suspension",
+  "wiki": "Qingdao Jiaozhou Bay Bridge",
+  "src": "https://en.wikipedia.org/wiki/Qingdao_Jiaozhou_Bay_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   36.1699,
+   120.2983
+  ]
+ },
+ {
+  "id": "sutong-bridge",
+  "name": "Sutong Yangtze River Bridge",
+  "a": [
+   31.76696,
+   120.99924
+  ],
+  "b": [
+   31.83964,
+   120.98416
+  ],
+  "type": "cable-stayed",
+  "built": 2008,
+  "start": 2003,
+  "gone": null,
+  "lengthM": 8206,
+  "mainSpanM": 1088,
+  "towerHeightM": 300,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#d8dde2",
+  "material": "steel",
+  "features": "1088 m cable-stayed span, 300 m towers",
+  "wiki": "Sutong Yangtze River Bridge",
+  "src": "https://en.wikipedia.org/wiki/Sutong_Yangtze_River_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   31.8033,
+   120.9917
+  ]
+ },
+ {
+  "id": "jiangyin-bridge",
+  "name": "Jiangyin Yangtze River Bridge",
+  "a": [
+   31.93652,
+   120.26196
+  ],
+  "b": [
+   31.96188,
+   120.27284
+  ],
+  "type": "suspension",
+  "built": 1999,
+  "start": 1994,
+  "gone": null,
+  "lengthM": 3000,
+  "mainSpanM": 1385,
+  "spans": 3,
+  "deckHeightM": 50,
+  "towerHeightM": 190,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#c9ced4",
+  "material": "steel",
+  "features": "first Chinese 1000 m+ suspension span",
+  "wiki": "Jiangyin Yangtze River Bridge",
+  "src": "https://en.wikipedia.org/wiki/Jiangyin_Yangtze_River_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   31.9492,
+   120.2674
+  ]
+ },
+ {
+  "id": "runyang-bridge",
+  "name": "Runyang Yangtze River Bridge",
+  "a": [
+   32.19282,
+   119.33844
+  ],
+  "b": [
+   32.24898,
+   119.37677
+  ],
+  "type": "suspension",
+  "built": 2005,
+  "start": 2000,
+  "gone": null,
+  "lengthM": 7210,
+  "mainSpanM": 1490,
+  "towerHeightM": 215,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#c9ced4",
+  "material": "steel",
+  "features": "south suspension + north cable-stayed bridges near Zhenjiang",
+  "wiki": "Runyang Yangtze River Bridge",
+  "src": "https://en.wikipedia.org/wiki/Runyang_Yangtze_River_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   32.2209,
+   119.3576
+  ]
+ },
+ {
+  "id": "nanjing-yangtze-river-bridge",
+  "name": "Nanjing Yangtze River Bridge",
+  "a": [
+   32.10906,
+   118.73462
+  ],
+  "b": [
+   32.12134,
+   118.74298
+  ],
+  "type": "truss",
+  "built": 1968,
+  "start": 1960,
+  "gone": null,
+  "lengthM": 1576,
+  "mainSpanM": 160,
+  "towerHeightM": 70,
+  "lanes": "road+rail",
+  "color": "#b09a6a",
+  "material": "steel",
+  "features": "first Chinese-designed Yangtze bridge; double-deck truss, red flags on bridgeheads",
+  "wiki": "Nanjing Yangtze River Bridge",
+  "src": "https://en.wikipedia.org/wiki/Nanjing_Yangtze_River_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   32.1152,
+   118.7388
+  ]
+ },
+ {
+  "id": "wuhan-yangtze-river-bridge",
+  "name": "Wuhan Yangtze River Bridge",
+  "a": [
+   30.54487,
+   114.28152
+  ],
+  "b": [
+   30.55453,
+   114.29488
+  ],
+  "type": "truss",
+  "built": 1957,
+  "start": 1955,
+  "gone": null,
+  "lengthM": 1670,
+  "mainSpanM": 128,
+  "deckHeightM": 80,
+  "lanes": "road+rail",
+  "color": "#6e7a82",
+  "material": "steel",
+  "features": "first bridge across the Yangtze, double-deck truss (Soviet aid)",
+  "wiki": "Wuhan Yangtze River Bridge",
+  "src": "https://en.wikipedia.org/wiki/Wuhan_Yangtze_River_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   30.5497,
+   114.2882
+  ]
+ },
+ {
+  "id": "chaotianmen-bridge",
+  "name": "Chaotianmen Bridge",
+  "a": [
+   29.58151,
+   106.57413
+  ],
+  "b": [
+   29.59623,
+   106.58029
+  ],
+  "type": "steel-arch",
+  "built": 2009,
+  "start": 2004,
+  "gone": null,
+  "lengthM": 1741,
+  "mainSpanM": 552,
+  "spans": 3,
+  "lanes": "road",
+  "color": "#c9c1b0",
+  "material": "steel",
+  "features": "longest steel arch in the world, Chongqing, two decks",
+  "wiki": "Chaotianmen Bridge",
+  "src": "https://en.wikipedia.org/wiki/Chaotianmen_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   29.58887,
+   106.57721
+  ]
+ },
+ {
+  "id": "sidu-river-bridge",
+  "name": "Sidu River Bridge",
+  "a": [
+   30.61607,
+   110.3929
+  ],
+  "b": [
+   30.62639,
+   110.39727
+  ],
+  "type": "suspension",
+  "built": 2009,
+  "gone": null,
+  "lengthM": 1222,
+  "mainSpanM": 900,
+  "spans": 1,
+  "deckHeightM": 496,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#8aa5ae",
+  "material": "steel",
+  "features": "496 m above the Sidu River, rocket-launched pilot cable",
+  "wiki": "Sidu River Bridge",
+  "src": "https://en.wikipedia.org/wiki/Sidu_River_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   30.62123,
+   110.39509
+  ]
+ },
+ {
+  "id": "beipanjiang-bridge-duge",
+  "name": "Beipan River Bridge",
+  "a": [
+   26.01618,
+   105.23585
+  ],
+  "b": [
+   26.02662,
+   105.24256
+  ],
+  "type": "cable-stayed",
+  "built": 2016,
+  "gone": null,
+  "lengthM": 1341,
+  "mainSpanM": 720,
+  "spans": 1,
+  "deckHeightM": 565,
+  "towerHeightM": 269,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#8a9aa0",
+  "material": "steel",
+  "features": "highest bridge in the world (565 m), Guizhou",
+  "wiki": "Beipan River Bridge",
+  "src": "https://en.wikipedia.org/wiki/Beipan_River_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   26.0214,
+   105.2392
+  ]
+ },
+ {
+  "id": "tsing-ma-bridge",
+  "name": "Tsing Ma Bridge",
+  "a": [
+   22.34226,
+   114.07058
+  ],
+  "b": [
+   22.36052,
+   114.07776
+  ],
+  "type": "suspension",
+  "built": 1997,
+  "gone": null,
+  "lengthM": 2160,
+  "mainSpanM": 1377,
+  "spans": 3,
+  "deckHeightM": 62,
+  "towerHeightM": 206,
+  "towers": 2,
+  "lanes": "road+rail",
+  "color": "#b0b8c0",
+  "material": "steel",
+  "features": "double-deck suspension bridge to Hong Kong airport",
+  "wiki": "Tsing Ma Bridge",
+  "src": "https://en.wikipedia.org/wiki/Tsing_Ma_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   22.35139,
+   114.07417
+  ]
+ },
+ {
+  "id": "stonecutters-bridge",
+  "name": "Stonecutters Bridge",
+  "a": [
+   22.31882,
+   114.11694
+  ],
+  "b": [
+   22.33268,
+   114.12095
+  ],
+  "type": "cable-stayed",
+  "built": 2009,
+  "start": 2004,
+  "gone": null,
+  "lengthM": 1596,
+  "mainSpanM": 1018,
+  "spans": 3,
+  "deckHeightM": 73.5,
+  "towerHeightM": 293.5,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#b4b8bc",
+  "material": "steel",
+  "features": "two stainless-steel clad towers with upper tubular spires, Hong Kong",
+  "wiki": "Stonecutters Bridge",
+  "src": "https://en.wikipedia.org/wiki/Stonecutters_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   22.32575,
+   114.11894
+  ]
+ },
+ {
+  "id": "pont-de-normandie",
+  "name": "Pont de Normandie",
+  "a": [
+   49.41931,
+   0.26181
+  ],
+  "b": [
+   49.43849,
+   0.26439
+  ],
+  "type": "cable-stayed",
+  "built": 1995,
+  "start": 1993,
+  "gone": null,
+  "lengthM": 2141,
+  "mainSpanM": 856,
+  "deckHeightM": 52,
+  "towerHeightM": 202.7,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#e8e8e8",
+  "material": "concrete",
+  "features": "A-shaped pylons, fan stays, Seine estuary",
+  "wiki": "Pont de Normandie",
+  "src": "https://en.wikipedia.org/wiki/Pont_de_Normandie",
+  "endsSrc": "bearing",
+  "center": [
+   49.4289,
+   0.2631
+  ]
+ },
+ {
+  "id": "tancarville-bridge",
+  "name": "Tancarville Bridge",
+  "a": [
+   49.47002,
+   0.45547
+  ],
+  "b": [
+   49.47438,
+   0.47393
+  ],
+  "type": "suspension",
+  "built": 1959,
+  "gone": null,
+  "lengthM": 1420,
+  "mainSpanM": 608,
+  "spans": 3,
+  "deckHeightM": 48,
+  "towerHeightM": 125,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#8a9a8a",
+  "material": "steel",
+  "features": "grey suspension bridge across the Seine estuary",
+  "wiki": "Tancarville Bridge",
+  "src": "https://en.wikipedia.org/wiki/Tancarville_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   49.4722,
+   0.4647
+  ]
+ },
+ {
+  "id": "ponte-25-de-abril",
+  "name": "25 de Abril Bridge",
+  "a": [
+   38.67515,
+   -9.18007
+  ],
+  "b": [
+   38.70325,
+   -9.17373
+  ],
+  "type": "suspension",
+  "built": 1966,
+  "start": 1962,
+  "gone": null,
+  "lengthM": 3173,
+  "mainSpanM": 1012.9,
+  "spans": 3,
+  "deckHeightM": 70,
+  "towerHeightM": 190,
+  "towers": 2,
+  "lanes": "road+rail",
+  "color": "#c0362c",
+  "material": "steel",
+  "features": "International Orange suspension bridge (Salazar bridge), rail deck added 1999 beneath",
+  "wiki": "25 de Abril Bridge",
+  "src": "https://en.wikipedia.org/wiki/25_de_Abril_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   38.6892,
+   -9.1769
+  ]
+ },
+ {
+  "id": "vasco-da-gama-bridge",
+  "name": "Vasco da Gama Bridge",
+  "a": [
+   38.73551,
+   -9.13617
+  ],
+  "b": [
+   38.78842,
+   -8.94976
+  ],
+  "type": "cable-stayed",
+  "built": 1998,
+  "start": 1995,
+  "gone": null,
+  "lengthM": 17200,
+  "mainSpanM": 420,
+  "towerHeightM": 150,
+  "lanes": "road",
+  "color": "#e0e8ee",
+  "material": "concrete",
+  "features": "very long Tagus viaduct, main cable-stayed span of 420 m",
+  "wiki": "Vasco da Gama Bridge",
+  "src": "https://en.wikipedia.org/wiki/Vasco_da_Gama_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   38.762,
+   -9.043
+  ]
+ },
+ {
+  "id": "dom-luis-i-bridge",
+  "name": "Dom Luís I Bridge",
+  "a": [
+   41.13986,
+   -8.61164
+  ],
+  "b": [
+   41.13986,
+   -8.60703
+  ],
+  "type": "steel-arch",
+  "built": 1886,
+  "start": 1881,
+  "gone": null,
+  "lengthM": 385.5,
+  "mainSpanM": 172,
+  "spans": 1,
+  "deckHeightM": 60,
+  "lanes": "road",
+  "color": "#7a8a95",
+  "material": "iron",
+  "features": "two-deck iron arch (Seyrig); metro on upper deck, Porto–Gaia",
+  "wiki": "Dom Luís I Bridge",
+  "src": "https://en.wikipedia.org/wiki/Dom_Lu%C3%ADs_I_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   41.13986,
+   -8.60934
+  ]
+ },
+ {
+  "id": "maria-pia-bridge",
+  "name": "Maria Pia Bridge",
+  "a": [
+   41.14,
+   -8.5993
+  ],
+  "b": [
+   41.13945,
+   -8.59515
+  ],
+  "type": "steel-arch",
+  "built": 1877,
+  "start": 1876,
+  "gone": null,
+  "lengthM": 353,
+  "mainSpanM": 160,
+  "spans": 1,
+  "deckHeightM": 60,
+  "lanes": "rail",
+  "color": "#c9c1b0",
+  "material": "iron",
+  "features": "Eiffel's crescent arch before Garabit; Porto",
+  "wiki": "Maria Pia Bridge",
+  "src": "https://en.wikipedia.org/wiki/Maria_Pia_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   41.13972,
+   -8.59722
+  ]
+ },
+ {
+  "id": "szechenyi-chain-bridge",
+  "name": "Széchenyi Chain Bridge",
+  "a": [
+   47.49874,
+   19.04112
+  ],
+  "b": [
+   47.49904,
+   19.0461
+  ],
+  "type": "suspension",
+  "built": 1849,
+  "start": 1840,
+  "gone": null,
+  "rebuilt": [
+   [
+    1945,
+    "blown up; rebuilt 1949"
+   ]
+  ],
+  "lengthM": 375,
+  "mainSpanM": 202,
+  "spans": 3,
+  "deckHeightM": 15,
+  "towerHeightM": 48,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#8e8e86",
+  "material": "iron",
+  "features": "chain suspension bridge with two lion guardians at Buda end, stone triumphal-arch towers",
+  "wiki": "Széchenyi Chain Bridge",
+  "src": "https://en.wikipedia.org/wiki/Sz%C3%A9chenyi_Chain_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   47.49889,
+   19.04361
+  ]
+ },
+ {
+  "id": "liberty-bridge-budapest",
+  "name": "Liberty Bridge (Budapest)",
+  "a": [
+   47.48583,
+   19.05278
+  ],
+  "b": [
+   47.48583,
+   19.05722
+  ],
+  "type": "other",
+  "built": 1896,
+  "start": 1894,
+  "gone": null,
+  "lengthM": 333.6,
+  "mainSpanM": 175,
+  "spans": 3,
+  "lanes": "road",
+  "color": "#7aa059",
+  "material": "iron",
+  "features": "green cantilever truss with Turul bird finials, Budapest",
+  "wiki": "Liberty Bridge (Budapest)",
+  "src": "https://en.wikipedia.org/wiki/Liberty_Bridge_%28Budapest%29",
+  "endsSrc": "bearing",
+  "center": [
+   47.48583,
+   19.055
+  ]
+ },
+ {
+  "id": "elisabeth-bridge-budapest",
+  "name": "Elisabeth Bridge (Budapest)",
+  "a": [
+   47.4908,
+   19.04638
+  ],
+  "b": [
+   47.4908,
+   19.05142
+  ],
+  "type": "suspension",
+  "built": 1903,
+  "start": 1961,
+  "gone": null,
+  "rebuilt": [
+   [
+    1945,
+    "destroyed"
+   ],
+   [
+    1964,
+    "rebuilt as cable bridge"
+   ]
+  ],
+  "lengthM": 378.6,
+  "mainSpanM": 290,
+  "spans": 3,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#f0f0f0",
+  "material": "steel",
+  "features": "white cable-suspension bridge, modern replacement of 1903 chain bridge",
+  "wiki": "Elisabeth Bridge (Budapest)",
+  "src": "https://en.wikipedia.org/wiki/Elisabeth_Bridge_%28Budapest%29",
+  "endsSrc": "bearing",
+  "center": [
+   47.4908,
+   19.0489
+  ]
+ },
+ {
+  "id": "bosphorus-bridge",
+  "name": "Bosphorus Bridge",
+  "a": [
+   41.04768,
+   29.0257
+  ],
+  "b": [
+   41.04288,
+   29.04318
+  ],
+  "type": "suspension",
+  "built": 1973,
+  "start": 1970,
+  "gone": null,
+  "lengthM": 1560,
+  "mainSpanM": 1074,
+  "spans": 3,
+  "deckHeightM": 64,
+  "towerHeightM": 165,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#c9ced4",
+  "material": "steel",
+  "features": "first Bosphorus crossing, joins Europe and Asia",
+  "wiki": "Bosphorus Bridge",
+  "src": "https://en.wikipedia.org/wiki/Bosphorus_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   41.04528,
+   29.03444
+  ]
+ },
+ {
+  "id": "fatih-sultan-mehmet-bridge",
+  "name": "Fatih Sultan Mehmet Bridge",
+  "a": [
+   41.09362,
+   29.05353
+  ],
+  "b": [
+   41.08898,
+   29.07047
+  ],
+  "type": "suspension",
+  "built": 1988,
+  "start": 1985,
+  "gone": null,
+  "lengthM": 1510,
+  "mainSpanM": 1090,
+  "spans": 3,
+  "deckHeightM": 64,
+  "towerHeightM": 105,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#c9ced4",
+  "material": "steel",
+  "features": "second Bosphorus bridge",
+  "wiki": "Fatih Sultan Mehmet Bridge",
+  "src": "https://en.wikipedia.org/wiki/Fatih_Sultan_Mehmet_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   41.0913,
+   29.062
+  ]
+ },
+ {
+  "id": "yavuz-sultan-selim-bridge",
+  "name": "Yavuz Sultan Selim Bridge",
+  "a": [
+   41.21443,
+   29.09814
+  ],
+  "b": [
+   41.20777,
+   29.12245
+  ],
+  "type": "cable-stayed",
+  "built": 2016,
+  "start": 2013,
+  "gone": null,
+  "lengthM": 2164,
+  "mainSpanM": 1408,
+  "spans": 3,
+  "deckHeightM": 64,
+  "towerHeightM": 322,
+  "towers": 2,
+  "lanes": "road+rail",
+  "color": "#e8e8e8",
+  "material": "steel",
+  "features": "hybrid cable-stayed/suspension, tallest Bosphorus pylons",
+  "wiki": "Yavuz Sultan Selim Bridge",
+  "src": "https://en.wikipedia.org/wiki/Yavuz_Sultan_Selim_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   41.2111,
+   29.1103
+  ]
+ },
+ {
+  "id": "galata-bridge",
+  "name": "Galata Bridge",
+  "a": [
+   41.01858,
+   28.97082
+  ],
+  "b": [
+   41.02142,
+   28.97529
+  ],
+  "type": "bascule",
+  "built": 1994,
+  "start": 1992,
+  "gone": null,
+  "rebuilt": [
+   [
+    1845,
+    "first Galata bridge"
+   ],
+   [
+    1875,
+    "iron replacement"
+   ],
+   [
+    1912,
+    "German-built floating bridge"
+   ],
+   [
+    1992,
+    "burned; 1994 new"
+   ]
+  ],
+  "lengthM": 490,
+  "mainSpanM": 80,
+  "lanes": "road",
+  "color": "#7a7a7a",
+  "material": "steel",
+  "features": "Golden Horn bridge with fish restaurants below; shops; several earlier versions since 1845",
+  "wiki": "Galata Bridge",
+  "src": "https://en.wikipedia.org/wiki/Galata_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   41.02,
+   28.97306
+  ]
+ },
+ {
+  "id": "1915-canakkale-bridge",
+  "name": "1915 Çanakkale Bridge",
+  "a": [
+   40.32535,
+   26.61689
+  ],
+  "b": [
+   40.35465,
+   26.65534
+  ],
+  "type": "suspension",
+  "built": 2022,
+  "start": 2017,
+  "gone": null,
+  "lengthM": 4608,
+  "mainSpanM": 2023,
+  "spans": 3,
+  "deckHeightM": 70,
+  "towerHeightM": 334,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#c0362c",
+  "material": "steel",
+  "features": "world's longest suspension span: red-and-white towers across the Dardanelles",
+  "wiki": "1915 Çanakkale Bridge",
+  "src": "https://en.wikipedia.org/wiki/1915_%C3%87anakkale_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   40.34,
+   26.63611
+  ]
+ },
+ {
+  "id": "osman-gazi-bridge",
+  "name": "Osman Gazi Bridge",
+  "a": [
+   40.75107,
+   29.50074
+  ],
+  "b": [
+   40.75932,
+   29.53066
+  ],
+  "type": "suspension",
+  "built": 2016,
+  "gone": null,
+  "lengthM": 2682,
+  "mainSpanM": 1550,
+  "spans": 3,
+  "deckHeightM": 64,
+  "towerHeightM": 252,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#c9ced4",
+  "material": "steel",
+  "features": "suspension bridge over the Gulf of İzmit",
+  "wiki": "Osman Gazi Bridge",
+  "src": "https://en.wikipedia.org/wiki/Osman_Gazi_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   40.7552,
+   29.5157
+  ]
+ },
+ {
+  "id": "rhine-bridge-kehl",
+  "name": "Rhine Bridge",
+  "a": [
+   48.57556,
+   7.79921
+  ],
+  "b": [
+   48.57556,
+   7.80245
+  ],
+  "type": "truss",
+  "built": 1861,
+  "gone": null,
+  "lengthM": 238.4,
+  "deckHeightM": 8,
+  "lanes": "rail",
+  "color": "#555555",
+  "material": "iron",
+  "features": "truss bridge Strasbourg–Kehl (rail and road)",
+  "wiki": "Rhine Bridge",
+  "src": "https://en.wikipedia.org/wiki/Rhine_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   48.57556,
+   7.80083
+  ]
+ },
+ {
+  "id": "hohenzollern-bridge",
+  "name": "Hohenzollern Bridge",
+  "a": [
+   50.94139,
+   6.96264
+  ],
+  "b": [
+   50.94139,
+   6.96847
+  ],
+  "type": "steel-arch",
+  "built": 1911,
+  "gone": null,
+  "rebuilt": [
+   [
+    1945,
+    "destroyed"
+   ],
+   [
+    1948,
+    "rebuilt"
+   ]
+  ],
+  "lengthM": 409,
+  "mainSpanM": 167.75,
+  "spans": 3,
+  "towers": 2,
+  "lanes": "rail",
+  "color": "#8e8e86",
+  "material": "steel",
+  "features": "Cologne rail bridge with towers; padlock fence on walkway",
+  "wiki": "Hohenzollern Bridge",
+  "src": "https://en.wikipedia.org/wiki/Hohenzollern_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   50.94139,
+   6.96556
+  ]
+ },
+ {
+  "id": "loschwitz-bridge",
+  "name": "Loschwitz Bridge",
+  "a": [
+   51.05279,
+   13.80927
+  ],
+  "b": [
+   51.05441,
+   13.81233
+  ],
+  "type": "cantilever",
+  "built": 1893,
+  "gone": null,
+  "lengthM": 280,
+  "mainSpanM": 141.5,
+  "spans": 3,
+  "lanes": "road",
+  "color": "#7a9ac8",
+  "material": "steel",
+  "features": "'Blue Wonder': cantilever bridge in Dresden",
+  "wiki": "Loschwitz Bridge",
+  "src": "https://en.wikipedia.org/wiki/Loschwitz_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   51.0536,
+   13.8108
+  ]
+ },
+ {
+  "id": "oberbaum-bridge",
+  "name": "Oberbaum Bridge",
+  "a": [
+   52.5019,
+   13.44446
+  ],
+  "b": [
+   52.5019,
+   13.44674
+  ],
+  "type": "truss",
+  "built": 1896,
+  "gone": null,
+  "rebuilt": [
+   [
+    1945,
+    "destroyed"
+   ],
+   [
+    1996,
+    "rebuilt"
+   ]
+  ],
+  "lengthM": 154,
+  "towers": 2,
+  "lanes": "road+rail",
+  "color": "#a6483d",
+  "material": "brick",
+  "features": "double-deck brick bridge with Gothic towers and U-Bahn on upper tier, Berlin",
+  "wiki": "Oberbaum Bridge",
+  "src": "https://en.wikipedia.org/wiki/Oberbaum_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   52.5019,
+   13.4456
+  ]
+ },
+ {
+  "id": "mungsten-bridge",
+  "name": "Müngsten Bridge",
+  "a": [
+   51.15908,
+   7.13098
+  ],
+  "b": [
+   51.16203,
+   7.13569
+  ],
+  "type": "steel-arch",
+  "built": 1897,
+  "gone": null,
+  "lengthM": 465,
+  "mainSpanM": 170,
+  "deckHeightM": 107,
+  "lanes": "rail",
+  "color": "#555555",
+  "material": "steel",
+  "features": "tallest railway bridge in Germany, steel arch over Wupper",
+  "wiki": "Müngsten Bridge",
+  "src": "https://en.wikipedia.org/wiki/M%C3%BCngsten_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   51.16056,
+   7.13333
+  ]
+ },
+ {
+  "id": "goltzsch-viaduct",
+  "name": "Göltzsch Viaduct",
+  "a": [
+   50.61992,
+   12.24583
+  ],
+  "b": [
+   50.62508,
+   12.24583
+  ],
+  "type": "viaduct",
+  "built": 1851,
+  "gone": null,
+  "lengthM": 574,
+  "mainSpanM": 31,
+  "spans": 98,
+  "deckHeightM": 78,
+  "lanes": "rail",
+  "color": "#a8654a",
+  "material": "brick",
+  "features": "largest brick bridge in the world: 98 arches in four tiers",
+  "wiki": "Göltzsch Viaduct",
+  "src": "https://en.wikipedia.org/wiki/G%C3%B6ltzsch_Viaduct",
+  "endsSrc": "bearing",
+  "center": [
+   50.6225,
+   12.24583
+  ]
+ },
+ {
+  "id": "landwasser-viaduct",
+  "name": "Landwasser Viaduct",
+  "a": [
+   46.68104,
+   9.67667
+  ],
+  "b": [
+   46.68062,
+   9.675
+  ],
+  "type": "viaduct",
+  "built": 1902,
+  "gone": null,
+  "lengthM": 136,
+  "mainSpanM": 20,
+  "spans": 6,
+  "deckHeightM": 65,
+  "lanes": "rail",
+  "color": "#c9c1b0",
+  "material": "stone",
+  "features": "curved six-arch limestone viaduct, Rhaetian Railway",
+  "wiki": "Landwasser Viaduct",
+  "src": "https://en.wikipedia.org/wiki/Landwasser_Viaduct",
+  "endsSrc": "bearing",
+  "center": [
+   46.68083,
+   9.67583
+  ]
+ },
+ {
+  "id": "salginatobel-bridge",
+  "name": "Salginatobel Bridge",
+  "a": [
+   46.9813,
+   9.71816
+  ],
+  "b": [
+   46.98234,
+   9.71729
+  ],
+  "type": "other",
+  "built": 1930,
+  "gone": null,
+  "lengthM": 133,
+  "mainSpanM": 90,
+  "spans": 1,
+  "deckHeightM": 90,
+  "lanes": "road",
+  "color": "#c9c1b0",
+  "material": "concrete",
+  "features": "Maillart's elegant three-hinged concrete box arch",
+  "wiki": "Salginatobel Bridge",
+  "src": "https://en.wikipedia.org/wiki/Salginatobel_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   46.98182,
+   9.71772
+  ]
+ },
+ {
+  "id": "pont-de-pierre-bordeaux",
+  "name": "Pont de pierre (Bordeaux)",
+  "a": [
+   44.83695,
+   -0.56528
+  ],
+  "b": [
+   44.84005,
+   -0.56092
+  ],
+  "type": "stone-arch",
+  "built": 1822,
+  "gone": null,
+  "lengthM": 487,
+  "spans": 17,
+  "lanes": "road",
+  "color": "#d8cca8",
+  "material": "stone",
+  "features": "17-arch Napoleonic stone bridge on the Garonne",
+  "wiki": "Pont de pierre (Bordeaux)",
+  "src": "https://en.wikipedia.org/wiki/Pont_de_pierre_%28Bordeaux%29",
+  "endsSrc": "bearing",
+  "center": [
+   44.8385,
+   -0.5631
+  ]
+ },
+ {
+  "id": "garabit-viaduct",
+  "name": "Garabit viaduct",
+  "a": [
+   44.97322,
+   3.17544
+  ],
+  "b": [
+   44.97738,
+   3.17956
+  ],
+  "type": "steel-arch",
+  "built": 1884,
+  "start": 1882,
+  "gone": null,
+  "lengthM": 565,
+  "mainSpanM": 165,
+  "deckHeightM": 124,
+  "lanes": "rail",
+  "color": "#6a6a6a",
+  "material": "iron",
+  "features": "Eiffel's crescent-arch railway viaduct over the Truyère",
+  "wiki": "Garabit viaduct",
+  "src": "https://en.wikipedia.org/wiki/Garabit_viaduct",
+  "endsSrc": "bearing",
+  "center": [
+   44.9753,
+   3.1775
+  ]
+ },
+ {
+  "id": "ponte-morandi",
+  "name": "Ponte Morandi",
+  "a": [
+   44.42084,
+   8.88634
+  ],
+  "b": [
+   44.43083,
+   8.89143
+  ],
+  "type": "cable-stayed",
+  "built": 1967,
+  "start": 1963,
+  "gone": 2018,
+  "lengthM": 1182,
+  "mainSpanM": 210,
+  "deckHeightM": 45,
+  "towerHeightM": 90.5,
+  "towers": 3,
+  "lanes": "road",
+  "color": "#a8a8a2",
+  "material": "concrete",
+  "features": "Genoa Polcevera Viaduct with concrete-sheathed stays; collapsed 14 Aug 2018",
+  "wiki": "Ponte Morandi",
+  "src": "https://en.wikipedia.org/wiki/Ponte_Morandi",
+  "endsSrc": "bearing",
+  "center": [
+   44.42583,
+   8.88889
+  ]
+ },
+ {
+  "id": "vizcaya-bridge",
+  "name": "Vizcaya Bridge",
+  "a": [
+   43.3231,
+   -3.01789
+  ],
+  "b": [
+   43.3231,
+   -3.01591
+  ],
+  "type": "other",
+  "built": 1893,
+  "gone": null,
+  "lengthM": 160,
+  "mainSpanM": 160,
+  "spans": 1,
+  "deckHeightM": 45,
+  "towerHeightM": 61,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#4a6a4a",
+  "material": "iron",
+  "features": "transporter bridge with gondola hanging from a high iron girder; UNESCO",
+  "wiki": "Vizcaya Bridge",
+  "src": "https://en.wikipedia.org/wiki/Vizcaya_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   43.3231,
+   -3.0169
+  ]
+ },
+ {
+  "id": "puente-de-isabel-ii",
+  "name": "Puente de Isabel II",
+  "a": [
+   37.38622,
+   -6.00318
+  ],
+  "b": [
+   37.38622,
+   -6.00149
+  ],
+  "type": "stone-arch",
+  "built": 1852,
+  "gone": null,
+  "lengthM": 149,
+  "spans": 3,
+  "lanes": "road",
+  "color": "#4a5a4a",
+  "material": "iron",
+  "features": "Seville Triana iron bridge by Eiffel's predecessors",
+  "wiki": "Puente de Isabel II",
+  "src": "https://en.wikipedia.org/wiki/Puente_de_Isabel_II",
+  "endsSrc": "bearing",
+  "center": [
+   37.38622,
+   -6.00233
+  ]
+ },
+ {
+  "id": "howrah-bridge",
+  "name": "Howrah Bridge",
+  "a": [
+   22.58565,
+   88.34352
+  ],
+  "b": [
+   22.58455,
+   88.35028
+  ],
+  "type": "cantilever",
+  "built": 1943,
+  "start": 1936,
+  "gone": null,
+  "lengthM": 705,
+  "mainSpanM": 457.2,
+  "spans": 3,
+  "towerHeightM": 82,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#8a6a45",
+  "material": "steel",
+  "features": "rivet-built cantilever, no nuts or bolts, over Hooghly",
+  "wiki": "Howrah Bridge",
+  "src": "https://en.wikipedia.org/wiki/Howrah_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   22.5851,
+   88.3469
+  ]
+ },
+ {
+  "id": "pamban-bridge",
+  "name": "Pamban Bridge",
+  "a": [
+   9.27453,
+   79.20635
+  ],
+  "b": [
+   9.29061,
+   79.19694
+  ],
+  "type": "other",
+  "built": 1914,
+  "start": 1911,
+  "gone": null,
+  "lengthM": 2065,
+  "lanes": "rail",
+  "color": "#8a7a68",
+  "material": "steel",
+  "features": "India's first sea bridge: Scherzer rolling lift span over Palk Strait",
+  "wiki": "Pamban Bridge",
+  "src": "https://en.wikipedia.org/wiki/Pamban_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   9.28257,
+   79.20164
+  ]
+ },
+ {
+  "id": "bandra-worli-sea-link",
+  "name": "Bandra–Worli Sea Link",
+  "a": [
+   19.0116,
+   72.82182
+  ],
+  "b": [
+   19.0612,
+   72.81257
+  ],
+  "type": "cable-stayed",
+  "built": 2009,
+  "start": 2000,
+  "gone": null,
+  "lengthM": 5600,
+  "mainSpanM": 250,
+  "towerHeightM": 126,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#d0d4d8",
+  "material": "concrete",
+  "features": "8-lane cable-stayed link over Mahim Bay in Mumbai",
+  "wiki": "Bandra–Worli Sea Link",
+  "src": "https://en.wikipedia.org/wiki/Bandra%E2%80%93Worli_Sea_Link",
+  "endsSrc": "bearing",
+  "center": [
+   19.0364,
+   72.8172
+  ]
+ },
+ {
+  "id": "bogibeel-bridge",
+  "name": "Bogibeel Bridge",
+  "a": [
+   27.38774,
+   94.76883
+  ],
+  "b": [
+   27.42948,
+   94.75172
+  ],
+  "type": "truss",
+  "built": 2018,
+  "start": 2002,
+  "gone": null,
+  "lengthM": 4940,
+  "mainSpanM": 125,
+  "spans": 41,
+  "lanes": "road+rail",
+  "color": "#8e9aa4",
+  "material": "steel",
+  "features": "India's longest rail-road bridge over the Brahmaputra",
+  "wiki": "Bogibeel Bridge",
+  "src": "https://en.wikipedia.org/wiki/Bogibeel_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   27.40861,
+   94.76028
+  ]
+ },
+ {
+  "id": "banpo-bridge",
+  "name": "Banpo Bridge",
+  "a": [
+   37.50918,
+   126.9989
+  ],
+  "b": [
+   37.52182,
+   126.9931
+  ],
+  "type": "other",
+  "built": 1982,
+  "gone": null,
+  "lengthM": 1495,
+  "lanes": "road",
+  "color": "#8aa0c0",
+  "material": "concrete",
+  "features": "double-deck with Rainbow Fountain jets, Seoul",
+  "wiki": "Banpo Bridge",
+  "src": "https://en.wikipedia.org/wiki/Banpo_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   37.5155,
+   126.996
+  ]
+ },
+ {
+  "id": "rama-viii-bridge",
+  "name": "Rama VIII Bridge",
+  "a": [
+   13.76844,
+   100.49474
+  ],
+  "b": [
+   13.7699,
+   100.49887
+  ],
+  "type": "cable-stayed",
+  "built": 2002,
+  "start": 1999,
+  "gone": null,
+  "lengthM": 475,
+  "mainSpanM": 300,
+  "spans": 1,
+  "towerHeightM": 160,
+  "towers": 1,
+  "lanes": "road",
+  "color": "#e0d8c8",
+  "material": "steel",
+  "features": "single asymmetric harp pylon, Bangkok",
+  "wiki": "Rama VIII Bridge",
+  "src": "https://en.wikipedia.org/wiki/Rama_VIII_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   13.76917,
+   100.49681
+  ]
+ },
+ {
+  "id": "long-bien-bridge",
+  "name": "Long Biên Bridge",
+  "a": [
+   21.03442,
+   105.85337
+  ],
+  "b": [
+   21.05225,
+   105.86441
+  ],
+  "type": "cantilever",
+  "built": 1902,
+  "start": 1899,
+  "gone": null,
+  "lengthM": 2290,
+  "lanes": "road+rail",
+  "color": "#7a8a98",
+  "material": "steel",
+  "features": "French colonial cantilever railway bridge over Red River, Hanoi",
+  "wiki": "Long Biên Bridge",
+  "src": "https://en.wikipedia.org/wiki/Long_Bi%C3%AAn_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   21.04333,
+   105.85889
+  ]
+ },
+ {
+  "id": "luding-bridge",
+  "name": "Luding Bridge",
+  "a": [
+   29.91454,
+   102.22937
+  ],
+  "b": [
+   29.91446,
+   102.23043
+  ],
+  "type": "suspension",
+  "built": 1706,
+  "gone": null,
+  "lengthM": 103,
+  "mainSpanM": 100,
+  "spans": 1,
+  "towers": 2,
+  "lanes": "foot",
+  "color": "#4a3a3a",
+  "material": "iron",
+  "features": "iron-chain bridge; Long March 1935",
+  "wiki": "Luding Bridge",
+  "src": "https://en.wikipedia.org/wiki/Luding_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   29.9145,
+   102.2299
+  ]
+ },
+ {
+  "id": "dragon-bridge-da-nang",
+  "name": "Dragon Bridge (Da Nang)",
+  "a": [
+   16.0583,
+   108.2256
+  ],
+  "b": [
+   16.06393,
+   108.22773
+  ],
+  "type": "steel-arch",
+  "built": 2013,
+  "start": 2009,
+  "gone": null,
+  "lengthM": 666,
+  "mainSpanM": 200,
+  "lanes": "road",
+  "color": "#d8b04a",
+  "material": "steel",
+  "features": "dragon-shaped steel arch that breathes fire and water at weekends",
+  "wiki": "Dragon Bridge (Da Nang)",
+  "src": "https://en.wikipedia.org/wiki/Dragon_Bridge_%28Da_Nang%29",
+  "endsSrc": "bearing",
+  "center": [
+   16.06111,
+   108.22667
+  ]
+ },
+ {
+  "id": "ha-penny-bridge",
+  "name": "Ha'penny Bridge",
+  "a": [
+   53.34591,
+   -6.263
+  ],
+  "b": [
+   53.34629,
+   -6.263
+  ],
+  "type": "other",
+  "built": 1816,
+  "gone": null,
+  "lengthM": 43,
+  "spans": 1,
+  "lanes": "foot",
+  "color": "#e8e8e8",
+  "material": "iron",
+  "features": "white cast-iron lamp-lit footbridge over the Liffey",
+  "wiki": "Ha'penny Bridge",
+  "src": "https://en.wikipedia.org/wiki/Ha%27penny_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   53.3461,
+   -6.263
+  ]
+ },
+ {
+  "id": "samuel-beckett-bridge",
+  "name": "Samuel Beckett Bridge",
+  "a": [
+   53.34647,
+   -6.24146
+  ],
+  "b": [
+   53.34753,
+   -6.24114
+  ],
+  "type": "cable-stayed",
+  "built": 2009,
+  "start": 2007,
+  "gone": null,
+  "lengthM": 120,
+  "spans": 1,
+  "towerHeightM": 48,
+  "towers": 1,
+  "lanes": "road",
+  "color": "#e0e0e0",
+  "material": "steel",
+  "features": "harp-shaped swing bridge over the Liffey",
+  "wiki": "Samuel Beckett Bridge",
+  "src": "https://en.wikipedia.org/wiki/Samuel_Beckett_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   53.347,
+   -6.2413
+  ]
+ },
+ {
+  "id": "kinzua-bridge",
+  "name": "Kinzua Bridge",
+  "a": [
+   41.76111,
+   -78.59238
+  ],
+  "b": [
+   41.76111,
+   -78.58484
+  ],
+  "type": "viaduct",
+  "built": 1882,
+  "gone": null,
+  "rebuilt": [
+   [
+    1900,
+    "steel replacement"
+   ],
+   [
+    2003,
+    "tornado collapse of part"
+   ]
+  ],
+  "lengthM": 625,
+  "deckHeightM": 92,
+  "lanes": "rail",
+  "color": "#6a4a3a",
+  "material": "iron",
+  "features": "Kinzua Viaduct: tallest railway bridge once; 2003 tornado collapse",
+  "wiki": "Kinzua Bridge",
+  "src": "https://en.wikipedia.org/wiki/Kinzua_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   41.76111,
+   -78.58861
+  ]
+ },
+ {
+  "id": "walkway-over-the-hudson",
+  "name": "Walkway over the Hudson",
+  "a": [
+   41.71055,
+   -73.95685
+  ],
+  "b": [
+   41.71055,
+   -73.93204
+  ],
+  "type": "cantilever",
+  "built": 1889,
+  "start": 1886,
+  "gone": null,
+  "lengthM": 2060,
+  "mainSpanM": 167,
+  "deckHeightM": 67,
+  "lanes": "foot",
+  "color": "#555555",
+  "material": "steel",
+  "features": "Poughkeepsie rail bridge, now longest pedestrian bridge",
+  "wiki": "Walkway over the Hudson",
+  "src": "https://en.wikipedia.org/wiki/Walkway_over_the_Hudson",
+  "endsSrc": "bearing",
+  "center": [
+   41.71056,
+   -73.94444
+  ]
+ },
+ {
+  "id": "wheeling-suspension-bridge",
+  "name": "Wheeling Suspension Bridge",
+  "a": [
+   40.06959,
+   -80.72565
+  ],
+  "b": [
+   40.07097,
+   -80.72879
+  ],
+  "type": "suspension",
+  "built": 1849,
+  "start": 1847,
+  "gone": null,
+  "lengthM": 308,
+  "mainSpanM": 308,
+  "spans": 1,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#a89a7e",
+  "material": "iron",
+  "features": "oldest long-span suspension bridge in US, Ellet",
+  "wiki": "Wheeling Suspension Bridge",
+  "src": "https://en.wikipedia.org/wiki/Wheeling_Suspension_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   40.07028,
+   -80.72722
+  ]
+ },
+ {
+  "id": "gladesville-bridge",
+  "name": "Gladesville Bridge",
+  "a": [
+   -33.842,
+   151.14457
+  ],
+  "b": [
+   -33.842,
+   151.15083
+  ],
+  "type": "other",
+  "built": 1964,
+  "gone": null,
+  "lengthM": 579,
+  "mainSpanM": 305,
+  "spans": 6,
+  "lanes": "road",
+  "color": "#c9c1b0",
+  "material": "concrete",
+  "features": "longest concrete arch span of its time",
+  "wiki": "Gladesville Bridge",
+  "src": "https://en.wikipedia.org/wiki/Gladesville_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   -33.842,
+   151.1477
+  ]
+ },
+ {
+  "id": "pyrmont-bridge",
+  "name": "Pyrmont Bridge",
+  "a": [
+   -33.87221,
+   151.20101
+  ],
+  "b": [
+   -33.86894,
+   151.20032
+  ],
+  "type": "movable",
+  "built": 1902,
+  "gone": null,
+  "lengthM": 369,
+  "spans": 14,
+  "lanes": "foot",
+  "color": "#9a6b47",
+  "material": "timber",
+  "features": "world's oldest surviving electrically operated swing bridge, Sydney",
+  "wiki": "Pyrmont Bridge",
+  "src": "https://en.wikipedia.org/wiki/Pyrmont_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   -33.87058,
+   151.20067
+  ]
+ },
+ {
+  "id": "capilano-suspension-bridge",
+  "name": "Capilano Suspension Bridge",
+  "a": [
+   49.34228,
+   -123.11546
+  ],
+  "b": [
+   49.34347,
+   -123.1148
+  ],
+  "type": "suspension",
+  "built": 1889,
+  "gone": null,
+  "lengthM": 140,
+  "mainSpanM": 140,
+  "spans": 1,
+  "deckHeightM": 70,
+  "towers": 2,
+  "lanes": "foot",
+  "color": "#8a6a45",
+  "material": "timber",
+  "features": "wobbly cable footbridge over Capilano River Canyon, Vancouver",
+  "wiki": "Capilano Suspension Bridge",
+  "src": "https://en.wikipedia.org/wiki/Capilano_Suspension_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   49.34287,
+   -123.11513
+  ]
+ },
+ {
+  "id": "carrick-a-rede-rope-bridge",
+  "name": "Carrick-a-Rede Rope Bridge",
+  "a": [
+   55.24006,
+   -6.33488
+  ],
+  "b": [
+   55.23994,
+   -6.33512
+  ],
+  "type": "suspension",
+  "built": 2008,
+  "gone": null,
+  "lengthM": 20,
+  "mainSpanM": 20,
+  "spans": 1,
+  "deckHeightM": 30,
+  "lanes": "foot",
+  "color": "#8a6a45",
+  "material": "timber",
+  "features": "rope footbridge to island, N Ireland",
+  "wiki": "Carrick-a-Rede Rope Bridge",
+  "src": "https://en.wikipedia.org/wiki/Carrick-a-Rede_Rope_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   55.24,
+   -6.335
+  ]
+ },
+ {
+  "id": "queshuachaca",
+  "name": "Q'eswachaka rope bridge",
+  "a": [
+   -14.3814,
+   -71.48387
+  ],
+  "b": [
+   -14.3814,
+   -71.48413
+  ],
+  "type": "suspension",
+  "built": 1400,
+  "start": 1400,
+  "gone": null,
+  "lengthM": 28,
+  "mainSpanM": 28,
+  "spans": 1,
+  "towers": 2,
+  "lanes": "foot",
+  "color": "#b09a6a",
+  "material": "other",
+  "features": "Inca grass-rope bridge rebuilt annually, Apurímac",
+  "wiki": "Queshuachaca",
+  "src": "https://en.wikipedia.org/wiki/Queshuachaca",
+  "endsSrc": "bearing",
+  "center": [
+   -14.3814,
+   -71.484
+  ]
+ },
+ {
+  "id": "zhangjiajie-glass-bridge",
+  "name": "Zhangjiajie Glass Bridge",
+  "a": [
+   29.39688,
+   110.69744
+  ],
+  "b": [
+   29.40052,
+   110.69896
+  ],
+  "type": "suspension",
+  "built": 2016,
+  "start": 2015,
+  "gone": null,
+  "lengthM": 430,
+  "mainSpanM": 430,
+  "spans": 1,
+  "deckHeightM": 300,
+  "lanes": "foot",
+  "color": "#9ac4d8",
+  "material": "steel",
+  "features": "glass-bottomed pedestrian suspension bridge between cliffs",
+  "wiki": "Zhangjiajie Glass Bridge",
+  "src": "https://en.wikipedia.org/wiki/Zhangjiajie_Glass_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   29.3987,
+   110.6982
+  ]
+ },
+ {
+  "id": "helix-bridge",
+  "name": "Helix Bridge",
+  "a": [
+   1.28719,
+   103.85941
+  ],
+  "b": [
+   1.28805,
+   103.86178
+  ],
+  "type": "other",
+  "built": 2010,
+  "gone": null,
+  "lengthM": 280,
+  "lanes": "foot",
+  "color": "#b8c0c8",
+  "material": "steel",
+  "features": "double-helix stainless-steel footbridge, Singapore",
+  "wiki": "Helix Bridge",
+  "src": "https://en.wikipedia.org/wiki/Helix_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   1.28762,
+   103.8606
+  ]
+ },
+ {
+  "id": "rio-antirrio-bridge",
+  "name": "Rio–Antirrio Bridge",
+  "a": [
+   38.30865,
+   21.76993
+  ],
+  "b": [
+   38.33415,
+   21.77567
+  ],
+  "type": "cable-stayed",
+  "built": 2004,
+  "start": 1998,
+  "gone": null,
+  "lengthM": 2880,
+  "mainSpanM": 560,
+  "spans": 4,
+  "towerHeightM": 227,
+  "towers": 4,
+  "lanes": "road",
+  "color": "#e8edf2",
+  "material": "steel",
+  "features": "multi-span cable-stayed bridge across the Gulf of Corinth",
+  "wiki": "Rio–Antirrio Bridge",
+  "src": "https://en.wikipedia.org/wiki/Rio%E2%80%93Antirrio_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   38.3214,
+   21.7728
+  ]
+ },
+ {
+  "id": "sunniberg-bridge",
+  "name": "Sunniberg Bridge",
+  "a": [
+   46.88303,
+   9.85662
+  ],
+  "b": [
+   46.88776,
+   9.85662
+  ],
+  "type": "cable-stayed",
+  "built": 1998,
+  "gone": null,
+  "lengthM": 526,
+  "mainSpanM": 140,
+  "lanes": "road",
+  "color": "#c9c1b0",
+  "material": "concrete",
+  "features": "gently curved extradosed bridge in Swiss Alps",
+  "wiki": "Sunniberg Bridge",
+  "src": "https://en.wikipedia.org/wiki/Sunniberg_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   46.88539,
+   9.85662
+  ]
+ },
+ {
+  "id": "tay-road-bridge",
+  "name": "Tay Road Bridge",
+  "a": [
+   56.44366,
+   -2.95286
+  ],
+  "b": [
+   56.46358,
+   -2.9465
+  ],
+  "type": "other",
+  "built": 1966,
+  "gone": null,
+  "lengthM": 2250,
+  "spans": 42,
+  "lanes": "road",
+  "color": "#9a9a92",
+  "material": "concrete",
+  "features": "concrete box-girder road bridge over the Firth of Tay",
+  "wiki": "Tay Road Bridge",
+  "src": "https://en.wikipedia.org/wiki/Tay_Road_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   56.45362,
+   -2.94968
+  ]
+ },
+ {
+  "id": "skye-bridge",
+  "name": "Skye Bridge",
+  "a": [
+   57.27958,
+   -5.73556
+  ],
+  "b": [
+   57.27958,
+   -5.74388
+  ],
+  "type": "other",
+  "built": 1995,
+  "gone": null,
+  "lengthM": 500,
+  "lanes": "road",
+  "color": "#9a9a92",
+  "material": "concrete",
+  "features": "box girder bridge to the Isle of Skye",
+  "wiki": "Skye Bridge",
+  "src": "https://en.wikipedia.org/wiki/Skye_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   57.27958,
+   -5.73972
+  ]
+ },
+ {
+  "id": "dean-bridge",
+  "name": "Dean Bridge",
+  "a": [
+   55.95277,
+   -3.21339
+  ],
+  "b": [
+   55.95339,
+   -3.21529
+  ],
+  "type": "stone-arch",
+  "built": 1832,
+  "gone": null,
+  "lengthM": 136,
+  "mainSpanM": 29,
+  "spans": 4,
+  "deckHeightM": 32,
+  "lanes": "road",
+  "color": "#c9bda3",
+  "material": "stone",
+  "features": "Telford's four-arch bridge over Water of Leith, Edinburgh",
+  "wiki": "Dean Bridge",
+  "src": "https://en.wikipedia.org/wiki/Dean_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   55.95308,
+   -3.21434
+  ]
+ },
+ {
+  "id": "union-chain-bridge",
+  "name": "Union Chain Bridge",
+  "a": [
+   55.75229,
+   -2.10803
+  ],
+  "b": [
+   55.75271,
+   -2.10597
+  ],
+  "type": "suspension",
+  "built": 1820,
+  "gone": null,
+  "lengthM": 137,
+  "mainSpanM": 137,
+  "spans": 1,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#4a4a4a",
+  "material": "iron",
+  "features": "oldest suspension bridge in Europe still carrying vehicles, England–Scotland border",
+  "wiki": "Union Chain Bridge",
+  "src": "https://en.wikipedia.org/wiki/Union_Chain_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   55.7525,
+   -2.107
+  ]
+ },
+ {
+  "id": "hammersmith-bridge",
+  "name": "Hammersmith Bridge",
+  "a": [
+   51.48926,
+   -0.23001
+  ],
+  "b": [
+   51.4874,
+   -0.23054
+  ],
+  "type": "suspension",
+  "built": 1887,
+  "gone": null,
+  "lengthM": 210,
+  "mainSpanM": 122,
+  "spans": 3,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#4a6a4a",
+  "material": "iron",
+  "features": "green-and-gold Victorian suspension bridge, Thames",
+  "wiki": "Hammersmith Bridge",
+  "src": "https://en.wikipedia.org/wiki/Hammersmith_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   51.48833,
+   -0.23028
+  ]
+ },
+ {
+  "id": "lambeth-bridge",
+  "name": "Lambeth Bridge",
+  "a": [
+   51.49344,
+   -0.12364
+  ],
+  "b": [
+   51.49545,
+   -0.12247
+  ],
+  "type": "steel-arch",
+  "built": 1932,
+  "gone": null,
+  "lengthM": 237,
+  "spans": 5,
+  "lanes": "road",
+  "color": "#a8483d",
+  "material": "steel",
+  "features": "red-painted steel arch bridge by Houses of Parliament",
+  "wiki": "Lambeth Bridge",
+  "src": "https://en.wikipedia.org/wiki/Lambeth_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   51.49444,
+   -0.12306
+  ]
+ },
+ {
+  "id": "blackfriars-bridge",
+  "name": "Blackfriars Bridge",
+  "a": [
+   51.50846,
+   -0.10475
+  ],
+  "b": [
+   51.51094,
+   -0.10405
+  ],
+  "type": "steel-arch",
+  "built": 1869,
+  "gone": null,
+  "lengthM": 281,
+  "spans": 5,
+  "lanes": "road",
+  "color": "#7a1f2e",
+  "material": "iron",
+  "features": "red arch bridge with Victorian pillars; railway bridge alongside",
+  "wiki": "Blackfriars Bridge",
+  "src": "https://en.wikipedia.org/wiki/Blackfriars_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   51.5097,
+   -0.1044
+  ]
+ },
+ {
+  "id": "albert-bridge-london",
+  "name": "Albert Bridge, London",
+  "a": [
+   51.48292,
+   -0.16789
+  ],
+  "b": [
+   51.48168,
+   -0.16551
+  ],
+  "type": "suspension",
+  "built": 1873,
+  "gone": null,
+  "lengthM": 216,
+  "mainSpanM": 122,
+  "spans": 3,
+  "towers": 2,
+  "lanes": "road",
+  "color": "#e8c8d0",
+  "material": "iron",
+  "features": "pastel-painted, lit with 4,000 bulbs, 'Trembling Lady'",
+  "wiki": "Albert Bridge, London",
+  "src": "https://en.wikipedia.org/wiki/Albert_Bridge%2C_London",
+  "endsSrc": "bearing",
+  "center": [
+   51.4823,
+   -0.1667
+  ]
+ },
+ {
+  "id": "pont-de-lalma",
+  "name": "Pont de l'Alma",
+  "a": [
+   48.8629,
+   2.30128
+  ],
+  "b": [
+   48.8641,
+   2.30232
+  ],
+  "type": "stone-arch",
+  "built": 1974,
+  "gone": null,
+  "lengthM": 153,
+  "spans": 1,
+  "lanes": "road",
+  "color": "#c9c1b0",
+  "material": "steel",
+  "features": "modern steel arch replaces 1856 stone bridge with Zouave statue",
+  "wiki": "Pont de l'Alma",
+  "src": "https://en.wikipedia.org/wiki/Pont_de_l%27Alma",
+  "endsSrc": "bearing",
+  "center": [
+   48.8635,
+   2.3018
+  ]
+ },
+ {
+  "id": "pont-de-bir-hakeim",
+  "name": "Pont de Bir-Hakeim",
+  "a": [
+   48.85624,
+   2.28902
+  ],
+  "b": [
+   48.85487,
+   2.28654
+  ],
+  "type": "steel-arch",
+  "built": 1905,
+  "gone": null,
+  "lengthM": 237,
+  "spans": 3,
+  "lanes": "road+rail",
+  "color": "#5a6a5a",
+  "material": "steel",
+  "features": "two-tier Paris bridge with métro viaduct overhead",
+  "wiki": "Pont de Bir-Hakeim",
+  "src": "https://en.wikipedia.org/wiki/Pont_de_Bir-Hakeim",
+  "endsSrc": "bearing",
+  "center": [
+   48.85556,
+   2.28778
+  ]
+ },
+ {
+  "id": "erasmusbrug",
+  "name": "Erasmusbrug",
+  "a": [
+   51.90562,
+   4.48768
+  ],
+  "b": [
+   51.91272,
+   4.48565
+  ],
+  "type": "cable-stayed",
+  "built": 1996,
+  "start": 1990,
+  "gone": null,
+  "lengthM": 802,
+  "mainSpanM": 284,
+  "spans": 1,
+  "towerHeightM": 139,
+  "towers": 1,
+  "lanes": "road",
+  "color": "#d8dde2",
+  "material": "steel",
+  "features": "'The Swan': asymmetric pylon with slender stays, Rotterdam",
+  "wiki": "Erasmusbrug",
+  "src": "https://en.wikipedia.org/wiki/Erasmusbrug",
+  "endsSrc": "bearing",
+  "center": [
+   51.90917,
+   4.48667
+  ]
+ },
+ {
+  "id": "magere-brug",
+  "name": "Magere Brug",
+  "a": [
+   52.36361,
+   4.90206
+  ],
+  "b": [
+   52.36361,
+   4.90294
+  ],
+  "type": "movable",
+  "built": 1691,
+  "gone": null,
+  "rebuilt": [
+   [
+    1871,
+    "rebuilt"
+   ],
+   [
+    1934,
+    "rebuilt again"
+   ]
+  ],
+  "lengthM": 60,
+  "lanes": "road",
+  "color": "#e8e8e8",
+  "material": "timber",
+  "features": "white double-leaf wooden drawbridge over Amstel, Amsterdam",
+  "wiki": "Magere Brug",
+  "src": "https://en.wikipedia.org/wiki/Magere_Brug",
+  "endsSrc": "bearing",
+  "center": [
+   52.36361,
+   4.9025
+  ]
+ },
+ {
+  "id": "rama-ix-bridge",
+  "name": "Rama IX Bridge",
+  "a": [
+   13.67876,
+   100.51776
+  ],
+  "b": [
+   13.68536,
+   100.52024
+  ],
+  "type": "cable-stayed",
+  "built": 1987,
+  "gone": null,
+  "lengthM": 781,
+  "mainSpanM": 450,
+  "spans": 1,
+  "towerHeightM": 87,
+  "towers": 1,
+  "lanes": "road",
+  "color": "#d8dde2",
+  "material": "concrete",
+  "features": "asymmetrical cable-stayed bridge across the Chao Phraya, Bangkok",
+  "wiki": "Rama IX Bridge",
+  "src": "https://en.wikipedia.org/wiki/Rama_IX_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   13.68206,
+   100.519
+  ]
+ },
+ {
+  "id": "hangzhou-bay-bridge",
+  "name": "Hangzhou Bay Bridge",
+  "a": [
+   30.43732,
+   121.12798
+  ],
+  "b": [
+   30.46268,
+   121.13869
+  ],
+  "type": "other",
+  "built": 2008,
+  "start": 2003,
+  "gone": null,
+  "lengthM": 35673,
+  "mainSpanM": 448,
+  "lanes": "road",
+  "color": "#9aa5b0",
+  "material": "concrete",
+  "features": "S-curved sea bridge about 36 km long, Zhejiang",
+  "wiki": "Hangzhou Bay Bridge",
+  "src": "https://en.wikipedia.org/wiki/Hangzhou_Bay_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   30.45,
+   121.13333
+  ]
+ },
+ {
+  "id": "bayonne-bridge",
+  "name": "Bayonne Bridge",
+  "a": [
+   40.6419,
+   -74.15264
+  ],
+  "b": [
+   40.6419,
+   -74.13176
+  ],
+  "type": "steel-arch",
+  "built": 1931,
+  "gone": null,
+  "lengthM": 1762,
+  "mainSpanM": 504,
+  "spans": 1,
+  "lanes": "road",
+  "color": "#7aa0a8",
+  "material": "steel",
+  "features": "steel arch near Newark Bay, deck raised in 2017",
+  "wiki": "Bayonne Bridge",
+  "src": "https://en.wikipedia.org/wiki/Bayonne_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   40.6419,
+   -74.1422
+  ]
+ },
+ {
+  "id": "cape-cod-canal-railroad-bridge",
+  "name": "Cape Cod Canal Railroad Bridge",
+  "a": [
+   41.75543,
+   -70.61361
+  ],
+  "b": [
+   41.72845,
+   -70.61361
+  ],
+  "type": "movable",
+  "built": 1935,
+  "gone": null,
+  "mainSpanM": 166,
+  "spans": 1,
+  "towers": 2,
+  "lanes": "rail",
+  "color": "#555555",
+  "material": "steel",
+  "features": "vertical-lift railroad bridge on Cape Cod Canal",
+  "wiki": "Cape Cod Canal Railroad Bridge",
+  "src": "https://en.wikipedia.org/wiki/Cape_Cod_Canal_Railroad_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   41.74194,
+   -70.61361
+  ]
+ },
+ {
+  "id": "bridge-of-the-americas",
+  "name": "Bridge of the Americas",
+  "a": [
+   8.93663,
+   -79.56124
+  ],
+  "b": [
+   8.94948,
+   -79.56876
+  ],
+  "type": "steel-arch",
+  "built": 1962,
+  "gone": null,
+  "lengthM": 1650,
+  "mainSpanM": 344,
+  "deckHeightM": 61,
+  "lanes": "road",
+  "color": "#8aa0a8",
+  "material": "steel",
+  "features": "steel arch bridge at Pacific entrance of Panama Canal",
+  "wiki": "Bridge of the Americas",
+  "src": "https://en.wikipedia.org/wiki/Bridge_of_the_Americas",
+  "endsSrc": "bearing",
+  "center": [
+   8.94306,
+   -79.565
+  ]
+ },
+ {
+  "id": "jacques-cartier-bridge",
+  "name": "Jacques Cartier Bridge",
+  "a": [
+   45.51032,
+   -73.52634
+  ],
+  "b": [
+   45.53135,
+   -73.54367
+  ],
+  "type": "cantilever",
+  "built": 1930,
+  "gone": null,
+  "lengthM": 2700,
+  "mainSpanM": 334,
+  "lanes": "road",
+  "color": "#7a8a95",
+  "material": "steel",
+  "features": "cantilever truss bridge over the St. Lawrence in Montréal, lit in changing colours",
+  "wiki": "Jacques Cartier Bridge",
+  "src": "https://en.wikipedia.org/wiki/Jacques_Cartier_Bridge",
+  "endsSrc": "bearing",
+  "center": [
+   45.52083,
+   -73.535
+  ]
+ },
+ {
+  "id": "hungerford-bridge",
+  "name": "Hungerford Bridge and Golden Jubilee Bridges",
+  "a": [
+   51.50447,
+   -0.11954
+  ],
+  "b": [
+   51.50775,
+   -0.12046
+  ],
+  "type": "truss",
+  "built": 1864,
+  "gone": null,
+  "rebuilt": [
+   [
+    1845,
+    "first suspension bridge"
+   ],
+   [
+    1864,
+    "railway bridge"
+   ],
+   [
+    2002,
+    "Golden Jubilee footbridges"
+   ]
+  ],
+  "lengthM": 370,
+  "lanes": "rail",
+  "color": "#8a8a8a",
+  "material": "steel",
+  "features": "rail truss with two cable-stayed footbridges, London",
+  "wiki": "Hungerford Bridge and Golden Jubilee Bridges",
+  "src": "https://en.wikipedia.org/wiki/Hungerford_Bridge_and_Golden_Jubilee_Bridges",
+  "endsSrc": "bearing",
+  "center": [
+   51.50611,
+   -0.12
+  ]
+ },
+ {
+  "id": "garibaldi-bridge-rome",
+  "name": "Ponte Garibaldi",
+  "a": [
+   41.89066,
+   12.47495
+  ],
+  "b": [
+   41.8916,
+   12.47423
+  ],
+  "type": "other",
+  "built": 1888,
+  "gone": null,
+  "lengthM": 120,
+  "spans": 3,
+  "lanes": "road",
+  "color": "#c9c1b0",
+  "material": "stone",
+  "features": "Tiber bridge by Tiber Island",
+  "wiki": "Ponte Garibaldi",
+  "src": "https://en.wikipedia.org/wiki/Ponte_Garibaldi",
+  "endsSrc": "bearing",
+  "center": [
+   41.89113,
+   12.47459
+  ]
+ },
+ {
+  "id": "ponte-vittorio-emanuele-ii",
+  "name": "Ponte Vittorio Emanuele II",
+  "a": [
+   41.90087,
+   12.4636
+  ],
+  "b": [
+   41.90135,
+   12.46473
+  ],
+  "type": "stone-arch",
+  "built": 1911,
+  "gone": null,
+  "lengthM": 108,
+  "spans": 3,
+  "lanes": "road",
+  "color": "#d0c8b0",
+  "material": "stone",
+  "features": "three-arch bridge with bronze winged-victory groups, leads to Vatican",
+  "wiki": "Ponte Vittorio Emanuele II",
+  "src": "https://en.wikipedia.org/wiki/Ponte_Vittorio_Emanuele_II",
+  "endsSrc": "bearing",
+  "center": [
+   41.90111,
+   12.46417
+  ]
+ },
+ {
+  "id": "ponte-alla-carraia",
+  "name": "Ponte alla Carraia",
+  "a": [
+   43.77024,
+   11.24662
+  ],
+  "b": [
+   43.77024,
+   11.24787
+  ],
+  "type": "stone-arch",
+  "built": 1218,
+  "gone": null,
+  "rebuilt": [
+   [
+    1944,
+    "destroyed"
+   ],
+   [
+    1948,
+    "rebuilt"
+   ]
+  ],
+  "lengthM": 100,
+  "spans": 5,
+  "lanes": "road",
+  "color": "#c9c1b0",
+  "material": "stone",
+  "features": "Florence bridge over the Arno",
+  "wiki": "Ponte alla Carraia",
+  "src": "https://en.wikipedia.org/wiki/Ponte_alla_Carraia",
+  "endsSrc": "bearing",
+  "center": [
+   43.77024,
+   11.24725
+  ]
+ },
+ {
+  "id": "ponte-pietra",
+  "name": "Ponte Pietra (Verona)",
+  "a": [
+   45.44734,
+   10.99961
+  ],
+  "b": [
+   45.44806,
+   11.00019
+  ],
+  "type": "roman-arch",
+  "built": -100,
+  "gone": null,
+  "rebuilt": [
+   [
+    1945,
+    "destroyed"
+   ],
+   [
+    1957,
+    "rebuilt"
+   ]
+  ],
+  "lengthM": 92,
+  "spans": 5,
+  "lanes": "foot",
+  "color": "#c9bda3",
+  "material": "stone",
+  "features": "Roman arches of stone and later brick, Verona Adige",
+  "wiki": "Ponte Pietra (Verona)",
+  "src": "https://en.wikipedia.org/wiki/Ponte_Pietra_%28Verona%29",
+  "endsSrc": "bearing",
+  "center": [
+   45.4477,
+   10.9999
+  ]
+ },
+ {
+  "id": "pons-aelius",
+  "name": "Pons Aelius",
+  "a": [
+   54.9821,
+   -1.6059
+  ],
+  "b": [
+   54.95553,
+   -1.61406
+  ],
+  "type": "roman-arch",
+  "built": 122,
+  "gone": null,
+  "lanes": "road",
+  "color": "#9a9486",
+  "material": "stone",
+  "features": "Roman bridge at Newcastle (Hadrian)",
+  "wiki": "Pons Aelius",
+  "src": "https://en.wikipedia.org/wiki/Pons_Aelius",
+  "endsSrc": "bearing",
+  "center": [
+   54.96881,
+   -1.60998
+  ]
+ },
+ {
+  "id": "puente-de-segovia-madrid",
+  "name": "Puente de Segovia, Madrid",
+  "a": [
+   40.40939,
+   -3.70635
+  ],
+  "b": [
+   40.41861,
+   -3.73965
+  ],
+  "type": "stone-arch",
+  "built": 1584,
+  "gone": null,
+  "lanes": "road",
+  "color": "#a8a08c",
+  "material": "stone",
+  "features": "Herrerian granite bridge across Manzanares, Madrid",
+  "wiki": "Puente de Segovia, Madrid",
+  "src": "https://en.wikipedia.org/wiki/Puente_de_Segovia%2C_Madrid",
+  "endsSrc": "bearing",
+  "center": [
+   40.414,
+   -3.723
+  ]
+ },
+ {
+  "id": "puente-romano-merida",
+  "name": "Puente Romano, Mérida",
+  "a": [
+   38.91488,
+   -6.35476
+  ],
+  "b": [
+   38.91132,
+   -6.34684
+  ],
+  "type": "roman-arch",
+  "built": -25,
+  "gone": null,
+  "lengthM": 792,
+  "spans": 60,
+  "lanes": "foot",
+  "color": "#9a9486",
+  "material": "stone",
+  "features": "longest Roman bridge, 60 granite arches over Guadiana",
+  "wiki": "Puente Romano, Mérida",
+  "src": "https://en.wikipedia.org/wiki/Puente_Romano%2C_M%C3%A9rida",
+  "endsSrc": "bearing",
+  "center": [
+   38.9131,
+   -6.3508
+  ]
+ }
+]
