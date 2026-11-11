@@ -1,0 +1,326 @@
+{
+ "format": "q20",
+ "stride": 20,
+ "variants": {
+  "spear:0": {
+   "first": 0,
+   "count": 2841
+  },
+  "spear:1": {
+   "first": 2841,
+   "count": 2841
+  },
+  "spear:2": {
+   "first": 5682,
+   "count": 2841
+  },
+  "spear:3": {
+   "first": 8523,
+   "count": 2841
+  },
+  "archer:0": {
+   "first": 11364,
+   "count": 2004
+  },
+  "archer:1": {
+   "first": 13368,
+   "count": 2004
+  },
+  "archer:2": {
+   "first": 15372,
+   "count": 2004
+  },
+  "archer:3": {
+   "first": 17376,
+   "count": 2004
+  },
+  "horse_ancient:0": {
+   "first": 19380,
+   "count": 3837
+  },
+  "horse_ancient:1": {
+   "first": 23217,
+   "count": 3837
+  },
+  "horse_ancient:2": {
+   "first": 27054,
+   "count": 3837
+  },
+  "horse_ancient:3": {
+   "first": 30891,
+   "count": 3837
+  },
+  "chariot:0": {
+   "first": 34728,
+   "count": 6798
+  },
+  "chariot:1": {
+   "first": 41526,
+   "count": 6798
+  },
+  "chariot:2": {
+   "first": 48324,
+   "count": 6798
+  },
+  "chariot:3": {
+   "first": 55122,
+   "count": 6846
+  },
+  "knight:0": {
+   "first": 61968,
+   "count": 4269
+  },
+  "knight:1": {
+   "first": 66237,
+   "count": 4269
+  },
+  "knight:2": {
+   "first": 70506,
+   "count": 4269
+  },
+  "knight:3": {
+   "first": 74775,
+   "count": 4269
+  },
+  "footman:0": {
+   "first": 79044,
+   "count": 2310
+  },
+  "footman:1": {
+   "first": 81354,
+   "count": 2310
+  },
+  "footman:2": {
+   "first": 83664,
+   "count": 2310
+  },
+  "footman:3": {
+   "first": 85974,
+   "count": 2310
+  },
+  "crossbow:0": {
+   "first": 88284,
+   "count": 2322
+  },
+  "crossbow:1": {
+   "first": 90606,
+   "count": 2328
+  },
+  "crossbow:2": {
+   "first": 92934,
+   "count": 2328
+  },
+  "crossbow:3": {
+   "first": 95262,
+   "count": 2328
+  },
+  "pike:0": {
+   "first": 97590,
+   "count": 2361
+  },
+  "pike:1": {
+   "first": 99951,
+   "count": 2361
+  },
+  "pike:2": {
+   "first": 102312,
+   "count": 2361
+  },
+  "pike:3": {
+   "first": 104673,
+   "count": 2361
+  },
+  "musket:0": {
+   "first": 107034,
+   "count": 2022
+  },
+  "musket:1": {
+   "first": 109056,
+   "count": 2022
+  },
+  "musket:2": {
+   "first": 111078,
+   "count": 2028
+  },
+  "musket:3": {
+   "first": 113106,
+   "count": 2022
+  },
+  "line:0": {
+   "first": 115128,
+   "count": 2094
+  },
+  "line:1": {
+   "first": 117222,
+   "count": 2094
+  },
+  "line:2": {
+   "first": 119316,
+   "count": 2100
+  },
+  "line:3": {
+   "first": 121416,
+   "count": 2094
+  },
+  "hussar:0": {
+   "first": 123510,
+   "count": 3732
+  },
+  "hussar:1": {
+   "first": 127242,
+   "count": 3732
+  },
+  "hussar:2": {
+   "first": 130974,
+   "count": 3732
+  },
+  "hussar:3": {
+   "first": 134706,
+   "count": 3732
+  },
+  "cannon:0": {
+   "first": 138438,
+   "count": 4896
+  },
+  "cannon:1": {
+   "first": 143334,
+   "count": 4896
+  },
+  "cannon:2": {
+   "first": 148230,
+   "count": 5088
+  },
+  "cannon:3": {
+   "first": 153318,
+   "count": 5550
+  },
+  "drummer:0": {
+   "first": 158868,
+   "count": 2184
+  },
+  "drummer:1": {
+   "first": 161052,
+   "count": 2184
+  },
+  "drummer:2": {
+   "first": 163236,
+   "count": 2184
+  },
+  "drummer:3": {
+   "first": 165420,
+   "count": 2184
+  },
+  "rifle:0": {
+   "first": 167604,
+   "count": 2064
+  },
+  "rifle:1": {
+   "first": 169668,
+   "count": 2064
+  },
+  "rifle:2": {
+   "first": 171732,
+   "count": 2100
+  },
+  "rifle:3": {
+   "first": 173832,
+   "count": 2064
+  },
+  "mg:0": {
+   "first": 175896,
+   "count": 2622
+  },
+  "mg:1": {
+   "first": 178518,
+   "count": 2622
+  },
+  "mg:2": {
+   "first": 181140,
+   "count": 2622
+  },
+  "mg:3": {
+   "first": 183762,
+   "count": 3060
+  },
+  "field_gun:0": {
+   "first": 186822,
+   "count": 2898
+  },
+  "field_gun:1": {
+   "first": 189720,
+   "count": 2898
+  },
+  "field_gun:2": {
+   "first": 192618,
+   "count": 3090
+  },
+  "field_gun:3": {
+   "first": 195708,
+   "count": 3654
+  },
+  "soldier:0": {
+   "first": 199362,
+   "count": 2052
+  },
+  "soldier:1": {
+   "first": 201414,
+   "count": 2052
+  },
+  "soldier:2": {
+   "first": 203466,
+   "count": 2088
+  },
+  "soldier:3": {
+   "first": 205554,
+   "count": 2052
+  },
+  "tank:0": {
+   "first": 207606,
+   "count": 5928
+  },
+  "tank:1": {
+   "first": 213534,
+   "count": 5928
+  },
+  "tank:2": {
+   "first": 219462,
+   "count": 6120
+  },
+  "tank:3": {
+   "first": 225582,
+   "count": 7350
+  },
+  "jeep:0": {
+   "first": 232932,
+   "count": 3828
+  },
+  "jeep:1": {
+   "first": 236760,
+   "count": 3828
+  },
+  "jeep:2": {
+   "first": 240588,
+   "count": 3828
+  },
+  "jeep:3": {
+   "first": 244416,
+   "count": 4572
+  },
+  "flag:0": {
+   "first": 248988,
+   "count": 2196
+  },
+  "flag:1": {
+   "first": 251184,
+   "count": 2196
+  },
+  "flag:2": {
+   "first": 253380,
+   "count": 2196
+  },
+  "flag:3": {
+   "first": 255576,
+   "count": 2196
+  }
+ }
+}

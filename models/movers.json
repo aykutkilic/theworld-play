@@ -1,0 +1,46 @@
+{
+ "format": "q20",
+ "stride": 20,
+ "variants": {
+  "caravan": {
+   "first": 0,
+   "count": 8664
+  },
+  "oxcart": {
+   "first": 8664,
+   "count": 4962
+  },
+  "horsecart": {
+   "first": 13626,
+   "count": 5094
+  },
+  "truck": {
+   "first": 18720,
+   "count": 2550
+  },
+  "steamtrain": {
+   "first": 21270,
+   "count": 11958
+  },
+  "train": {
+   "first": 33228,
+   "count": 9096
+  },
+  "riverboat": {
+   "first": 42324,
+   "count": 4974
+  },
+  "barge": {
+   "first": 47298,
+   "count": 11268
+  },
+  "port_old": {
+   "first": 58566,
+   "count": 29010
+  },
+  "port_new": {
+   "first": 87576,
+   "count": 59244
+  }
+ }
+}
