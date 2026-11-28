@@ -1,0 +1,75 @@
+[
+ {
+  "id": "ghazali-ibn-rushd",
+  "title": "Incoherence of the Philosophers vs Incoherence of the Incoherence",
+  "year": 1095,
+  "end": 1180,
+  "lat": 33.3152,
+  "lon": 44.3661,
+  "place": "Baghdad / Cordoba (written)",
+  "sides": [
+   [
+    "Al-Ghazali",
+    "Avicenna's school erred on seventeen points, three of them irreligious"
+   ],
+   [
+    "Averroes (Ibn Rushd)",
+    "Defended the philosophers against al-Ghazali's attack"
+   ]
+  ],
+  "summary": "A written debate across a century: al-Ghazali's 1095 attack on philosophy was answered by Averroes in a dialogue quoting him point by point.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/The_Incoherence_of_the_Philosophers",
+  "wiki": "The Incoherence of the Philosophers"
+ },
+ {
+  "id": "leibniz-clarke",
+  "title": "Leibniz-Clarke correspondence",
+  "year": 1715,
+  "end": 1716,
+  "lat": 51.5,
+  "lon": -0.12,
+  "place": "London / Hanover (letters)",
+  "sides": [
+   [
+    "Leibniz",
+    "Relational space; Newtonianism harms natural theology"
+   ],
+   [
+    "Samuel Clarke (for Newton)",
+    "Absolute space; defended Newton"
+   ]
+  ],
+  "summary": "Letters routed through Caroline of Ansbach about space, free will and the best of all possible worlds; ended with Leibniz's death.",
+  "lines": [],
+  "src": "https://en.wikipedia.org/wiki/Leibniz%E2%80%93Clarke_correspondence",
+  "wiki": "Leibniz–Clarke correspondence"
+ },
+ {
+  "id": "white-horse",
+  "title": "White Horse Dialogue",
+  "year": -280,
+  "lat": 39.9,
+  "lon": 116.4,
+  "place": "State of Zhao",
+  "sides": [
+   [
+    "Sophist (Gongsun Long)",
+    "White horses are not horses"
+   ],
+   [
+    "Objector",
+    "A white horse is a horse"
+   ]
+  ],
+  "summary": "Logical paradox from the Warring States: 'is not' as non-membership rather than identity.",
+  "lines": [
+   [
+    "Sophist",
+    "White horses are not horses"
+   ]
+  ],
+  "src": "https://en.wikipedia.org/wiki/Gongsun_Long",
+  "wiki": "Gongsun Long"
+ }
+]

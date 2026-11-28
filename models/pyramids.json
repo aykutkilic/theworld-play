@@ -1,0 +1,66 @@
+{
+ "format": "q20",
+ "stride": 20,
+ "variants": {
+  "great-pyramid-giza": {
+   "unit": 150.0,
+   "first": 0,
+   "count": 6294
+  },
+  "great-pyramid-giza:core": {
+   "unit": 150.0,
+   "first": 6294,
+   "count": 54408
+  },
+  "pyramid-khafre": {
+   "unit": 150.0,
+   "first": 60702,
+   "count": 3228
+  },
+  "pyramid-khafre:core": {
+   "unit": 150.0,
+   "first": 63930,
+   "count": 8856
+  },
+  "pyramid-menkaure": {
+   "unit": 150.0,
+   "first": 72786,
+   "count": 2568
+  },
+  "pyramid-menkaure:core": {
+   "unit": 150.0,
+   "first": 75354,
+   "count": 13692
+  },
+  "red-pyramid": {
+   "unit": 150.0,
+   "first": 89046,
+   "count": 1362
+  },
+  "red-pyramid:core": {
+   "unit": 150.0,
+   "first": 90408,
+   "count": 43962
+  },
+  "bent-pyramid": {
+   "unit": 150.0,
+   "first": 134370,
+   "count": 2736
+  },
+  "bent-pyramid:core": {
+   "unit": 150.0,
+   "first": 137106,
+   "count": 3828
+  },
+  "pyramid-meidum": {
+   "unit": 150.0,
+   "first": 140934,
+   "count": 1302
+  },
+  "pyramid-meidum:core": {
+   "unit": 150.0,
+   "first": 142236,
+   "count": 4758
+  }
+ }
+}

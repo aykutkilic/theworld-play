@@ -1,0 +1,71 @@
+{
+ "format": "q20",
+ "stride": 20,
+ "variants": {
+  "trireme": {
+   "L": 37,
+   "first": 0,
+   "count": 5136
+  },
+  "longship": {
+   "L": 23,
+   "first": 5136,
+   "count": 3804
+  },
+  "cog": {
+   "L": 24,
+   "first": 8940,
+   "count": 2664
+  },
+  "carrack": {
+   "L": 36,
+   "first": 11604,
+   "count": 4674
+  },
+  "galleon": {
+   "L": 45,
+   "first": 16278,
+   "count": 6168
+  },
+  "ship_of_line": {
+   "L": 52,
+   "first": 22446,
+   "count": 7920
+  },
+  "dhow": {
+   "L": 22,
+   "first": 30366,
+   "count": 2046
+  },
+  "junk": {
+   "L": 30,
+   "first": 32412,
+   "count": 4350
+  },
+  "steamer": {
+   "L": 70,
+   "first": 36762,
+   "count": 4848
+  },
+  "ironclad": {
+   "L": 120,
+   "first": 41610,
+   "count": 8904
+  },
+  "liner": {
+   "L": 240,
+   "first": 50514,
+   "count": 21930
+  },
+  "freighter": {
+   "L": 180,
+   "first": 72444,
+   "count": 42852
+  },
+  "fishing": {
+   "L": 9,
+   "first": 115296,
+   "count": 1494
+  }
+ }
+}

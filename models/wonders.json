@@ -1,0 +1,141 @@
+{
+ "format": "q20",
+ "stride": 20,
+ "variants": {
+  "great-pyramid-giza": {
+   "unit": 150.0,
+   "first": 0,
+   "count": 32730
+  },
+  "parthenon": {
+   "unit": 68.0,
+   "first": 32730,
+   "count": 25818
+  },
+  "colosseum": {
+   "unit": 109.0,
+   "first": 58548,
+   "count": 53472
+  },
+  "eiffel-tower": {
+   "unit": 100.0,
+   "first": 112020,
+   "count": 16368
+  },
+  "big-ben": {
+   "unit": 100.0,
+   "first": 128388,
+   "count": 14280
+  },
+  "notre-dame-paris": {
+   "unit": 130.0,
+   "first": 142668,
+   "count": 21075
+  },
+  "taj-mahal": {
+   "unit": 150.0,
+   "first": 163743,
+   "count": 31836
+  },
+  "hagia-sophia:church": {
+   "unit": 90.0,
+   "first": 195579,
+   "count": 17970
+  },
+  "hagia-sophia:m1": {
+   "unit": 90.0,
+   "first": 213549,
+   "count": 19050
+  },
+  "hagia-sophia:m2": {
+   "unit": 90.0,
+   "first": 232599,
+   "count": 20160
+  },
+  "hagia-sophia:m4": {
+   "unit": 90.0,
+   "first": 252759,
+   "count": 22908
+  },
+  "statue-of-liberty": {
+   "unit": 100.0,
+   "first": 275667,
+   "count": 5172
+  },
+  "christ-the-redeemer": {
+   "unit": 100.0,
+   "first": 280839,
+   "count": 4824
+  },
+  "sydney-opera-house": {
+   "unit": 100.0,
+   "first": 285663,
+   "count": 23541
+  },
+  "burj-khalifa": {
+   "unit": 100.0,
+   "first": 309204,
+   "count": 43464
+  },
+  "empire-state-building": {
+   "unit": 100.0,
+   "first": 352668,
+   "count": 26586
+  },
+  "petronas-towers": {
+   "unit": 100.0,
+   "first": 379254,
+   "count": 54354
+  },
+  "cn-tower": {
+   "unit": 150.0,
+   "first": 433608,
+   "count": 9678
+  },
+  "leaning-tower-pisa": {
+   "unit": 70.0,
+   "first": 443286,
+   "count": 18186
+  },
+  "great-sphinx-giza": {
+   "unit": 100.0,
+   "first": 461472,
+   "count": 3810
+  },
+  "stonehenge": {
+   "unit": 100.0,
+   "first": 465282,
+   "count": 3588
+  },
+  "pantheon": {
+   "unit": 100.0,
+   "first": 468870,
+   "count": 9876
+  },
+  "el-castillo-chichen-itza": {
+   "unit": 100.0,
+   "first": 478746,
+   "count": 9642
+  },
+  "angkor-wat": {
+   "unit": 1300.0,
+   "first": 488388,
+   "count": 13932
+  },
+  "moai-rapa-nui": {
+   "unit": 100.0,
+   "first": 502320,
+   "count": 1656
+  },
+  "blue-mosque": {
+   "unit": 90.0,
+   "first": 503976,
+   "count": 20604
+  },
+  "sagrada-familia": {
+   "unit": 100.0,
+   "first": 524580,
+   "count": 42282
+  }
+ }
+}

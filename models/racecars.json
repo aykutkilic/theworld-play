@@ -1,0 +1,50 @@
+{
+ "format": "q20",
+ "stride": 20,
+ "variants": {
+  "gp1906": {
+   "first": 0,
+   "count": 4824
+  },
+  "gp1925": {
+   "first": 4824,
+   "count": 3186
+  },
+  "silver1935": {
+   "first": 8010,
+   "count": 4608
+  },
+  "front1955": {
+   "first": 12618,
+   "count": 3534
+  },
+  "rear1963": {
+   "first": 16152,
+   "count": 3630
+  },
+  "wedge1975": {
+   "first": 19782,
+   "count": 3720
+  },
+  "turbo1986": {
+   "first": 23502,
+   "count": 4044
+  },
+  "nose1998": {
+   "first": 27546,
+   "count": 4500
+  },
+  "modern2012": {
+   "first": 32046,
+   "count": 4596
+  },
+  "halo2019": {
+   "first": 36642,
+   "count": 4956
+  },
+  "ground2022": {
+   "first": 41598,
+   "count": 5964
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "format": "q20",
+ "stride": 20,
+ "variants": {
+  "castle_west": {
+   "W": 92.0,
+   "first": 0,
+   "count": 34956
+  },
+  "star_fort": {
+   "W": 245.0,
+   "first": 34956,
+   "count": 21762
+  },
+  "castle_japanese": {
+   "W": 130.0,
+   "first": 56718,
+   "count": 10956
+  },
+  "castrum": {
+   "W": 140.0,
+   "first": 67674,
+   "count": 29916
+  }
+ }
+}
